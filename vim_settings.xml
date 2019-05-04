@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1556930289808">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/util/Vector.class" timestamp="1556356982110">
         <mark key="'" line="317" column="30" />
         <mark key="[" line="19" column="24" />
@@ -16,9 +13,6 @@
       <file name="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/util/List.class" timestamp="1556414091611">
         <mark key="'" line="83" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/util/ReadExcel.java" timestamp="1556347887669">
-        <mark key="'" line="77" column="0" />
-      </file>
       <file name="/a.dummy" timestamp="1556421653148">
         <mark key="[" line="0" column="0" />
       </file>
@@ -28,6 +22,55 @@
         <mark key="]" line="281" column="27" />
         <mark key="^" line="281" column="27" />
         <mark key="." line="281" column="27" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/domain/model/module/chat/Client.java" timestamp="1556349916873">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="19" column="28" />
+        <mark key="]" line="19" column="27" />
+        <mark key="^" line="19" column="27" />
+        <mark key="." line="19" column="27" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/Learning" timestamp="1556351080087">
+        <mark key="'" line="14" column="0" />
+      </file>
+      <file name="/a.sql" timestamp="1556930289802">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/module/product/BreedingAnotherResource.java" timestamp="1556930942731">
+        <mark key="'" line="438" column="0" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="^" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/extend/picture/PicController.java" timestamp="1556929834040">
+        <mark key="'" line="780" column="0" />
+        <mark key="[" line="768" column="62" />
+        <mark key="]" line="768" column="61" />
+        <mark key="." line="768" column="61" />
+        <mark key="^" line="768" column="61" />
+      </file>
+      <file name="$USER_HOME$/study/IdeaProjects/ThinkingInJava/src/concurrent/SimpleProducerConsumer.java" timestamp="1556929437616">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="148" column="1" />
+        <mark key="]" line="148" column="0" />
+        <mark key="." line="148" column="0" />
+        <mark key="^" line="148" column="0" />
+      </file>
+      <file name="/Dummy.vm" timestamp="1556192052070">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/util/redisUtils/ReloadRedisUtil.java" timestamp="1556415777921">
+        <mark key="[" line="19" column="18" />
+        <mark key="]" line="5" column="23" />
+        <mark key="^" line="5" column="23" />
+        <mark key="." line="19" column="23" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1556930289808">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/util/ReadExcel.java" timestamp="1556347887669">
+        <mark key="'" line="77" column="0" />
       </file>
       <file name="$USER_HOME$/study/IdeaProjects/ThinkingInJava/src/concurrent/Test1.java" timestamp="1556370344488">
         <mark key="'" line="60" column="34" />
@@ -48,15 +91,8 @@
       <file name="$USER_HOME$/IdeaProjects/MyTomcat/src/simple/Request.java" timestamp="1556172914123">
         <mark key="'" line="67" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/domain/model/module/chat/Client.java" timestamp="1556349916873">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="19" column="28" />
-        <mark key="]" line="19" column="27" />
-        <mark key="^" line="19" column="27" />
-        <mark key="." line="19" column="27" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/Learning" timestamp="1556351080087">
-        <mark key="'" line="14" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/module/management/sheep/SheepInfoResource.java" timestamp="1556930666446">
+        <mark key="'" line="307" column="0" />
       </file>
       <file name="$USER_HOME$/study/IdeaProjects/ThinkingInJava/src/concurrent/ProducerConsumer.java" timestamp="1556367874366">
         <mark key="'" line="155" column="26" />
@@ -65,66 +101,27 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1556930289802">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/MyTomcat/src/simple/test.c" timestamp="1556172925581">
         <mark key="'" line="9" column="14" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/domain/service/module/management/sheep/SheepInformationService.java" timestamp="1556931204540">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="228" column="7" />
+        <mark key="]" line="212" column="38" />
+        <mark key="." line="212" column="38" />
+        <mark key="^" line="212" column="38" />
       </file>
       <file name="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/lang/String.class" timestamp="1556201296310">
         <mark key="'" line="26" column="19" />
       </file>
-      <file name="$USER_HOME$/study/IdeaProjects/ThinkingInJava/src/concurrent/ProducerCosumer.java" timestamp="1556200941851">
-        <mark key="'" line="42" column="0" />
-        <mark key="[" line="12" column="26" />
-        <mark key="]" line="12" column="25" />
-        <mark key="n" line="77" column="16" />
-        <mark key="." line="12" column="25" />
-        <mark key="^" line="12" column="25" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/extend/picture/PicController.java" timestamp="1556929834040">
-        <mark key="'" line="780" column="0" />
-        <mark key="[" line="768" column="62" />
-        <mark key="]" line="768" column="61" />
-        <mark key="." line="768" column="61" />
-        <mark key="^" line="768" column="61" />
-      </file>
-      <file name="$USER_HOME$/study/IdeaProjects/ThinkingInJava/src/concurrent/SimpleProducerConsumer.java" timestamp="1556929437616">
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="148" column="1" />
-        <mark key="]" line="148" column="0" />
-        <mark key="." line="148" column="0" />
-        <mark key="^" line="148" column="0" />
-      </file>
       <file name="$USER_HOME$/study/IdeaProjects/ThinkingInJava/src/Demo/ChapterThirteen/SimpleRead.java" timestamp="1556421178426">
         <mark key="'" line="37" column="21" />
-      </file>
-      <file name="/Dummy.vm" timestamp="1556192052070">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/util/redisUtils/ReloadRedisUtil.java" timestamp="1556415777921">
-        <mark key="[" line="19" column="18" />
-        <mark key="]" line="5" column="23" />
-        <mark key="^" line="5" column="23" />
-        <mark key="." line="19" column="23" />
       </file>
       <file name="/fragment.java" timestamp="1556290388611">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="126" column="26" filename="$USER_HOME$/study/IdeaProjects/ThinkingInJava/src/concurrent/ProducerConsumer.java" />
-      <jump line="9" column="0" filename="$USER_HOME$/study/IdeaProjects/ThinkingInJava/src/concurrent/ProducerConsumer.java" />
-      <jump line="266" column="0" filename="$USER_HOME$/study/IdeaProjects/ThinkingInJava/src/concurrent/ProducerConsumer.java" />
-      <jump line="5" column="0" filename="$USER_HOME$/study/IdeaProjects/ThinkingInJava/src/concurrent/ProducerConsumer.java" />
-      <jump line="3" column="0" filename="$USER_HOME$/study/IdeaProjects/ThinkingInJava/src/concurrent/ProducerConsumer.java" />
-      <jump line="246" column="0" filename="$USER_HOME$/study/IdeaProjects/ThinkingInJava/src/concurrent/ProducerConsumer.java" />
-      <jump line="4" column="0" filename="$USER_HOME$/study/IdeaProjects/ThinkingInJava/src/concurrent/ProducerConsumer.java" />
-      <jump line="244" column="0" filename="$USER_HOME$/study/IdeaProjects/ThinkingInJava/src/concurrent/ProducerConsumer.java" />
-      <jump line="24" column="7" filename="$USER_HOME$/study/IdeaProjects/ThinkingInJava/src/concurrent/SimpleProducerConsumer.java" />
-      <jump line="31" column="26" filename="$USER_HOME$/study/IdeaProjects/ThinkingInJava/src/concurrent/SimpleProducerConsumer.java" />
-      <jump line="35" column="0" filename="$USER_HOME$/study/IdeaProjects/ThinkingInJava/src/concurrent/Test1.java" />
-      <jump line="63" column="0" filename="$USER_HOME$/study/IdeaProjects/ThinkingInJava/src/concurrent/Test1.java" />
       <jump line="20" column="0" filename="$USER_HOME$/study/IdeaProjects/ThinkingInJava/src/concurrent/Test1.java" />
       <jump line="28" column="8" filename="$USER_HOME$/study/IdeaProjects/ThinkingInJava/src/concurrent/SimpleProducerConsumer.java" />
       <jump line="40" column="19" filename="$USER_HOME$/study/IdeaProjects/ThinkingInJava/src/concurrent/Test1.java" />
@@ -213,52 +210,64 @@
       <jump line="6" column="9" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/extend/picture/PicController.java" />
       <jump line="759" column="21" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/extend/picture/PicController.java" />
       <jump line="780" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/extend/picture/PicController.java" />
+      <jump line="76" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/module/management/sheep/SheepInfoResource.java" />
+      <jump line="308" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/module/management/sheep/SheepInfoResource.java" />
+      <jump line="239" column="30" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/module/management/sheep/SheepInfoResource.java" />
+      <jump line="309" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/module/management/sheep/SheepInfoResource.java" />
+      <jump line="33" column="19" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/module/management/sheep/SheepInfoResource.java" />
+      <jump line="307" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/module/management/sheep/SheepInfoResource.java" />
+      <jump line="206" column="30" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/domain/service/module/management/sheep/SheepInformationService.java" />
+      <jump line="212" column="14" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/domain/service/module/management/sheep/SheepInformationService.java" />
+      <jump line="127" column="58" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/module/product/BreedingAnotherResource.java" />
+      <jump line="438" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/module/product/BreedingAnotherResource.java" />
+      <jump line="227" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/domain/service/module/management/sheep/SheepInformationService.java" />
+      <jump line="25" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/domain/service/module/management/sheep/SheepInformationService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>WaiteConsumer</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC8qKgogICAgICog5qC55o2u576K55qE5ZWG5qCH6ICz54mM5Y+35ZKM576K5Zy65Y+36I635Y+W576K55qEaWTkv6Hmga8KICAgICAqIEBwYXJhbSB0cmFkZU1hcmtUYWdUYWcg5ZWG5qCH6ICz54mM5Y+3CiAgICAgKiBAcGFyYW0gZmFjdG9yeSDnvorlnLoKICAgICAqIEByZXR1cm4gcmV0dXJuIOe+iuWPqmlkCiAgICAgKi8KICAgIHB1YmxpYyBMb25nIGdldFNoZWVwSWRCeVRyYWRlTWFya1RhZyhTdHJpbmcgdHJhZGVNYXJrVGFnVGFnLCBMb25nIGZhY3RvcnkpIHsKICAgICAgICAvLyDpppblhYjopoHkvb/nlKjmraPliJnooajovr7lvI/pqozor4HllYbmoIfogLPniYznmoTlkIjms5XmgKcKICAgICAgICAvLyDnvJbor5HmraPliJnooajovr7lvI/nmoTlkIjms5XmgKcKICAgICAgICAvLyDopoHpqozor4HnmoTooajovr7lvI8KICAgICAgICBNYXRjaGVyIG1hdGNoZXIgPSBlYXJUYWdQYXR0ZXJuLm1hdGNoZXIodHJhZGVNYXJrVGFnVGFnKTsKICAgICAgICAvLyDliKTmlq3lkIjms5XmgKcKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obWF0Y2hlci5tYXRjaGVzKCkpOwogICAgICAgIGlmIChtYXRjaGVyLm1hdGNoZXMoKSkgewogICAgICAgICAgICAvLyDogLPniYzlj7flkIjms5UKICAgICAgICAgICAgLy8g5aaC5p6c6LaF6L+H5LiA5Liq6ICz54mM5Y+377yM6L+b6KGM5byC5bi45aSE55CGCiAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICByZXR1cm4gc2hlZXBJbmZvcm1hdGlvbk1hcHBlci5nZXRTaGVlcElkQnlUcmFkZU1hcmtUYWcodHJhZGVNYXJrVGFnVGFnLCBmYWN0b3J5KTsKICAgICAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGV4KSB7CiAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIue+iuWcuuiAs+eJjOWPt+mHjeWkje+8gSIpOwogICAgICAgICAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgcmV0dXJuIG51bGw7CiAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>WaiteConsumer</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
         <text>notify</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIENvbmRpdGlvbiBub3RGdWxsID0gcmVlbnRyYW50TG9jay5uZXdDb25kaXRpb24oKTsK</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICog5qC55o2u576K55qE5ZWG5qCH6ICz54mM5Y+35ZKM576K5Zy65Y+36I635Y+W576K55qEaWTkv6Hmga8KICAgICAqIEBwYXJhbSB0cmFkZU1hcmtUYWdUYWcg5ZWG5qCH6ICz54mM5Y+3CiAgICAgKiBAcGFyYW0gZmFjdG9yeSDnvorlnLoKICAgICAqIEByZXR1cm4gcmV0dXJuIOe+iuWPqmlkCiAgICAgKi8KICAgIHB1YmxpYyBMb25nIGdldFNoZWVwSWRCeVRyYWRlTWFya1RhZyhTdHJpbmcgdHJhZGVNYXJrVGFnVGFnLCBMb25nIGZhY3RvcnkpIHsKICAgICAgICAvLyDpppblhYjopoHkvb/nlKjmraPliJnooajovr7lvI/pqozor4HllYbmoIfogLPniYznmoTlkIjms5XmgKcKICAgICAgICAvLyDnvJbor5HmraPliJnooajovr7lvI/nmoTlkIjms5XmgKcKICAgICAgICAvLyDopoHpqozor4HnmoTooajovr7lvI8KICAgICAgICBNYXRjaGVyIG1hdGNoZXIgPSBlYXJUYWdQYXR0ZXJuLm1hdGNoZXIodHJhZGVNYXJrVGFnVGFnKTsKICAgICAgICAvLyDliKTmlq3lkIjms5XmgKcKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obWF0Y2hlci5tYXRjaGVzKCkpOwogICAgICAgIGlmIChtYXRjaGVyLm1hdGNoZXMoKSkgewogICAgICAgICAgICAvLyDogLPniYzlj7flkIjms5UKICAgICAgICAgICAgLy8g5aaC5p6c6LaF6L+H5LiA5Liq6ICz54mM5Y+377yM6L+b6KGM5byC5bi45aSE55CGCiAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICByZXR1cm4gc2hlZXBJbmZvcm1hdGlvbk1hcHBlci5nZXRTaGVlcElkQnlUcmFkZU1hcmtUYWcodHJhZGVNYXJrVGFnVGFnLCBmYWN0b3J5KTsKICAgICAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGV4KSB7CiAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIue+iuWcuuiAs+eJjOWPt+mHjeWkje+8gSIpOwogICAgICAgICAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgcmV0dXJuIG51bGw7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBQYXR0ZXJuIHBhdHRlcm4gPSBQYXR0ZXJuLmNvbXBpbGUoIl5NWzAtOV17Nn0rJCIpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVlbnRyYW50TG9jay5sb2NrKCk7CiAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgd2hpbGUgKGlzRnVsbCgpKSB7CiAgICAgICAgICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgICAgICAgIG5vdEZ1bGwuYXdhaXQoKTsKICAgICAgICAgICAgICAgICAgIH0gY2F0Y2ggKEludGVycnVwdGVkRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICB9CiAgICAgICAgICAgfWZpbmFsbHkgewogICAgICAgICAgICAgICByZWVudHJhbnRMb2NrLnVubG9jaygpOwogICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVlbnRyYW50TG9jay5sb2NrKCk7CiAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgd2hpbGUgKGlzRnVsbCgpKSB7CiAgICAgICAgICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgICAgICAgIG5vdEZ1bGwuYXdhaXQoKTsKICAgICAgICAgICAgICAgICAgIH0gY2F0Y2ggKEludGVycnVwdGVkRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICB9CiAgICAgICAgICAgfWZpbmFsbHkgewogICAgICAgICAgICAgICByZWVudHJhbnRMb2NrLnVubG9jaygpOwogICAgICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVlbnRyYW50TG9jay5sb2NrKCk7CiAgICAgICAgICAgIHRyeXsKICAgICAgICAgICAgICAgIHdoaWxlIChpc0VtcHR5KCkpIHsKICAgICAgICAgICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgICAgICAgICBub3RFbXB0eS5hd2FpdCgpOwogICAgICAgICAgICAgICAgICAgIH0gY2F0Y2ggKEludGVycnVwdGVkRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBzaXplIC0tOwogICAgICAgICAgICAgICAgZGlzcGxheVN0YXRlKCJSZWVudHJhbnRQcm9kdWNlciIpOwogICAgICAgICAgICAgICAgbm90RnVsbC5zaWduYWxBbGwoKTsKLy8jTk9URSAxOS0wNC0yOCDmlL7lnKhmaW5hbGx55Lit5L+d6K+B5aeL57uI5Lya6YeK5pS+6ZSBCiAgICAgICAgICAgIH0gZmluYWxseSB7CiAgICAgICAgICAgICAgICByZWVudHJhbnRMb2NrLnVubG9jaygpOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVlbnRyYW50TG9jay5sb2NrKCk7CiAgICAgICAgICAgIHRyeXsKICAgICAgICAgICAgICAgIHdoaWxlIChpc0VtcHR5KCkpIHsKICAgICAgICAgICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgICAgICAgICBub3RFbXB0eS5hd2FpdCgpOwogICAgICAgICAgICAgICAgICAgIH0gY2F0Y2ggKEludGVycnVwdGVkRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBzaXplIC0tOwogICAgICAgICAgICAgICAgZGlzcGxheVN0YXRlKCJSZWVudHJhbnRQcm9kdWNlciIpOwogICAgICAgICAgICAgICAgbm90RnVsbC5zaWduYWxBbGwoKTsKLy8jTk9URSAxOS0wNC0yOCDmlL7lnKhmaW5hbGx55Lit5L+d6K+B5aeL57uI5Lya6YeK5pS+6ZSBCiAgICAgICAgICAgIH0gZmluYWxseSB7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmVlbnRyYW50TG9jay5sb2NrKCk7CiAgICAgICAgICAgIHRyeXsKICAgICAgICAgICAgICAgIHdoaWxlIChpc0VtcHR5KCkpIHsKICAgICAgICAgICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgICAgICAgICBub3RFbXB0eS5hd2FpdCgpOwogICAgICAgICAgICAgICAgICAgIH0gY2F0Y2ggKEludGVycnVwdGVkRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBzaXplIC0tOwogICAgICAgICAgICAgICAgZGlzcGxheVN0YXRlKCJSZWVudHJhbnRQcm9kdWNlciIpOwogICAgICAgICAgICAgICAgbm90RnVsbC5zaWduYWxBbGwoKTsKLy8jTk9URSAxOS0wNC0yOCDmlL7lnKhmaW5hbGx55Lit5L+d6K+B5aeL57uI5Lya6YeK5pS+6ZSBCiAgICAgICAgICAgIH0gZmluYWxseSB7CiAgICAgICAgICAgICAgICByZWVudHJhbnRMb2NrLnVubG9jaygpOwogICAgICAgICAgICB9Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmVlbnRyYW50TG9jay5sb2NrKCk7CiAgICAgICAgICAgIHRyeXsKICAgICAgICAgICAgICAgIHdoaWxlIChpc0VtcHR5KCkpIHsKICAgICAgICAgICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgICAgICAgICBub3RFbXB0eS5hd2FpdCgpOwogICAgICAgICAgICAgICAgICAgIH0gY2F0Y2ggKEludGVycnVwdGVkRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBzaXplIC0tOwogICAgICAgICAgICAgICAgZGlzcGxheVN0YXRlKCJSZWVudHJhbnRQcm9kdWNlciIpOwogICAgICAgICAgICAgICAgbm90RnVsbC5zaWduYWxBbGwoKTsKLy8jTk9URSAxOS0wNC0yOCDmlL7lnKhmaW5hbGx55Lit5L+d6K+B5aeL57uI5Lya6YeK5pS+6ZSBCiAgICAgICAgICAgIH0gZmluYWxseSB7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVlbnRyYW50TG9jay5sb2NrKCk7CiAgICAgICAgICAgIHRyeXsKICAgICAgICAgICAgICAgIHdoaWxlIChpc0VtcHR5KCkpIHsKICAgICAgICAgICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgICAgICAgICBub3RFbXB0eS5hd2FpdCgpOwogICAgICAgICAgICAgICAgICAgIH0gY2F0Y2ggKEludGVycnVwdGVkRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBzaXplIC0tOwogICAgICAgICAgICAgICAgZGlzcGxheVN0YXRlKCJSZWVudHJhbnRQcm9kdWNlciIpOwogICAgICAgICAgICAgICAgbm90RnVsbC5zaWduYWxBbGwoKTsKLy8jTk9URSAxOS0wNC0yOCDmlL7lnKhmaW5hbGx55Lit5L+d6K+B5aeL57uI5Lya6YeK5pS+6ZSBCiAgICAgICAgICAgIH0gZmluYWxseSB7CiAgICAgICAgICAgICAgICByZWVudHJhbnRMb2NrLnVubG9jaygpOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="y" type="4">
         <text>t</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action Back</text>
       </register>
     </registers>
     <search>
@@ -293,12 +302,12 @@
         <entry>action LastEditLocation</entry>
         <entry>action Switcher</entry>
         <entry>action Forward</entry>
-        <entry>action Back</entry>
         <entry>action Reformat Code</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action MethodDown</entry>
         <entry>%s/LOCK/stack/g</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -345,6 +354,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
