@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="concat" />
+      <item value="contact" />
       <item value="协议" />
       <item value="爬虫" />
       <item value="args" />
