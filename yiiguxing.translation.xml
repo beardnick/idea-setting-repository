@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="scratch" />
       <item value="malformed" />
       <item value="infer nullity annotations" />
       <item value="nullity" />
