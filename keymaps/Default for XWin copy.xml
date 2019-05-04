@@ -2,11 +2,11 @@
   <action id="ActivateDatabaseToolWindow">
     <keyboard-shortcut first-keystroke="alt 3" />
   </action>
-  <action id="ActivateRestServicesToolWindow">
-    <keyboard-shortcut first-keystroke="alt 4" />
-  </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="ctrl back_quote" />
+  </action>
+  <action id="NewClass">
+    <keyboard-shortcut first-keystroke="alt n" />
   </action>
   <action id="QuickChangeScheme" />
   <action id="Scala.ShowImplicits">

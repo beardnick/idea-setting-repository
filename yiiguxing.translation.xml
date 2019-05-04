@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="malformed" />
+      <item value="infer nullity annotations" />
+      <item value="nullity" />
+      <item value="inspect" />
       <item value="concat" />
       <item value="contact" />
       <item value="协议" />
