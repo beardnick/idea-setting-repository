@@ -29,7 +29,8 @@
       <file name="/a.dummy" timestamp="1556421653148">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/application/WebSecurityConfig.java" timestamp="1556950734391">
+      <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/application/WebSecurityConfig.java" timestamp="1556953595747">
+        <mark key="'" line="54" column="0" />
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
@@ -51,6 +52,9 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/Learning" timestamp="1556351080087">
         <mark key="'" line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/resources/mapper/CustomerMapper.xml" timestamp="1556952115423">
+        <mark key="'" line="6" column="0" />
+      </file>
       <file name="/a.sql" timestamp="1556930289802">
         <mark key="[" line="0" column="0" />
       </file>
@@ -60,6 +64,11 @@
         <mark key="]" line="36" column="0" />
         <mark key="^" line="36" column="0" />
         <mark key="." line="36" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/resources/application-dev.properties" timestamp="1556953638855">
+        <mark key="[" line="0" column="15" />
+        <mark key="]" line="0" column="16" />
+        <mark key="." line="0" column="16" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/extend/picture/PicController.java" timestamp="1556949685024">
         <mark key="'" line="225" column="13" />
@@ -83,14 +92,21 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1556930289808">
+      <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/infra/persistence/sql/mapper/modules/organic/CustomerMapper.java" timestamp="1556952104387">
+        <mark key="'" line="14" column="21" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1556953674962">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/util/ReadExcel.java" timestamp="1556347887669">
         <mark key="'" line="77" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/module/organic/CustomerController.java" timestamp="1556951441405">
-        <mark key="'" line="201" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/module/organic/CustomerController.java" timestamp="1556953983265">
+        <mark key="'" line="56" column="0" />
+        <mark key="[" line="363" column="7" />
+        <mark key="]" line="363" column="6" />
+        <mark key="." line="363" column="6" />
+        <mark key="^" line="363" column="6" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/resources/mapper/MessageMapper.xml" timestamp="1556951271668">
         <mark key="[" line="274" column="37" />
@@ -98,21 +114,21 @@
         <mark key="." line="274" column="37" />
         <mark key="^" line="280" column="38" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/infra/persistence/sql/mapper/modules/management/sheep/SheepInformationMapper.java" timestamp="1556950790108">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="208" column="0" />
-        <mark key="]" line="208" column="0" />
-        <mark key="^" line="229" column="0" />
-        <mark key="." line="208" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/infra/persistence/sql/mapper/modules/management/sheep/SheepInformationMapper.java" timestamp="1556953651127">
+        <mark key="'" line="85" column="0" />
+        <mark key="[" line="241" column="1" />
+        <mark key="]" line="241" column="0" />
+        <mark key="^" line="241" column="0" />
+        <mark key="." line="241" column="0" />
       </file>
       <file name="$USER_HOME$/study/IdeaProjects/ThinkingInJava/src/concurrent/Test1.java" timestamp="1556370344488">
         <mark key="'" line="60" column="34" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/87acb0a2-838b-438d-83ca-eb00c5fede62/console.sql" timestamp="1556948490745">
-        <mark key="[" line="8" column="77" />
-        <mark key="]" line="8" column="76" />
-        <mark key="^" line="8" column="76" />
-        <mark key="." line="8" column="76" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/87acb0a2-838b-438d-83ca-eb00c5fede62/console.sql" timestamp="1556953465779">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="14" column="50" />
+        <mark key="^" line="14" column="35" />
+        <mark key="." line="17" column="67" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/application/DeepApplication.java" timestamp="1556347445006">
         <mark key="'" line="9" column="38" />
@@ -127,22 +143,28 @@
       <file name="$USER_HOME$/IdeaProjects/MyTomcat/src/simple/Request.java" timestamp="1556172914123">
         <mark key="'" line="67" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/module/management/sheep/SheepInfoResource.java" timestamp="1556951067236">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="340" column="1" />
-        <mark key="]" line="340" column="0" />
-        <mark key="." line="340" column="0" />
-        <mark key="^" line="340" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/module/management/sheep/SheepInfoResource.java" timestamp="1556953585062">
+        <mark key="'" line="298" column="0" />
+        <mark key="[" line="296" column="0" />
+        <mark key="]" line="302" column="9" />
+        <mark key="." line="296" column="0" />
+        <mark key="^" line="309" column="40" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/resources/application.properties" timestamp="1556953621306">
+        <mark key="[" line="0" column="23" />
+        <mark key="]" line="0" column="25" />
+        <mark key="." line="0" column="25" />
+        <mark key="^" line="0" column="25" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/MyTomcat/src/simple/test.c" timestamp="1556172925581">
         <mark key="'" line="9" column="14" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/domain/service/module/management/sheep/SheepInformationService.java" timestamp="1556950772568">
+      <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/domain/service/module/management/sheep/SheepInformationService.java" timestamp="1556953042643">
         <mark key="'" line="231" column="8" />
-        <mark key="[" line="339" column="0" />
-        <mark key="]" line="339" column="0" />
-        <mark key="^" line="232" column="99" />
-        <mark key="." line="339" column="0" />
+        <mark key="[" line="345" column="5" />
+        <mark key="]" line="345" column="4" />
+        <mark key="^" line="345" column="4" />
+        <mark key="." line="345" column="4" />
       </file>
       <file name="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/lang/String.class" timestamp="1556201296310">
         <mark key="'" line="26" column="19" />
@@ -150,26 +172,11 @@
       <file name="$USER_HOME$/study/IdeaProjects/ThinkingInJava/src/Demo/ChapterThirteen/SimpleRead.java" timestamp="1556421178426">
         <mark key="'" line="37" column="21" />
       </file>
-      <file name="/fragment.java" timestamp="1556290388611">
+      <file name="/fragment.java" timestamp="1556953674948">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="86" column="4" filename="$USER_HOME$/study/IdeaProjects/ThinkingInJava/src/concurrent/SimpleProducerConsumer.java" />
-      <jump line="142" column="43" filename="$USER_HOME$/study/IdeaProjects/ThinkingInJava/src/concurrent/SimpleProducerConsumer.java" />
-      <jump line="8" column="0" filename="$USER_HOME$/study/IdeaProjects/ThinkingInJava/src/concurrent/SimpleProducerConsumer.java" />
-      <jump line="147" column="0" filename="$USER_HOME$/study/IdeaProjects/ThinkingInJava/src/concurrent/SimpleProducerConsumer.java" />
-      <jump line="2" column="0" filename="$USER_HOME$/study/IdeaProjects/ThinkingInJava/src/concurrent/SimpleProducerConsumer.java" />
-      <jump line="141" column="8" filename="$USER_HOME$/study/IdeaProjects/ThinkingInJava/src/concurrent/SimpleProducerConsumer.java" />
-      <jump line="12" column="0" filename="$USER_HOME$/study/IdeaProjects/ThinkingInJava/src/concurrent/SimpleProducerConsumer.java" />
-      <jump line="37" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/extend/picture/PicController.java" />
-      <jump line="779" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/extend/picture/PicController.java" />
-      <jump line="6" column="9" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/extend/picture/PicController.java" />
-      <jump line="759" column="21" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/extend/picture/PicController.java" />
-      <jump line="780" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/extend/picture/PicController.java" />
-      <jump line="76" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/module/management/sheep/SheepInfoResource.java" />
-      <jump line="239" column="30" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/module/management/sheep/SheepInfoResource.java" />
-      <jump line="309" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/module/management/sheep/SheepInfoResource.java" />
       <jump line="33" column="19" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/module/management/sheep/SheepInfoResource.java" />
       <jump line="307" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/module/management/sheep/SheepInfoResource.java" />
       <jump line="206" column="30" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/domain/service/module/management/sheep/SheepInformationService.java" />
@@ -255,52 +262,68 @@
       <jump line="339" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/module/management/sheep/SheepInfoResource.java" />
       <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/module/management/sheep/SheepInfoResource.java" />
       <jump line="201" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/module/organic/CustomerController.java" />
+      <jump line="305" column="18" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/module/organic/CustomerController.java" />
+      <jump line="393" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/module/organic/CustomerController.java" />
+      <jump line="74" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/module/organic/CustomerController.java" />
+      <jump line="27" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/infra/persistence/sql/mapper/modules/organic/CustomerMapper.java" />
+      <jump line="14" column="21" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/infra/persistence/sql/mapper/modules/organic/CustomerMapper.java" />
+      <jump line="6" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/resources/mapper/CustomerMapper.xml" />
+      <jump line="295" column="38" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/module/organic/CustomerController.java" />
+      <jump line="128" column="54" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/module/organic/CustomerController.java" />
+      <jump line="86" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/module/organic/CustomerController.java" />
+      <jump line="184" column="20" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/module/organic/CustomerController.java" />
+      <jump line="298" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/module/management/sheep/SheepInfoResource.java" />
+      <jump line="56" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/module/organic/CustomerController.java" />
+      <jump line="85" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/infra/persistence/sql/mapper/modules/management/sheep/SheepInformationMapper.java" />
+      <jump line="56" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/application/WebSecurityConfig.java" />
+      <jump line="54" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/application/WebSecurityConfig.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>prod</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>prod</text>
       </register>
       <register name="/" type="4">
         <text>next</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">QEdldHRlcgo=</text>
+      <register name="0" type="4">
+        <text>select count(*)
+from sheep_information where dead = 0 and sale = 0;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGxpc3QuZ2V0KGkpKSB7CiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgfSAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKFN0cmluZyBlYXJUYWc6IGxpc3QpIHsKICAgICAgICAgICAgaWYgKGVhclRhZyA9PSBudWxsIHx8IGVhclRhZy5sZW5ndGgoKSA8IDEpIHsKICAgICAgICAgICAgICAgIGVhclRhZyA9ICItLS0tLS0tIjsKICAgICAgICAgICAgfQogICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBkNTE0ODFhZDIyMWQwODFhN2ZjZTljZDNhNWEzYzYzZDcwOTZkMzRhCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCA7IGkrKykgewogICAgICAgICAgICAgICAgCiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PT09PT09PQo+Pj4+Pj4+IGQ1MTQ4MWFkMjIxZDA4MWE3ZmNlOWNkM2E1YTNjNjNkNzA5NmQzNGEK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIEBQYXRjaE1hcHBpbmcoIi9jL3MiKQogICAgcHVibGljIFJlc3BvbnNlIHVwZGF0ZUNhblNhbGUoQFJlcXVlc3RQYXJhbSgic2hlZXAiKSBMaXN0PExvbmc+IHNoZWVwLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQFJlcXVlc3RQYXJhbSgidmFsdWUiKSBJbnRlZ2VyIHZhbHVlKSB7CiAgICAgICAgaWYgKHNoZWVwSW5mb3JtYXRpb25TZXJ2aWNlLnVwZGF0ZUNhblNhbGUoc2hlZXAsIHZhbHVlKSA+IDApIHsKICAgICAgICAgICAgcmV0dXJuIFJlc3BvbnNlcy5zdWNjZXNzUmVzcG9uc2UoKTsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICByZXR1cm4gUmVzcG9uc2VzLmVycm9yUmVzcG9uc2UoIumUmeivryIpOwogICAgICAgIH0K</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBkNTE0ODFhZDIyMWQwODFhN2ZjZTljZDNhNWEzYzYzZDcwOTZkMzRhCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">PT09PT09PQo=</text>
       </register>
-      <register name="9" type="2">
+      <register name="6" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBkNTE0ODFhZDIyMWQwODFhN2ZjZTljZDNhNWEzYzYzZDcwOTZkMzRhCg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">PT09PT09PQo+Pj4+Pj4+IGQ1MTQ4MWFkMjIxZDA4MWE3ZmNlOWNkM2E1YTNjNjNkNzA5NmQzNGEK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIEBQYXRjaE1hcHBpbmcoIi9jL3MiKQogICAgcHVibGljIFJlc3BvbnNlIHVwZGF0ZUNhblNhbGUoQFJlcXVlc3RQYXJhbSgic2hlZXAiKSBMaXN0PExvbmc+IHNoZWVwLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQFJlcXVlc3RQYXJhbSgidmFsdWUiKSBJbnRlZ2VyIHZhbHVlKSB7CiAgICAgICAgaWYgKHNoZWVwSW5mb3JtYXRpb25TZXJ2aWNlLnVwZGF0ZUNhblNhbGUoc2hlZXAsIHZhbHVlKSA+IDApIHsKICAgICAgICAgICAgcmV0dXJuIFJlc3BvbnNlcy5zdWNjZXNzUmVzcG9uc2UoKTsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICByZXR1cm4gUmVzcG9uc2VzLmVycm9yUmVzcG9uc2UoIumUmeivryIpOwogICAgICAgIH0K</text>
       </register>
       <register name="y" type="4">
         <text>t</text>
       </register>
       <register name=":" type="4">
-        <text>action MethodUp</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
@@ -344,9 +367,9 @@
         <entry>action SearchEverywhere</entry>
         <entry>action MethodDown</entry>
         <entry>%s/LOCK/stack/g</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
         <entry>action MethodUp</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
