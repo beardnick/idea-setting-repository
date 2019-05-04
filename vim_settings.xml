@@ -20,6 +20,9 @@
         <mark key="^" line="19" column="23" />
         <mark key="." line="19" column="23" />
       </file>
+      <file name="/a.dummy" timestamp="1556421653148">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/test/java/com/deep/CustomerTest.java" timestamp="1556975574745">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="4" column="8" />
@@ -59,6 +62,9 @@
         <mark key="]" line="0" column="25" />
         <mark key="." line="0" column="25" />
         <mark key="^" line="0" column="25" />
+      </file>
+      <file name="/Sheep.sys_permit [dev]" timestamp="1556957360544">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/domain/service/module/management/sheep/SheepInformationService.java" timestamp="1556961763399">
         <mark key="'" line="351" column="0" />
@@ -106,6 +112,9 @@
         <mark key="^" line="19" column="27" />
         <mark key="." line="19" column="27" />
       </file>
+      <file name="/a.sql" timestamp="1556930289802">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/module/product/BreedingAnotherResource.java" timestamp="1556930942731">
         <mark key="'" line="438" column="0" />
         <mark key="[" line="36" column="0" />
@@ -120,12 +129,21 @@
         <mark key="." line="46" column="34" />
         <mark key="^" line="46" column="34" />
       </file>
-      <file name="$USER_HOME$/study/IdeaProjects/ThinkingInJava/src/concurrent/SimpleProducerConsumer.java" timestamp="1556929437616">
+      <file name="$USER_HOME$/study/IdeaProjects/ThinkingInJava/src/concurrent/SimpleProducerConsumer.java" timestamp="1556978314487">
         <mark key="'" line="12" column="0" />
-        <mark key="[" line="148" column="1" />
-        <mark key="]" line="148" column="0" />
-        <mark key="." line="148" column="0" />
-        <mark key="^" line="148" column="0" />
+        <mark key="[" line="142" column="19" />
+        <mark key="]" line="142" column="18" />
+        <mark key="." line="142" column="18" />
+        <mark key="^" line="142" column="18" />
+      </file>
+      <file name="/Dummy.vm" timestamp="1556950978660">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/dummy.sql" timestamp="1556958366419">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1556953674962">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/module/management/level/FactoryResouce.java" timestamp="1556971034474">
         <mark key="'" line="37" column="0" />
@@ -201,6 +219,9 @@
         <mark key="]" line="4" column="6" />
         <mark key="^" line="4" column="6" />
         <mark key="." line="4" column="6" />
+      </file>
+      <file name="/fragment.java" timestamp="1556977736006">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
