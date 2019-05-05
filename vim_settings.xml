@@ -105,8 +105,8 @@
         <mark key="." line="755" column="50" />
         <mark key="^" line="755" column="50" />
       </file>
-      <file name="$USER_HOME$/study/IdeaProjects/ThinkingInJava/src/concurrent/SimpleProducerConsumer.java" timestamp="1556979474604">
-        <mark key="'" line="12" column="0" />
+      <file name="$USER_HOME$/study/IdeaProjects/ThinkingInJava/src/concurrent/SimpleProducerConsumer.java" timestamp="1557042825370">
+        <mark key="'" line="112" column="0" />
         <mark key="[" line="143" column="9" />
         <mark key="]" line="143" column="8" />
         <mark key="." line="143" column="8" />
@@ -209,6 +209,13 @@
         <mark key="^" line="349" column="33" />
         <mark key="." line="349" column="33" />
       </file>
+      <file name="$USER_HOME$/study/IdeaProjects/ThinkingInJava/src/concurrent/ProducerConsumer.java" timestamp="1557042897524">
+        <mark key="'" line="156" column="0" />
+        <mark key="[" line="34" column="30" />
+        <mark key="]" line="34" column="31" />
+        <mark key="." line="34" column="31" />
+        <mark key="^" line="34" column="31" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/resources/application.properties" timestamp="1556953621306">
         <mark key="[" line="0" column="23" />
         <mark key="]" line="0" column="25" />
@@ -237,9 +244,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/infra/persistence/sql/mapper/modules/management/sheep/SheepInformationMapper.java" />
-      <jump line="56" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/application/WebSecurityConfig.java" />
-      <jump line="54" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/application/WebSecurityConfig.java" />
       <jump line="340" column="18" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/module/management/sheep/SheepInfoResource.java" />
       <jump line="201" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/infra/persistence/sql/mapper/modules/management/sheep/SheepInformationMapper.java" />
       <jump line="17" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/infra/persistence/sql/mapper/modules/management/sheep/SheepInformationMapper.java" />
@@ -337,19 +341,22 @@
       <jump line="756" column="20" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/extend/picture/PicController.java" />
       <jump line="759" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/extend/picture/PicController.java" />
       <jump line="66" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/extend/picture/PicController.java" />
+      <jump line="145" column="8" filename="$USER_HOME$/study/IdeaProjects/ThinkingInJava/src/concurrent/SimpleProducerConsumer.java" />
+      <jump line="112" column="0" filename="$USER_HOME$/study/IdeaProjects/ThinkingInJava/src/concurrent/SimpleProducerConsumer.java" />
+      <jump line="155" column="0" filename="$USER_HOME$/study/IdeaProjects/ThinkingInJava/src/concurrent/ProducerConsumer.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKCiAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>test</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>test</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8v5Yqg5bel5raI6LS55Zu+54mHCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJvZHVjZXJDb25zdW1lci5jcmF3bGVyKCJodHRwOi8vd3d3Lmhhb3BpYy5tZS9tZWludi9wYWdlLyIgKyBpKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKCiAgICB9Cg==</text>
