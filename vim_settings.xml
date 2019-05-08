@@ -73,8 +73,8 @@
         <mark key="^" line="2" column="7" />
         <mark key="." line="2" column="7" />
       </file>
-      <file name="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/PlantTrees.java" timestamp="1557307028882">
-        <mark key="'" line="8" column="0" />
+      <file name="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/PlantTrees.java" timestamp="1557307138999">
+        <mark key="'" line="76" column="0" />
         <mark key="[" line="14" column="41" />
         <mark key="]" line="14" column="40" />
         <mark key="." line="14" column="40" />
@@ -280,10 +280,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="322" column="4" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/domain/service/module/management/sheep/SheepInformationService.java" />
-      <jump line="40" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/domain/service/module/management/sheep/SheepInformationService.java" />
-      <jump line="407" column="17" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/module/management/level/FactoryResouce.java" />
-      <jump line="7" column="27" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/util/DirectUrl.java" />
       <jump line="29" column="18" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/util/DirectUrl.java" />
       <jump line="39" column="15" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/util/DirectUrl.java" />
       <jump line="46" column="14" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/util/DirectUrl.java" />
@@ -368,7 +364,6 @@
       <jump line="5" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.java" />
       <jump line="59" column="29" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/PlantTrees.java" />
       <jump line="44" column="4" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/PlantTrees.java" />
-      <jump line="3" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/PlantTrees.java" />
       <jump line="71" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/PlantTrees.java" />
       <jump line="4" column="17" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/PlantTrees.java" />
       <jump line="6" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/PickGoodNumber.java" />
@@ -380,6 +375,11 @@
       <jump line="28" column="4" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/PlantTrees.java" />
       <jump line="73" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/PlantTrees.java" />
       <jump line="8" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/PlantTrees.java" />
+      <jump line="53" column="4" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/PlantTrees.java" />
+      <jump line="75" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/PlantTrees.java" />
+      <jump line="3" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/PlantTrees.java" />
+      <jump line="10" column="22" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/PlantTrees.java" />
+      <jump line="76" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/PlantTrees.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
