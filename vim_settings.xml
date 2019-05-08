@@ -73,11 +73,12 @@
         <mark key="^" line="2" column="7" />
         <mark key="." line="2" column="7" />
       </file>
-      <file name="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/PlantTrees.java" timestamp="1557305919350">
+      <file name="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/PlantTrees.java" timestamp="1557306612999">
         <mark key="'" line="73" column="0" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+        <mark key="[" line="29" column="31" />
+        <mark key="]" line="29" column="30" />
+        <mark key="." line="29" column="30" />
+        <mark key="^" line="29" column="30" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/domain/model/module/chat/Client.java" timestamp="1556349916873">
         <mark key="'" line="9" column="0" />
