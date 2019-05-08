@@ -80,6 +80,13 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/study/IdeaProjects/Exam/src/Exam4.java" timestamp="1557316691530">
+        <mark key="'" line="6" column="62" />
+        <mark key="[" line="15" column="17" />
+        <mark key="]" line="8" column="55" />
+        <mark key="^" line="8" column="55" />
+        <mark key="." line="8" column="55" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/domain/model/module/chat/Client.java" timestamp="1556349916873">
         <mark key="'" line="9" column="0" />
         <mark key="[" line="19" column="28" />
@@ -287,8 +294,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/util/DirectUrl.java" />
-      <jump line="341" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/domain/service/module/management/sheep/SheepInformationService.java" />
       <jump line="327" column="35" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/module/management/sheep/SheepInfoResource.java" />
       <jump line="38" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/module/management/sheep/SheepInfoResource.java" />
       <jump line="35" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/module/management/level/FactoryResouce.java" />
@@ -387,43 +392,45 @@
       <jump line="3" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/PlantTrees.java" />
       <jump line="49" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/PlantTrees.java" />
       <jump line="19" column="8" filename="$USER_HOME$/study/IdeaProjects/Exam/src/Exam.java" />
+      <jump line="25" column="43" filename="$USER_HOME$/study/IdeaProjects/Exam/src/Exam4.java" />
+      <jump line="6" column="62" filename="$USER_HOME$/study/IdeaProjects/Exam/src/Exam4.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text encoding="base64">PSBuZXcgVHJlZU1hcDw+KCk=</text>
       </register>
       <register name="/" type="4">
         <text>test</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc29sdXRpb24oImZxd2VlcWUiKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwb3dlci5wdXQoMCwgMTApOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
+        <text encoding="base64">Ly8gICAgcHVibGljIHN0YXRpYyBpbnQgc29sdXRpb24oKSB7Ci8vICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IDsgaSsrKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwb3dlci5sYXN0RW50cnkoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwb3dlci5wdXQoNSwgbmV3IFRyZWVTZXQ8PigpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzLmxhCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB3aGlsZSAoKQo=</text>
+        <text encoding="base64">ICAgICAgICBzLnRvCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
