@@ -9,5 +9,7 @@
     <entry key="BSP.experimental.feature.enabled" value="false" />
     <entry key="BSP.system.in.process" value="true" />
     <entry key="compiler.automake.allow.when.app.running" value="true" />
+    <entry key="git.explicit.commit.renames.prohibit.multiple.calls" value="false" />
+    <entry key="editor.distraction.free.mode" value="true" />
   </component>
 </application>
