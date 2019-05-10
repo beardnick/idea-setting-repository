@@ -10,9 +10,6 @@
         <mark key="^" line="45" column="0" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/.idea/workspace.xml" timestamp="1556975952932">
-        <mark key="'" line="16" column="10" />
-      </file>
       <file name="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/util/Vector.class" timestamp="1556356982110">
         <mark key="'" line="317" column="30" />
         <mark key="[" line="19" column="24" />
@@ -23,11 +20,12 @@
       <file name="/a.dummy" timestamp="1556421653148">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/test/java/com/deep/CustomerTest.java" timestamp="1557009859319">
-        <mark key="[" line="9" column="27" />
-        <mark key="]" line="10" column="3" />
-        <mark key="^" line="10" column="3" />
-        <mark key="." line="10" column="3" />
+      <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/test/java/com/deep/CustomerTest.java" timestamp="1557472434674">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="7" column="4" />
+        <mark key="]" line="7" column="3" />
+        <mark key="^" line="7" column="3" />
+        <mark key="." line="7" column="3" />
       </file>
       <file name="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/SameHeightBuildings.java" timestamp="1557322291617">
         <mark key="'" line="83" column="0" />
@@ -35,6 +33,13 @@
         <mark key="]" line="84" column="0" />
         <mark key="." line="84" column="0" />
         <mark key="^" line="84" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/module/live/VideoPublishResource.java" timestamp="1557472513274">
+        <mark key="'" line="38" column="0" />
+        <mark key="[" line="163" column="5" />
+        <mark key="]" line="164" column="3" />
+        <mark key="." line="164" column="3" />
+        <mark key="^" line="164" column="3" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/resources/mapper/CustomerMapper.xml" timestamp="1556962358922">
         <mark key="'" line="225" column="12" />
@@ -63,12 +68,12 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/87acb0a2-838b-438d-83ca-eb00c5fede62/console.sql" timestamp="1556974081738">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-        <mark key="^" line="31" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/87acb0a2-838b-438d-83ca-eb00c5fede62/console.sql" timestamp="1557472905585">
+        <mark key="'" line="22" column="18" />
+        <mark key="[" line="29" column="1" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+        <mark key="^" line="29" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/resources/application-another.properties" timestamp="1556980166136">
         <mark key="[" line="1" column="1" />
@@ -119,7 +124,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/PickGoodNumber.java" timestamp="1557472302616">
+      <file name="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/PickGoodNumber.java" timestamp="1557472383305">
         <mark key="'" line="139" column="0" />
         <mark key="[" line="27" column="35" />
         <mark key="]" line="27" column="34" />
@@ -210,6 +215,12 @@
       </file>
       <file name="/dummy.sql" timestamp="1556958366419">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/805e4069-8d91-4fce-a056-4ef1b61095fd/console.sql" timestamp="1557472978995">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="3" column="65" />
+        <mark key="^" line="3" column="65" />
+        <mark key="." line="3" column="65" />
       </file>
       <file name="/Dummy.txt" timestamp="1557382719829">
         <mark key="[" line="0" column="0" />
@@ -308,11 +319,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="777" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/extend/picture/PicController.java" />
-      <jump line="32" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/extend/picture/PicController.java" />
-      <jump line="779" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/extend/picture/PicController.java" />
-      <jump line="79" column="33" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/extend/picture/PicController.java" />
-      <jump line="756" column="20" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/extend/picture/PicController.java" />
       <jump line="759" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/extend/picture/PicController.java" />
       <jump line="66" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/extend/picture/PicController.java" />
       <jump line="145" column="8" filename="$USER_HOME$/study/IdeaProjects/ThinkingInJava/src/concurrent/SimpleProducerConsumer.java" />
@@ -408,13 +414,18 @@
       <jump line="9" column="37" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/PickGoodNumber.java" />
       <jump line="4" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/PickGoodNumber.java" />
       <jump line="139" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/PickGoodNumber.java" />
+      <jump line="2" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/test/java/com/deep/CustomerTest.java" />
+      <jump line="62" column="20" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/module/live/VideoPublishResource.java" />
+      <jump line="34" column="2" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/module/live/VideoPublishResource.java" />
+      <jump line="38" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/module/live/VideoPublishResource.java" />
+      <jump line="22" column="18" filename="$APPLICATION_CONFIG_DIR$/consoles/db/87acb0a2-838b-438d-83ca-eb00c5fede62/console.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>i</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>test</text>
