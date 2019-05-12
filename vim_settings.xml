@@ -26,11 +26,12 @@
       <file name="/a.dummy" timestamp="1556421653148">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/test/java/com/deep/CustomerTest.java" timestamp="1557649545260">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/test/java/com/deep/CustomerTest.java" timestamp="1557650161782">
+        <mark key="'" line="21" column="41" />
+        <mark key="[" line="24" column="83" />
+        <mark key="]" line="24" column="82" />
+        <mark key="." line="24" column="82" />
+        <mark key="^" line="24" column="82" />
       </file>
       <file name="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/SameHeightBuildings.java" timestamp="1557322291617">
         <mark key="'" line="83" column="0" />
@@ -279,12 +280,12 @@
         <mark key="^" line="14" column="8" />
         <mark key="." line="14" column="8" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/module/organic/CustomerController.java" timestamp="1557649299523">
+      <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/module/organic/CustomerController.java" timestamp="1557650046363">
         <mark key="'" line="78" column="15" />
-        <mark key="[" line="289" column="41" />
-        <mark key="]" line="289" column="40" />
-        <mark key="." line="289" column="40" />
-        <mark key="^" line="289" column="40" />
+        <mark key="[" line="269" column="37" />
+        <mark key="]" line="269" column="36" />
+        <mark key="." line="269" column="36" />
+        <mark key="^" line="269" column="36" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/resources/mapper/MessageMapper.xml" timestamp="1556951271668">
         <mark key="[" line="274" column="37" />
@@ -346,7 +347,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="0" filename="$USER_HOME$/study/IdeaProjects/Exam/src/Exam4.java" />
       <jump line="63" column="4" filename="$USER_HOME$/study/IdeaProjects/Exam/src/Exam4.java" />
       <jump line="43" column="76" filename="$USER_HOME$/study/IdeaProjects/Exam/src/Exam4.java" />
       <jump line="44" column="10" filename="$USER_HOME$/study/IdeaProjects/Exam/src/Exam4.java" />
@@ -446,66 +446,66 @@
       <jump line="271" column="91" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/infra/persistence/sql/mapper/modules/management/sheep/SheepInformationMapper.java" />
       <jump line="49" column="32" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/infra/persistence/sql/mapper/modules/management/sheep/SheepInformationMapper.java" />
       <jump line="274" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/infra/persistence/sql/mapper/modules/management/sheep/SheepInformationMapper.java" />
+      <jump line="21" column="41" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/test/java/com/deep/CustomerTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>k</text>
+        <text>g</text>
       </register>
       <register name="/" type="4">
-        <text>transi</text>
+        <text>&quot;</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">IjxzY3JpcHQ+IHNlbGVjdCBjb3VudCgqKSBmcm9tIHNoZWVwX2luZm9ybWF0aW9uIDx3aGVyZT4iICsKICAgICAgICAgICAgIiA8aWYgdGVzdD1cImZhY3RvcnkgIT0gbnVsbFwiPlxuIiArCiAgICAgICAgICAgICIgZmFjdG9yeSA9ICN7ZmFjdG9yeX1cbiIgKwogICAgICAgICAgICAiPC9pZj5cbiIgKwogICAgICAgICAgICAiIGFuZCBkZWFkID0gMCBhbmQgc2FsZSA9IDAiICsKICAgICAgICAgICAgIjwvd2hlcmU+IiArCiAgICAgICAgICAgICI8L3NjcmlwdD4i</text>
+        <text>&quot;养殖厂, 屠宰厂, 加工厂, 鲜肉, 熟食, 餐饮, 商超&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBjdXN0b21lckNvbnRyb2xsZXIuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c2VsZWN0ICoKZnJvbSBzaGVlcF9pbmZvcm1hdGlvbiA7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTW9ja012YyBtb2NrTXZjOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c2VsZWN0ICoKZnJvbSBuZXdfc2hlZXBfaW5mb3JtYXRpb247Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBKU09OT2JqZWN0IG9iamVjdCA9IG51bGw7Cg==</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIEN1c3RvbWVyQ29udHJvbGxlciBjdXN0b21lckNvbnRyb2xsZXI7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgYnJhbmQgPSBvYmplY3QuZ2V0U3RyaW5nKCJicmFuZCIpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBKU09OT2JqZWN0IG9iamVjdCA9IG5ldyBKU09OT2JqZWN0KGpzb25QYXJhbSk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="y" type="4">
         <text>t</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>s/&quot;//g</text>
       </register>
     </registers>
     <search>
-      <last-search>transi</last-search>
+      <last-search>&quot;</last-search>
       <last-offset />
-      <last-pattern>transi</last-pattern>
-      <last-replace>stack</last-replace>
-      <last-substitute>LOCK</last-substitute>
+      <last-pattern>&quot;</last-pattern>
+      <last-replace />
+      <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>down</entry>
         <entry>cosumer</entry>
         <entry>cosumter</entry>
         <entry>add</entry>
@@ -525,6 +525,7 @@
         <entry>test</entry>
         <entry>sale</entry>
         <entry>transi</entry>
+        <entry>&quot;</entry>
       </history-search>
       <history-cmd>
         <entry>set vim-surround</entry>
@@ -540,6 +541,7 @@
         <entry>q</entry>
         <entry>action GotoDeclaration</entry>
         <entry>w</entry>
+        <entry>s/&quot;//g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
