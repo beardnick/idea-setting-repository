@@ -113,6 +113,14 @@
           <Count>9</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'DeepApplication'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'DeepApplication'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'ProducerConsumer'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
