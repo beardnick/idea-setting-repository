@@ -83,8 +83,8 @@
       <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/ExampleResource.java" timestamp="1558430266401">
         <mark key="'" line="37" column="2" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/extend/picture/PicController.java" timestamp="1558445550366">
-        <mark key="'" line="38" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/extend/picture/PicController.java" timestamp="1558446441230">
+        <mark key="'" line="733" column="28" />
         <mark key="[" line="78" column="19" />
         <mark key="]" line="78" column="18" />
         <mark key="." line="78" column="18" />
@@ -404,7 +404,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/test/java/com/deep/CustomerTest.java" />
       <jump line="33" column="19" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/pom.xml" />
       <jump line="25" column="34" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/resources/application-unit_test.properties" />
       <jump line="7" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/resources/application-unit_test.properties" />
@@ -504,6 +503,7 @@
       <jump line="52" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/extend/picture/PicController.java" />
       <jump line="127" column="4" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/extend/picture/PicController.java" />
       <jump line="38" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/extend/picture/PicController.java" />
+      <jump line="733" column="28" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/extend/picture/PicController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
