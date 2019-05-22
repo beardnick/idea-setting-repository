@@ -288,12 +288,12 @@
         <mark key="." line="143" column="8" />
         <mark key="^" line="143" column="8" />
       </file>
-      <file name="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/InclusionExclusionPrinciple.java" timestamp="1558497264258">
-        <mark key="'" line="61" column="6" />
-        <mark key="[" line="72" column="43" />
-        <mark key="]" line="72" column="44" />
-        <mark key="." line="72" column="44" />
-        <mark key="^" line="71" column="25" />
+      <file name="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/InclusionExclusionPrinciple.java" timestamp="1558498478616">
+        <mark key="'" line="23" column="0" />
+        <mark key="[" line="59" column="63" />
+        <mark key="]" line="59" column="63" />
+        <mark key="^" line="59" column="63" />
+        <mark key="." line="59" column="63" />
       </file>
       <file name="/HTML File.txt.ft" timestamp="1557305397155">
         <mark key="[" line="0" column="0" />
@@ -423,9 +423,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/test/java/com/deep/CustomerTest.java" />
-      <jump line="22" column="15" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/test/java/com/deep/CustomerTest.java" />
-      <jump line="67" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/module/organic/CustomerController.java" />
       <jump line="44" column="6" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/test/java/com/deep/CustomerTest.java" />
       <jump line="68" column="52" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/test/java/com/deep/CustomerTest.java" />
       <jump line="40" column="39" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/test/java/com/deep/CustomerTest.java" />
@@ -523,46 +520,49 @@
       <jump line="57" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/InclusionExclusionPrinciple.java" />
       <jump line="59" column="4" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/InclusionExclusionPrinciple.java" />
       <jump line="61" column="6" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/InclusionExclusionPrinciple.java" />
+      <jump line="54" column="9" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/InclusionExclusionPrinciple.java" />
+      <jump line="53" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/InclusionExclusionPrinciple.java" />
+      <jump line="23" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/InclusionExclusionPrinciple.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0bXAgPSBuZXcgSGFzaFNldDw+KCk7CiAgICAgICAgdG1wLmFkZEFsbChhKTsKICAgICAgICB0bXAuYWRkQWxsKGIpOwogICAgICAgIHRtcC5hZGRBbGwoYyk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>3</text>
       </register>
       <register name="-" type="4">
-        <text>arr</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
         <text>array</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTZXRbXSBhcnIgPSBuZXcgSGFzaFNldFtde2EsIGIsIGN9OwogICAgICAgIHNldEFycmF5ID0gKFNldDxJbnRlZ2VyPltdKWFycjsKICAgICAgICB0bXAgPSBuZXcgSGFzaFNldDw+KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBIYXNoU2V0PEludGVnZXI+IGMgPSBuZXcgSGFzaFNldDw+KEFycmF5cy5hc0xpc3QoMSwgNiwgMykpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0bXAgPSBuZXcgSGFzaFNldDw+KCk7CiAgICAgICAgdG1wLmFkZEFsbChhKTsKICAgICAgICB0bXAuYWRkQWxsKGIpOwogICAgICAgIHRtcC5hZGRBbGwoYyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnQgc2luZ2xlU3VtID0gMDsKICAgICAgICAgZm9yIChTZXQ8SW50ZWdlcj4geCA6CiAgICAgICAgICAgICAgICAgcykgewogICAgICAgICAgICAgc2luZ2xlU3VtICs9IHguc2l6ZSgpOwogICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIHRtcCA9IG5ldyBIYXNoU2V0PD4oKTsK</text>
+        <text encoding="base64">ICAgICAgICBJbmNsdXNpb25FeGNsdXNpb25QcmluY2lwbGUudG90YWwgPSAwOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIHNldEFycmF5ID0gKFNldDxJbnRlZ2VyPltdKXM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIHRtcCA9IHNldEFycmF5WzBdOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIFNldFtdIGFyciA9IG5ldyBIYXNoU2V0W107Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgU2V0PEludGVnZXI+IGFsbFNldCA9IG5ldyBIYXNoU2V0PD4oKTsKICAgICAgICAgZm9yIChTZXQ8SW50ZWdlcj4geDogcwogICAgICAgICAgICAgICkgewogICAgICAgICAgICAgYWxsU2V0LmFkZEFsbCh4KTsKICAgICAgICAgfQo=</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljICAgdm9pZCBkZnMoaW50IGN1ciwgaW50IGluZGV4LCBpbnQgbil7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgc2V0QXJyYXkgPSAoU2V0PEludGVnZXI+W10pYXJyOwogICAgICAgICB0bXAgPSBuZXcgSGFzaFNldDw+KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBjb3B5KFNldDxJbnRlZ2VyPiBkc3QsIFNldDxJbnRlZ2VyPiBzcmMpIHsKICAgICAgICBJdGVyYXRvcjxJbnRlZ2VyPiBpdCA9IHNyYy5pdGVyYXRvcigpOwogICAgICAgIHdoaWxlIChpdC5oYXNOZXh0KCkpIHsKICAgICAgICAgICAgZHN0LmFkZChpdC5uZXh0KCkuY2xvbmUoKSk7CiAgICAgICAgfQogICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0bXAuYWRkQWxsKGEpCg==</text>
+        <text encoding="base64">ICAgICAgICB0bXAgPSBzZXRBcnJheVswXTsK</text>
       </register>
       <register name="y" type="4">
         <text>t</text>
