@@ -183,8 +183,8 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/PickGoodNumber.java" timestamp="1558604098031">
-        <mark key="'" line="52" column="20" />
+      <file name="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/PickGoodNumber.java" timestamp="1558612023450">
+        <mark key="'" line="124" column="6" />
         <mark key="[" line="127" column="50" />
         <mark key="]" line="128" column="12" />
         <mark key="." line="128" column="12" />
@@ -423,7 +423,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="63" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/test/java/com/deep/CustomerTest.java" />
       <jump line="23" column="26" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/module/organic/CustomerController.java" />
       <jump line="56" column="34" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/test/java/com/deep/CustomerTest.java" />
       <jump line="69" column="8" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/test/java/com/deep/CustomerTest.java" />
@@ -523,6 +522,7 @@
       <jump line="140" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/PickGoodNumber.java" />
       <jump line="13" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/PickGoodNumber.java" />
       <jump line="52" column="20" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/PickGoodNumber.java" />
+      <jump line="124" column="6" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/PickGoodNumber.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
