@@ -183,12 +183,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/PickGoodNumber.java" timestamp="1558620184323">
-        <mark key="'" line="8" column="41" />
-        <mark key="[" line="78" column="40" />
-        <mark key="]" line="78" column="40" />
-        <mark key="^" line="78" column="40" />
-        <mark key="." line="78" column="40" />
+      <file name="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/PickGoodNumber.java" timestamp="1558622533363">
+        <mark key="'" line="20" column="8" />
+        <mark key="[" line="66" column="17" />
+        <mark key="]" line="66" column="16" />
+        <mark key="." line="66" column="16" />
+        <mark key="^" line="66" column="16" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/application/WebSecurityConfig.java" timestamp="1558012068819">
         <mark key="[" line="24" column="1" />
@@ -423,9 +423,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="344" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/module/organic/CustomerController.java" />
-      <jump line="277" column="42" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/module/organic/CustomerController.java" />
-      <jump line="409" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/module/organic/CustomerController.java" />
       <jump line="51" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/module/organic/CustomerController.java" />
       <jump line="288" column="20" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/module/organic/CustomerController.java" />
       <jump line="339" column="16" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/module/organic/CustomerController.java" />
@@ -500,7 +497,6 @@
       <jump line="124" column="6" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/PickGoodNumber.java" />
       <jump line="139" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/PickGoodNumber.java" />
       <jump line="16" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/PickGoodNumber.java" />
-      <jump line="20" column="26" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/PickGoodNumber.java" />
       <jump line="37" column="47" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/PickGoodNumber.java" />
       <jump line="52" column="86" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/PickGoodNumber.java" />
       <jump line="58" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/PickGoodNumber.java" />
@@ -523,52 +519,56 @@
       <jump line="66" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/PickGoodNumber.java" />
       <jump line="74" column="45" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/PickGoodNumber.java" />
       <jump line="8" column="41" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/PickGoodNumber.java" />
+      <jump line="45" column="20" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/PickGoodNumber.java" />
+      <jump line="84" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/PickGoodNumber.java" />
+      <jump line="77" column="16" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/PickGoodNumber.java" />
+      <jump line="20" column="8" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/PickGoodNumber.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Integer</text>
+        <text>后</text>
       </register>
       <register name="-" type="4">
-        <text>Integer</text>
+        <text>后</text>
       </register>
       <register name="/" type="4">
         <text>-</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCBzdWIgPSAxOwogICAgICAgICAgICAgICAgaW50IHJlc3QgPSBuIC0gY291bnQuZ2V0KHgpOwogICAgICAgICAgICAgICAgaW50IGNvc3QgPSAwOwogICAgICAgICAgICAgICAgd2hpbGUgKHJlc3QgIT0gMCkgewogICAgICAgICAgICAgICAgICAgIGludCBmID0gMDsKICAgICAgICAgICAgICAgICAgICBpZiAoY291bnQuY29udGFpbnNLZXkoeCArIHN1YikpIHsKICAgICAgICAgICAgICAgICAgICAgICAgZiArPSBjb3VudC5nZXQoeCArIHN1Yik7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIGlmIChjb3VudC5jb250YWluc0tleSh4IC0gc3ViKSkgewogICAgICAgICAgICAgICAgICAgICAgICBmICs9IGNvdW50LmdldCh4IC0gc3ViKTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgaWYgKGYgPj0gcmVzdCkgewogICAgICAgICAgICAgICAgICAgICAgICBjb3N0ICs9IHJlc3QgKiBzdWI7CiAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHJlc3QgLT0gZjsKICAgICAgICAgICAgICAgICAgICAgICAgY29zdCArPSBmICogc3ViOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICBpZiAoY29zdCA+PSByZXMuZmlyc3RFbnRyeSgpLmdldEtleSgpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICBzdWIgKys7CiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oQXJyYXlzLnRvU3RyaW5nKGEpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gICAgICAgICAgICAgICAgICAgIOeUseWkp+aUueWwj+S7juWJjeW+gOWQjizkv53or4HlrZflhbjluo/mnIDlsI8K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIiIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29zdCArPSBzdWI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN1YisrOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY29zdCArPSBzdWI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oQXJyYXlzLnRvU3RyaW5nKGEpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IGYgPSAwOwogICAgICAgICAgICBpZiAoY291bnQuY29udGFpbnNLZXkoeCArIHN1YikpIHsKICAgICAgICAgICAgICAgIGYgKz0gY291bnQuZ2V0KHggKyBzdWIpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGlmIChjb3VudC5jb250YWluc0tleSh4IC0gc3ViKSkgewogICAgICAgICAgICAgICAgZiArPSBjb3VudC5nZXQoeCAtIHN1Yik7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgaWYgKGYgPj0gcmVzdCkgewogICAgICAgICAgICAgICAgY29zdCArPSByZXN0ICogc3ViOwogICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICByZXN0IC09IGY7CiAgICAgICAgICAgICAgICBjb3N0ICs9IGYgKiBzdWI7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgaWYgKGNvc3QgPj0gcmVzLmZpcnN0RW50cnkoKS5nZXRLZXkoKSkgewogICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKEFycmF5cy50b1N0cmluZyhhKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgY29zdCA9IDA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgY29zdCA9IDA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgc3ViID0gMTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlcy5maXJzdEVudHJ5KCk7Cg==</text>
       </register>
       <register name="y" type="4">
         <text>t</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zLy0vLw==</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -618,9 +618,9 @@
         <entry>qa</entry>
         <entry>action MethodDown</entry>
         <entry>action SearchEverywhere</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz5zLy0vL2c=</entry>
         <entry encoding="base64">JzwsJz5zLy0vLw==</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -685,6 +685,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
