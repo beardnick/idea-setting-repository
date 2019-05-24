@@ -189,8 +189,8 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/PickGoodNumber.java" timestamp="1558687360736">
-        <mark key="'" line="41" column="0" />
+      <file name="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/PickGoodNumber.java" timestamp="1558700554534">
+        <mark key="'" line="6" column="0" />
         <mark key="[" line="80" column="9" />
         <mark key="]" line="80" column="8" />
         <mark key="." line="80" column="8" />
@@ -435,14 +435,12 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="84" column="5" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/infra/persistence/sql/mapper/modules/management/sheep/SheepInformationMapper.java" />
       <jump line="88" column="160" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/infra/persistence/sql/mapper/modules/management/sheep/SheepInformationMapper.java" />
       <jump line="280" column="54" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/module/organic/CustomerController.java" />
       <jump line="128" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/PickGoodNumber.java" />
       <jump line="88" column="26" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/PickGoodNumber.java" />
       <jump line="138" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/PickGoodNumber.java" />
       <jump line="109" column="20" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/PickGoodNumber.java" />
-      <jump line="6" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/PickGoodNumber.java" />
       <jump line="130" column="34" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/PickGoodNumber.java" />
       <jump line="7" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/PlantTrees.java" />
       <jump line="17" column="16" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/PlantTrees.java" />
@@ -526,7 +524,6 @@
       <jump line="43" column="16" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/PickGoodNumber.java" />
       <jump line="102" column="8" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/PickGoodNumber.java" />
       <jump line="26" column="27" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/PickGoodNumber.java" />
-      <jump line="25" column="19" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/PickGoodNumber.java" />
       <jump line="51" column="16" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/PickGoodNumber.java" />
       <jump line="34" column="17" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/PickGoodNumber.java" />
       <jump line="24" column="0" filename="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/util/Comparator.class" />
@@ -535,6 +532,9 @@
       <jump line="20" column="31" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/Test.java" />
       <jump line="104" column="20" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/PickGoodNumber.java" />
       <jump line="41" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/PickGoodNumber.java" />
+      <jump line="25" column="19" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/PickGoodNumber.java" />
+      <jump line="18" column="30" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/PickGoodNumber.java" />
+      <jump line="6" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/PickGoodNumber.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
