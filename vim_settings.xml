@@ -26,7 +26,14 @@
         <mark key="^" line="5" column="3" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1556421653148">
+      <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/response/Responses.java" timestamp="1558916736991">
+        <mark key="'" line="48" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1558917596948">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/test/java/com/deep/CustomerTest.java" timestamp="1557667300334">
@@ -42,11 +49,6 @@
         <mark key="]" line="28" column="42" />
         <mark key="." line="28" column="42" />
         <mark key="^" line="28" column="42" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/resources/application-prod.properties" timestamp="1558273286193">
-        <mark key="[" line="0" column="14" />
-        <mark key="]" line="0" column="15" />
-        <mark key="." line="0" column="15" />
       </file>
       <file name="/Sheep.agent_factory [dev]" timestamp="1558429719904">
         <mark key="[" line="0" column="0" />
@@ -98,6 +100,9 @@
         <mark key="." line="56" column="0" />
         <mark key="^" line="56" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/module/management/authority/RoleResource.java" timestamp="1558917070514">
+        <mark key="'" line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/SpringNote/pom.xml" timestamp="1558915003001">
         <mark key="'" line="33" column="10" />
         <mark key="[" line="30" column="21" />
@@ -105,20 +110,21 @@
         <mark key="^" line="30" column="20" />
         <mark key="." line="30" column="20" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/resources/application-dev.properties" timestamp="1558273301436">
-        <mark key="[" line="0" column="15" />
-        <mark key="]" line="0" column="16" />
-        <mark key="." line="0" column="16" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/ExampleResource.java" timestamp="1558430266401">
         <mark key="'" line="37" column="2" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/extend/picture/PicController.java" timestamp="1558446441230">
+      <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/extend/picture/PicController.java" timestamp="1558916382880">
         <mark key="'" line="733" column="28" />
-        <mark key="[" line="78" column="19" />
-        <mark key="]" line="78" column="18" />
-        <mark key="." line="78" column="18" />
-        <mark key="^" line="78" column="18" />
+        <mark key="[" line="38" column="1" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+        <mark key="^" line="38" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/exception/ExceptionAdvice.java" timestamp="1558917649646">
+        <mark key="[" line="3" column="49" />
+        <mark key="]" line="3" column="48" />
+        <mark key="^" line="3" column="48" />
+        <mark key="." line="3" column="48" />
       </file>
       <file name="$USER_HOME$/study/IdeaProjects/ThinkingInJava/src/java8/Tuple.java" timestamp="1558747025728">
         <mark key="[" line="14" column="30" />
@@ -160,6 +166,9 @@
         <mark key="]" line="1" column="0" />
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/module/role/SysPermitResource.java" timestamp="1558917080419">
+        <mark key="'" line="75" column="0" />
       </file>
       <file name="/media/MyFile/downloads/Compressed/JDK-master/JDK1.8/src/java/util/Vector.java" timestamp="1557539686782">
         <mark key="'" line="1410" column="29" />
@@ -247,8 +256,8 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/response/Response.java" timestamp="1557659243664">
-        <mark key="'" line="10" column="13" />
+      <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/response/Response.java" timestamp="1558916484488">
+        <mark key="'" line="13" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/domain/service/module/management/level/FactoryService.java" timestamp="1558011330086">
         <mark key="[" line="106" column="0" />
@@ -268,6 +277,12 @@
         <mark key="]" line="403" column="0" />
         <mark key="." line="403" column="0" />
         <mark key="^" line="403" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/domain/service/module/management/authority/RoleService.java" timestamp="1558917055316">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/PlantTrees.java" timestamp="1558617389565">
         <mark key="'" line="62" column="24" />
@@ -295,6 +310,9 @@
         <mark key="]" line="19" column="27" />
         <mark key="^" line="19" column="27" />
         <mark key="." line="19" column="27" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/request/UserRequest.java" timestamp="1558916878508">
+        <mark key="'" line="68" column="0" />
       </file>
       <file name="/a.sql" timestamp="1558429736179">
         <mark key="[" line="0" column="0" />
@@ -369,6 +387,12 @@
       <file name="$USER_HOME$/IdeaProjects/SpringNote/.gitignore" timestamp="1558846540488">
         <mark key="'" line="16" column="4" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/exception/GlobalExceptionHandler.java" timestamp="1558917476128">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="4" column="16" />
+        <mark key="^" line="4" column="16" />
+        <mark key="." line="4" column="16" />
+      </file>
       <file name="$USER_HOME$/study/IdeaProjects/Exam/src/Exam.java" timestamp="1557318625476">
         <mark key="'" line="29" column="8" />
         <mark key="[" line="14" column="9" />
@@ -423,11 +447,6 @@
         <mark key="^" line="179" column="20" />
         <mark key="." line="179" column="20" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.java" timestamp="1558493706879">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-      </file>
       <file name="$USER_HOME$/study/IdeaProjects/ThinkingInJava/src/java8/TestLambda.java" timestamp="1558747218070">
         <mark key="'" line="10" column="0" />
         <mark key="[" line="18" column="34" />
@@ -466,26 +485,17 @@
       <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/domain/service/module/organic/CustomerServiceImpl.java" timestamp="1557659650833">
         <mark key="'" line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/BaseController.java" timestamp="1558915826984">
-        <mark key="[" line="2" column="29" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/BaseController.java" timestamp="1558916786183">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="22" column="12" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1558749725435">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="2" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/ExampleResource.java" />
-      <jump line="10" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/domain/model/extend/picture/PicExample.java" />
-      <jump line="1036" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/domain/model/extend/picture/PicExample.java" />
-      <jump line="752" column="20" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/extend/picture/PicController.java" />
-      <jump line="52" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/extend/picture/PicController.java" />
-      <jump line="127" column="4" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/extend/picture/PicController.java" />
-      <jump line="38" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/extend/picture/PicController.java" />
-      <jump line="733" column="28" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/extend/picture/PicController.java" />
-      <jump line="18" column="15" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/PlantTrees.java" />
       <jump line="72" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/PlantTrees.java" />
       <jump line="75" column="5" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/PlantTrees.java" />
       <jump line="6" column="7" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/MaxPair.java" />
@@ -577,16 +587,25 @@
       <jump line="12" column="0" filename="$USER_HOME$/IdeaProjects/SpringNote/pom.xml" />
       <jump line="29" column="0" filename="$USER_HOME$/IdeaProjects/SpringNote/pom.xml" />
       <jump line="33" column="10" filename="$USER_HOME$/IdeaProjects/SpringNote/pom.xml" />
+      <jump line="13" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/response/Response.java" />
+      <jump line="10" column="25" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/response/Responses.java" />
+      <jump line="48" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/response/Responses.java" />
+      <jump line="8" column="13" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/request/UserRequest.java" />
+      <jump line="102" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/request/UserRequest.java" />
+      <jump line="68" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/request/UserRequest.java" />
+      <jump line="3" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/module/management/authority/RoleResource.java" />
+      <jump line="18" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/module/role/SysPermitResource.java" />
+      <jump line="75" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/module/role/SysPermitResource.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>String, Object</text>
       </register>
       <register name="/" type="4">
-        <text>compare</text>
+        <text>valid</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsK</text>
@@ -595,40 +614,40 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgIFN0cmUK</text>
+        <text encoding="base64">ICAgICAgICBCZWFuVQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgIAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgIOS7juaWh+S7tuS4reeUn+aIkOa1gQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Ly8gICAgICAgIFN0cmUK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Ly8gICAgIAo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTUUxPdXRwdXQK</text>
+        <text encoding="base64">Ly8gICAgICAgIOS7juaWh+S7tuS4reeUn+aIkOa1gQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBTUUxPdXRwdXQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obmV3IEFycmF5TGlzdDxJbnRlZ2VyPi5zdHJlYW0oKS5yZWR1Y2UoTWF0aDo6bWF4KS5vckVsc2UoLTEpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>t</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q!</text>
       </register>
     </registers>
     <search>
-      <last-search>compare</last-search>
+      <last-search>valid</last-search>
       <last-offset />
-      <last-pattern>compare</last-pattern>
+      <last-pattern>valid</last-pattern>
       <last-replace />
       <last-substitute>-</last-substitute>
       <last-dir>1</last-dir>
@@ -636,7 +655,6 @@
     </search>
     <history>
       <history-search>
-        <entry>contact</entry>
         <entry>\/Sheep</entry>
         <entry>EarTag</entry>
         <entry>next</entry>
@@ -656,6 +674,7 @@
         <entry>res</entry>
         <entry>-</entry>
         <entry>compare</entry>
+        <entry>valid</entry>
       </history-search>
       <history-cmd>
         <entry>set vim-surround</entry>
@@ -668,13 +687,14 @@
         <entry>action Switcher</entry>
         <entry>action GotoDeclaration</entry>
         <entry>s/&quot;//g</entry>
-        <entry>q</entry>
         <entry>qa</entry>
         <entry>action MethodDown</entry>
         <entry>action SearchEverywhere</entry>
         <entry encoding="base64">JzwsJz5zLy0vL2c=</entry>
         <entry encoding="base64">JzwsJz5zLy0vLw==</entry>
         <entry>w</entry>
+        <entry>q</entry>
+        <entry>q!</entry>
       </history-cmd>
       <history-expr />
       <history-input />
