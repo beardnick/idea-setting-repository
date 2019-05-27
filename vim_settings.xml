@@ -98,12 +98,12 @@
         <mark key="." line="56" column="0" />
         <mark key="^" line="56" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/SpringNote/pom.xml" timestamp="1558848476668">
-        <mark key="'" line="33" column="0" />
-        <mark key="[" line="34" column="1" />
-        <mark key="]" line="34" column="0" />
-        <mark key="^" line="34" column="0" />
-        <mark key="." line="34" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/SpringNote/pom.xml" timestamp="1558915003001">
+        <mark key="'" line="33" column="10" />
+        <mark key="[" line="30" column="21" />
+        <mark key="]" line="30" column="20" />
+        <mark key="^" line="30" column="20" />
+        <mark key="." line="30" column="20" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/resources/application-dev.properties" timestamp="1558273301436">
         <mark key="[" line="0" column="15" />
@@ -466,12 +466,17 @@
       <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/domain/service/module/organic/CustomerServiceImpl.java" timestamp="1557659650833">
         <mark key="'" line="22" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/BaseController.java" timestamp="1558915144154">
+        <mark key="[" line="2" column="29" />
+        <mark key="]" line="2" column="27" />
+        <mark key="^" line="2" column="27" />
+        <mark key="." line="2" column="27" />
+      </file>
       <file name="/fragment.java" timestamp="1558749725435">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="239" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/resources/mapper/CustomerMapper.xml" />
       <jump line="37" column="2" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/ExampleResource.java" />
       <jump line="10" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/domain/model/extend/picture/PicExample.java" />
       <jump line="1036" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/domain/model/extend/picture/PicExample.java" />
@@ -570,7 +575,8 @@
       <jump line="6" column="0" filename="$USER_HOME$/IdeaProjects/SpringNote/pom.xml" />
       <jump line="21" column="0" filename="$USER_HOME$/IdeaProjects/SpringNote/pom.xml" />
       <jump line="12" column="0" filename="$USER_HOME$/IdeaProjects/SpringNote/pom.xml" />
-      <jump line="33" column="0" filename="$USER_HOME$/IdeaProjects/SpringNote/pom.xml" />
+      <jump line="29" column="0" filename="$USER_HOME$/IdeaProjects/SpringNote/pom.xml" />
+      <jump line="33" column="10" filename="$USER_HOME$/IdeaProjects/SpringNote/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
