@@ -294,8 +294,8 @@
         <mark key="^" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/PlantTrees.java" timestamp="1559004429993">
-        <mark key="'" line="76" column="0" />
+      <file name="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/PlantTrees.java" timestamp="1559006972664">
+        <mark key="'" line="7" column="0" />
         <mark key="[" line="64" column="26" />
         <mark key="]" line="64" column="29" />
         <mark key="." line="64" column="29" />
@@ -313,6 +313,12 @@
         <mark key="]" line="798" column="22" />
         <mark key="^" line="798" column="22" />
         <mark key="." line="798" column="22" />
+      </file>
+      <file name="$USER_HOME$/study/IdeaProjects/LeetCode/src/hard/LeetCode4.java" timestamp="1559007344677">
+        <mark key="[" line="4" column="79" />
+        <mark key="]" line="16" column="4" />
+        <mark key="." line="16" column="4" />
+        <mark key="^" line="16" column="4" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/domain/model/module/chat/Client.java" timestamp="1556349916873">
         <mark key="'" line="9" column="0" />
@@ -507,11 +513,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/InclusionExclusionPrinciple.java" />
-      <jump line="32" column="18" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/InclusionExclusionPrinciple.java" />
-      <jump line="57" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/InclusionExclusionPrinciple.java" />
-      <jump line="59" column="4" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/InclusionExclusionPrinciple.java" />
-      <jump line="61" column="6" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/InclusionExclusionPrinciple.java" />
       <jump line="54" column="9" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/InclusionExclusionPrinciple.java" />
       <jump line="53" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/InclusionExclusionPrinciple.java" />
       <jump line="23" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/InclusionExclusionPrinciple.java" />
@@ -607,10 +608,15 @@
       <jump line="47" column="31" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/PlantTrees.java" />
       <jump line="24" column="15" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/PlantTrees.java" />
       <jump line="76" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/PlantTrees.java" />
+      <jump line="7" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/PlantTrees.java" />
+      <jump line="12" column="45" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/hard/LeetCode4.java" />
+      <jump line="76" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/hard/LeetCode4.java" />
+      <jump line="35" column="16" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/hard/LeetCode4.java" />
+      <jump line="64" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/hard/LeetCode4.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHJldHVybiBSZXNwb25zZXMuc3VjY2Vzc1Jlc3BvbnNlKHJlc3BvbnNlRGF0YSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
         <text>致</text>
@@ -622,31 +628,31 @@
         <text encoding="base64">ICAgICAgICBhZGRBdHRyaWJ1dGUoIlN0cmluZyIsICJoZWxsbyB3b3JsZCEiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHJldHVybiBSZXNwb25zZXMuc3VjY2Vzc1Jlc3BvbnNlKHJlc3BvbnNlRGF0YSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHJlc3BvbnNlRGF0YS5wdXQoa2V5LCB2YWx1ZSk7Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYm9vbGVhbiBpc0V2ZW4gPSAobnVtczEubGVuZ3RoICsgbnVtczIubGVuZ3RoICkgJSAyID09IDA7CiAgICAgICAgICAgIGludCBoYWxmU2l6ZTsKICAgICAgICAgICAgaWYoaXNFdmVuKXsKICAgICAgICAgICAgICAgIGhhbGZTaXplID0gKG51bXMxLmxlbmd0aCArIG51bXMyLmxlbmd0aCkgLyAyIC0gMTsKICAgICAgICAgICAgfWVsc2UgewogICAgICAgICAgICAgICAgaGFsZlNpemUgPSAobnVtczEubGVuZ3RoICsgbnVtczIubGVuZ3RoKSAvIDI7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgaWYobnVtczEubGVuZ3RoID09IDAgfHwgbnVtczIubGVuZ3RoID09IDApewogICAgICAgICAgICAgICAgaWYobnVtczIubGVuZ3RoID09IDApewogICAgICAgICAgICAgICAgICAgIHJldHVybiBpc0V2ZW4gPyAoKGRvdWJsZSludW1zMVtudW1zMS5sZW5ndGggLyAyXSArIChkb3VibGUpbnVtczFbbnVtczEubGVuZ3RoIC8gMiAtMV0pIC8gMjogKGRvdWJsZSkgbnVtczFbbnVtczEubGVuZ3RoIC8gMl07CiAgICAgICAgICAgICAgICB9ZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGlzRXZlbiA/ICgoZG91YmxlKW51bXMyW251bXMyLmxlbmd0aCAvIDJdICsgKGRvdWJsZSludW1zMltudW1zMi5sZW5ndGggLyAyIC0xXSkgLyAyOiAoZG91YmxlKSBudW1zMltudW1zMi5sZW5ndGggLyAyXTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgICAgICBpbnQgbGVmdCA9IDAsIHJpZ2h0ID0gbnVtczEubGVuZ3RoLCBpbmRleDEgPSAobGVmdCArIHJpZ2h0KSAvIDI7CiAgICAgICAgICAgIGludCBpbmRleDIgPSAwOwogICAgICAgICAgICB3aGlsZSAobGVmdCA8IHJpZ2h0ICYmCiAgICAgICAgICAgICAgICAgICAgaGFsZlNpemUgLSAobGVmdCArIHJpZ2h0KSAvIDIgPj0gMCAmJgogICAgICAgICAgICAgICAgICAgIGhhbGZTaXplIC0gKGxlZnQgKyByaWdodCkgLyAyIDw9IG51bXMyLmxlbmd0aCAtIDEgKXsKICAgICAgICAgICAgICAgIGluZGV4MSA9IChsZWZ0ICsgcmlnaHQgKSAvIDI7CiAgICAgICAgICAgICAgICBpbmRleDIgPSBoYWxmU2l6ZSAtIGluZGV4MTsKLy8gICAgICAgICAgICBpZihoYWxmU2l6ZSAtIGluZGV4MSA8IDAgfHwgaGFsZlNpemUgLSBpbmRleDEgPiBudW1zMi5sZW5ndGggLSAxKWJyZWFrOwovLyAgICAgICAgICAgIGlmKGluZGV4MiA+IG51bXMyLmxlbmd0aCAtIDEpYnJlYWs7CiAgICAgICAgICAgICAgICBpZigoaW5kZXgyID09IDAgfHwgbnVtczFbaW5kZXgxXSA+PSBudW1zMltpbmRleDIgLSAxXSkgJiYKICAgICAgICAgICAgICAgICAgICAgICAgKGluZGV4MSA9PSAwIHx8IG51bXMyW2luZGV4Ml0gPj0gbnVtczFbaW5kZXgxIC0gMV0pKXsKICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgIH1lbHNlIGlmKGluZGV4MiAhPSAwICYmIG51bXMxW2luZGV4MV0gPCBudW1zMltpbmRleDIgLSAxXSApIHsKICAgICAgICAgICAgICAgICAgICBsZWZ0ID0gaW5kZXgxICsgMTsKICAgICAgICAgICAgICAgIH1lbHNlIHsKICAgICAgICAgICAgICAgICAgICByaWdodCA9IGluZGV4MTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgICAgICBkb3VibGUgYSAsIGI7CiAgICAgICAgICAgIGlmKGxlZnQgPj0gcmlnaHQgfHwKICAgICAgICAgICAgICAgICAgICBoYWxmU2l6ZSAtIChsZWZ0ICsgcmlnaHQpIC8gMiA8IDAgfHwKICAgICAgICAgICAgICAgICAgICBoYWxmU2l6ZSAtIChsZWZ0ICsgcmlnaHQpIC8gMiA+IG51bXMyLmxlbmd0aCAtIDEgKXsKICAgICAgICAgICAgICAgIGlmKG51bXMxLmxlbmd0aCA+IG51bXMyLmxlbmd0aCl7CiAgICAgICAgICAgICAgICAgICAgaWYobnVtczJbaW5kZXgyXSA8IG51bXMxW2luZGV4MV0pewogICAgICAgICAgICAgICAgICAgICAgICBhID0gKGRvdWJsZSludW1zMVtpbmRleDEgLSAxXTsKICAgICAgICAgICAgICAgICAgICAgICAgYiA9IChkb3VibGUpbnVtczFbaW5kZXgxXTsKICAgICAgICAgICAgICAgICAgICB9ZWxzZXsKICAgICAgICAgICAgICAgICAgICAgICAgYSA9IChkb3VibGUpbnVtczFbaW5kZXgxXTsKICAgICAgICAgICAgICAgICAgICAgICAgYiA9IChkb3VibGUpbnVtczFbaW5kZXgxICsgMV07CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfWVsc2V7CiAgICAgICAgICAgICAgICAgICAgaWYobnVtczFbaW5kZXgxXSA8IG51bXMyW2luZGV4Ml0pIHsKICAgICAgICAgICAgICAgICAgICAgICAgYSA9IChkb3VibGUpbnVtczJbaW5kZXgyIC0gMV07CiAgICAgICAgICAgICAgICAgICAgICAgIGIgPSAoZG91YmxlKW51bXMyW2luZGV4Ml07CiAgICAgICAgICAgICAgICAgICAgfWVsc2V7CiAgICAgICAgICAgICAgICAgICAgICAgIGEgPSAoZG91YmxlKW51bXMyW2luZGV4Ml07CiAgICAgICAgICAgICAgICAgICAgICAgIGIgPSAoZG91YmxlKW51bXMyW2luZGV4MiArIDFdOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfWVsc2UgewogICAgICAgICAgICAgICAgYSA9IChkb3VibGUpbnVtczFbaW5kZXgxXTsKICAgICAgICAgICAgICAgIGIgPSAoZG91YmxlKW51bXMyW2luZGV4Ml07CiAgICAgICAgICAgIH0KICAgICAgICAgICAgaWYoaXNFdmVuKXsKICAgICAgICAgICAgICAgIHJldHVybiAoYSArIGIpIC8gMjsKICAgICAgICAgICAgfWVsc2UgewogICAgICAgICAgICAgICAgcmV0dXJuIE1hdGgubWluKGEsIGIpOwogICAgICAgICAgICB9Cg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgaW50IGluZGV4ID0gMDsK</text>
+        <text encoding="base64">Ly8gICAgICAgIHJldHVybiBSZXNwb25zZXMuc3VjY2Vzc1Jlc3BvbnNlKHJlc3BvbnNlRGF0YSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhZGRBdHRyaWJ1dGUoIkludGVnZXIiLCApOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgIHJlc3BvbnNlRGF0YS5wdXQoa2V5LCB2YWx1ZSk7Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHJlc3BvbnNlRGF0YS5wdXQoImluZGV4IiwgKysgaW5kZXgpOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgaW50IGluZGV4ID0gMDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhZGRBdHRyaWJ1dGUoImluZGV4IiwgICsrIGluZGV4KTsK</text>
+        <text encoding="base64">ICAgICAgICBhZGRBdHRyaWJ1dGUoIkludGVnZXIiLCApOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGludCBpbmRleCA9IDA7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>t</text>
