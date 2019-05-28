@@ -502,8 +502,8 @@
       <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/domain/service/module/organic/CustomerServiceImpl.java" timestamp="1557659650833">
         <mark key="'" line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/BaseController.java" timestamp="1559033316746">
-        <mark key="'" line="7" column="18" />
+      <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/BaseController.java" timestamp="1559037081783">
+        <mark key="'" line="17" column="0" />
         <mark key="[" line="9" column="6" />
         <mark key="]" line="9" column="6" />
         <mark key="^" line="9" column="6" />
@@ -592,7 +592,6 @@
       <jump line="7" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/test/TestBaseController.java" />
       <jump line="2" column="29" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/test/TestBaseController.java" />
       <jump line="15" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/test/TestBaseController.java" />
-      <jump line="17" column="3" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/BaseController.java" />
       <jump line="16" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/BaseController.java" />
       <jump line="47" column="31" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/PlantTrees.java" />
       <jump line="24" column="15" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/PlantTrees.java" />
@@ -614,6 +613,7 @@
       <jump line="70" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/hard/LeetCode4.java" />
       <jump line="14" column="28" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/BaseController.java" />
       <jump line="7" column="18" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/BaseController.java" />
+      <jump line="17" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/BaseController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
