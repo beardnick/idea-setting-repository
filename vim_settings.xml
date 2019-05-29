@@ -168,6 +168,9 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="0" column="15" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/authorization/annotation/Permit.java" timestamp="1559137187999">
+        <mark key="'" line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/application/DeepApplication.java" timestamp="1556347445006">
         <mark key="'" line="9" column="38" />
         <mark key="[" line="15" column="13" />
@@ -198,7 +201,7 @@
         <mark key="^" line="0" column="25" />
         <mark key="." line="0" column="25" />
       </file>
-      <file name="/Sheep.sys_permit [dev]" timestamp="1556957360544">
+      <file name="/Sheep.sys_permit [dev]" timestamp="1559137201892">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/test/TestBaseController.java" timestamp="1559133202154">
@@ -392,7 +395,7 @@
       <file name="/Dummy.vm" timestamp="1556950978660">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1558429722477">
+      <file name="/dummy.sql" timestamp="1559137205590">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/805e4069-8d91-4fce-a056-4ef1b61095fd/console.sql" timestamp="1557475306430">
@@ -557,8 +560,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="17" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/Test.java" />
-      <jump line="12" column="30" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/hard/LeetCode4.java" />
       <jump line="35" column="35" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/hard/LeetCode4.java" />
       <jump line="36" column="57" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/hard/LeetCode4.java" />
       <jump line="37" column="80" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/hard/LeetCode4.java" />
@@ -657,6 +658,8 @@
       <jump line="0" column="12" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/exception/ExceptionHandler.java" />
       <jump line="4" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/exception/ExceptionHandler.java" />
       <jump line="20" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/exception/ExceptionHandler.java" />
+      <jump line="2" column="18" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/authorization/annotation/Permit.java" />
+      <jump line="3" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/authorization/annotation/Permit.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
