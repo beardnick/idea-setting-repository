@@ -201,11 +201,12 @@
       <file name="/Sheep.sys_permit [dev]" timestamp="1556957360544">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/test/TestBaseController.java" timestamp="1559131956813">
+      <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/test/TestBaseController.java" timestamp="1559133202154">
         <mark key="'" line="10" column="0" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
+        <mark key="[" line="17" column="32" />
+        <mark key="]" line="17" column="31" />
+        <mark key="." line="17" column="31" />
+        <mark key="^" line="17" column="31" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/domain/service/module/management/sheep/SheepInformationService.java" timestamp="1556961763399">
         <mark key="'" line="351" column="0" />
@@ -527,12 +528,12 @@
         <mark key="." line="28" column="15" />
         <mark key="^" line="28" column="15" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/exception/ExceptionHandler.java" timestamp="1559132452132">
+      <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/exception/ExceptionHandler.java" timestamp="1559135255393">
         <mark key="'" line="20" column="0" />
-        <mark key="[" line="13" column="51" />
-        <mark key="]" line="13" column="50" />
-        <mark key="^" line="13" column="50" />
-        <mark key="." line="13" column="50" />
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="0" column="12" />
+        <mark key="^" line="0" column="12" />
+        <mark key="." line="0" column="12" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/module/organic/SaleMapper.java" timestamp="1556974772766">
         <mark key="'" line="1" column="0" />
@@ -556,11 +557,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/hard/LeetCode4.java" />
-      <jump line="32" column="8" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/hard/LeetCode4.java" />
-      <jump line="27" column="34" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/Test.java" />
-      <jump line="18" column="75" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/hard/LeetCode4.java" />
-      <jump line="24" column="16" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/hard/LeetCode4.java" />
       <jump line="29" column="17" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/Test.java" />
       <jump line="12" column="30" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/hard/LeetCode4.java" />
       <jump line="35" column="35" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/hard/LeetCode4.java" />
@@ -655,6 +651,11 @@
       <jump line="10" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/test/TestBaseController.java" />
       <jump line="20" column="31" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/ExceptionHandler.java" />
       <jump line="6" column="50" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/exception/ExceptionHandler.java" />
+      <jump line="3" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/exception/ExceptionHandler.java" />
+      <jump line="19" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/exception/ExceptionHandler.java" />
+      <jump line="18" column="53" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/exception/ExceptionHandler.java" />
+      <jump line="0" column="12" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/exception/ExceptionHandler.java" />
+      <jump line="4" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/exception/ExceptionHandler.java" />
       <jump line="20" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/exception/ExceptionHandler.java" />
     </jumps>
     <registers>
