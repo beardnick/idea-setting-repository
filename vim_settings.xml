@@ -179,12 +179,12 @@
       <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/request/UserRequest.java" timestamp="1559130277541">
         <mark key="'" line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/study/IdeaProjects/LeetCode/src/normal/LeetCode11.java" timestamp="1559197921777">
-        <mark key="'" line="82" column="19" />
-        <mark key="[" line="55" column="9" />
-        <mark key="]" line="56" column="19" />
-        <mark key="." line="56" column="19" />
-        <mark key="^" line="56" column="19" />
+      <file name="$USER_HOME$/study/IdeaProjects/LeetCode/src/normal/LeetCode11.java" timestamp="1559204856761">
+        <mark key="'" line="12" column="8" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="^" line="18" column="21" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="/a.sql" timestamp="1558429736179">
         <mark key="[" line="0" column="0" />
@@ -590,10 +590,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="92" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/normal/LeetCode5.java" />
-      <jump line="2" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/normal/LeetCode5.java" />
-      <jump line="65" column="29" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/normal/LeetCode5.java" />
-      <jump line="72" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/normal/LeetCode5.java" />
       <jump line="75" column="8" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/normal/LeetCode5.java" />
       <jump line="83" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/normal/LeetCode5.java" />
       <jump line="70" column="20" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/normal/LeetCode5.java" />
@@ -688,56 +684,58 @@
       <jump line="14" column="39" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/normal/LeetCode11.java" />
       <jump line="71" column="12" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/normal/LeetCode11.java" />
       <jump line="82" column="35" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/normal/LeetCode11.java" />
-      <jump line="61" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/normal/LeetCode11.java" />
       <jump line="84" column="19" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/normal/LeetCode11.java" />
+      <jump line="61" column="44" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/normal/LeetCode11.java" />
+      <jump line="98" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/normal/LeetCode11.java" />
+      <jump line="6" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/normal/LeetCode11.java" />
+      <jump line="95" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/normal/LeetCode11.java" />
+      <jump line="12" column="8" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/normal/LeetCode11.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>else {
-                        left[i] = maxLeft(height[i], left[i - 1], height);
-                    }</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoc3RhcnQgPiBoZWlnaHQubGVuZ3RoIC0gMSkgewogICAgICAgICAgICByZXR1cm4gLTE7CiAgICAgICAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>start</text>
       </register>
       <register name="/" type="4">
         <text>valid</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbnQgdGVtcCA9IG1heFJpZ2h0KGhlaWdodFtpXSwgaSwgaGVpZ2h0KTsKICAgICAgICAgICAgICAgICAgICByaWdodFtpXSA9IHRlbXAgPT0gaSA/IC0xIDogdGVtcDsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoc3RhcnQgPiBoZWlnaHQubGVuZ3RoIC0gMSkgewogICAgICAgICAgICByZXR1cm4gLTE7CiAgICAgICAgfQo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoc3RhcnQgPiBoZWlnaHQubGVuZ3RoIC0gMSkgewogICAgICAgICAgICByZXR1cm4gLTE7CiAgICAgICAgfQo=</text>
+      </register>
+      <register name="2" type="4">
         <text>else {
                         left[i] = maxLeft(height[i], left[i - 1], height);
                     }</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBpZih0ZW1wID09IHN0YXJ0ICYmIGhlaWdodFtzdGFydF0gPCApCg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gdGVtcDsK</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsZWZ0W2ldID0gbWluTGVmdChoZWlnaHRbaV0sIGxlZnRbaSArIDFdLCBoZWlnaHQpOwo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>else {
 //                        left[i] = maxRight(height[i], left[i - 1], height);
                             int temp = maxRight(height[i], i, height);
                             right[i] = temp == i ? -1 : temp;
                     }</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbnQgdGVtcCA9IG1heFJpZ2h0KGhlaWdodFtpXSwgaSwgaGVpZ2h0KTsKICAgICAgICAgICAgICAgICAgICByaWdodFtpXSA9IHRlbXAgPT0gaSA/IC0xIDogdGVtcDsK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsZWZ0W2ldID0gbWluTGVmdChoZWlnaHRbaV0sIGxlZnRbaSArIDFdLCBoZWlnaHQpOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIGxlZnRbaV0gPSBtaW5MZWZ0KGhlaWdodFtpXSwgbGVmdFtpICsgMV0sIGhlaWdodCk7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbGVmdFtpXSA9IG1heFJpZ2h0KCkK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIGxlZnRbaV0gPSBtaW5MZWZ0KGhlaWdodFtpXSwgbGVmdFtpICsgMV0sIGhlaWdodCk7Cg==</text>
       </register>
       <register name="y" type="4">
         <text>t</text>
