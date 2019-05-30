@@ -179,12 +179,12 @@
       <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/request/UserRequest.java" timestamp="1559130277541">
         <mark key="'" line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/study/IdeaProjects/LeetCode/src/normal/LeetCode11.java" timestamp="1559204856761">
-        <mark key="'" line="12" column="8" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="^" line="18" column="21" />
-        <mark key="." line="30" column="0" />
+      <file name="$USER_HOME$/study/IdeaProjects/LeetCode/src/normal/LeetCode11.java" timestamp="1559208077213">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="81" column="1" />
+        <mark key="]" line="81" column="0" />
+        <mark key="." line="81" column="0" />
+        <mark key="^" line="81" column="0" />
       </file>
       <file name="/a.sql" timestamp="1558429736179">
         <mark key="[" line="0" column="0" />
@@ -590,13 +590,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="8" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/normal/LeetCode5.java" />
-      <jump line="83" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/normal/LeetCode5.java" />
-      <jump line="70" column="20" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/normal/LeetCode5.java" />
-      <jump line="91" column="43" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/normal/LeetCode5.java" />
-      <jump line="85" column="60" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/normal/LeetCode5.java" />
-      <jump line="84" column="8" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/normal/LeetCode5.java" />
-      <jump line="57" column="4" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/normal/LeetCode5.java" />
       <jump line="18" column="26" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/normal/LeetCode5.java" />
       <jump line="7" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/normal/LeetCode5.java" />
       <jump line="79" column="55" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/normal/LeetCode5.java" />
@@ -684,78 +677,78 @@
       <jump line="14" column="39" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/normal/LeetCode11.java" />
       <jump line="71" column="12" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/normal/LeetCode11.java" />
       <jump line="82" column="35" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/normal/LeetCode11.java" />
-      <jump line="84" column="19" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/normal/LeetCode11.java" />
       <jump line="61" column="44" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/normal/LeetCode11.java" />
-      <jump line="98" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/normal/LeetCode11.java" />
       <jump line="6" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/normal/LeetCode11.java" />
       <jump line="95" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/normal/LeetCode11.java" />
       <jump line="12" column="8" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/normal/LeetCode11.java" />
+      <jump line="58" column="8" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/normal/LeetCode11.java" />
+      <jump line="84" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/normal/LeetCode11.java" />
+      <jump line="49" column="15" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/normal/LeetCode11.java" />
+      <jump line="98" column="35" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/normal/LeetCode11.java" />
+      <jump line="106" column="25" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/normal/LeetCode11.java" />
+      <jump line="111" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/normal/LeetCode11.java" />
+      <jump line="74" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/normal/LeetCode11.java" />
+      <jump line="116" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/normal/LeetCode11.java" />
+      <jump line="16" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/normal/LeetCode11.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoc3RhcnQgPiBoZWlnaHQubGVuZ3RoIC0gMSkgewogICAgICAgICAgICByZXR1cm4gLTE7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>start</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
-        <text>valid</text>
+        <text>left</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoc3RhcnQgPiBoZWlnaHQubGVuZ3RoIC0gMSkgewogICAgICAgICAgICByZXR1cm4gLTE7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IGhlaWdodC5sZW5ndGg7IGkrKykgewogICAgICAgICAgICBpZiAobGVmdFtpXSAhPSAtMSAmJiAobGVmdFtpXSAtIGkpICogaGVpZ2h0W2ldID4gbWF4KSB7CiAgICAgICAgICAgICAgICBtYXggPSAobGVmdFtpXSAtIGkpICogaGVpZ2h0W2ldOwogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoc3RhcnQgPiBoZWlnaHQubGVuZ3RoIC0gMSkgewogICAgICAgICAgICByZXR1cm4gLTE7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="2" type="4">
-        <text>else {
-                        left[i] = maxLeft(height[i], left[i - 1], height);
-                    }</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gMDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZih0ZW1wID09IHN0YXJ0ICYmIGhlaWdodFtzdGFydF0gPCApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdGVtcDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsZWZ0W2ldID0gbWluTGVmdChoZWlnaHRbaV0sIGxlZnRbaSArIDFdLCBoZWlnaHQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiaW5kZXg6ICIgKyBpKTsK</text>
       </register>
-      <register name="6" type="4">
-        <text>else {
-//                        left[i] = maxRight(height[i], left[i - 1], height);
-                            int temp = maxRight(height[i], i, height);
-                            right[i] = temp == i ? -1 : temp;
-                    }</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbnQgdGVtcCA9IG1heFJpZ2h0KGhlaWdodFtpXSwgaSwgaGVpZ2h0KTsKICAgICAgICAgICAgICAgICAgICByaWdodFtpXSA9IHRlbXAgPT0gaSA/IC0xIDogdGVtcDsK</text>
+        <text encoding="base64">CiAgICAgICAgcmV0dXJuIDA7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsZWZ0W2ldID0gbWluTGVmdChoZWlnaHRbaV0sIGxlZnRbaSArIDFdLCBoZWlnaHQpOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgIGZvciAoaW50IGkgPSBoZWlnaHQubGVuZ3RoOyBpID49IDA7IGktLSkgewovLyAgICAgICAgICAgIGlmKGkgPCBoZWlnaHQubGVuZ3RoIC0gMSAmJiByaWdodFtpICsgMV0gIT0gLTEpewovLyAgICAgICAgICAgICAgICBpZiAoaGVpZ2h0W2ldID4gaGVpZ2h0W2kgKyAxXSkgewovLyAgICAgICAgICAgICAgICAgICAgbGVmdFtpXSA9IG1heFJpZ2h0KGhlaWdodFtpXSwgbGVmdFtpICsgMV0sIGhlaWdodCk7Ci8vICAgICAgICAgICAgICAgIH0gZWxzZSB7Ci8vICAgICAgICAgICAgICAgICAgICBpbnQgdGVtcCA9IG1heFJpZ2h0KGhlaWdodFtpXSwgaSwgaGVpZ2h0KTsKLy8gICAgICAgICAgICAgICAgICAgIHJpZ2h0W2ldID0gdGVtcCA9PSBpID8gLTEgOiB0ZW1wOwovLyAgICAgICAgICAgICAgICB9Ci8vICAgICAgICAgICAgfQovLyAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigicmlnaHQ6IiArIEFycmF5cy50b1N0cmluZyhyaWdodCkpOwovLyAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIGxlZnRbaV0gPSBtaW5MZWZ0KGhlaWdodFtpXSwgbGVmdFtpICsgMV0sIGhlaWdodCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdGVtcDsK</text>
       </register>
       <register name="y" type="4">
         <text>t</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz5zL2xlZnQvcmlnaHQvZw==</text>
       </register>
     </registers>
     <search>
-      <last-search>valid</last-search>
+      <last-search>left</last-search>
       <last-offset />
-      <last-pattern>valid</last-pattern>
-      <last-replace />
-      <last-substitute>\r</last-substitute>
+      <last-pattern>left</last-pattern>
+      <last-replace>right</last-replace>
+      <last-substitute>left</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>&quot;</entry>
         <entry>deta</entry>
         <entry>address</entry>
         <entry>total</entry>
@@ -775,9 +768,9 @@
         <entry>system</entry>
         <entry encoding="base64">XDxwdWJsaWNcPg==</entry>
         <entry>valid</entry>
+        <entry>left</entry>
       </history-search>
       <history-cmd>
-        <entry>action LastEditLocation</entry>
         <entry>action Forward</entry>
         <entry>action Reformat Code</entry>
         <entry>%s/LOCK/stack/g</entry>
@@ -797,6 +790,7 @@
         <entry>%s/\r//g</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5zL2xlZnQvcmlnaHQvZw==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
