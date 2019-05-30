@@ -179,12 +179,12 @@
       <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/request/UserRequest.java" timestamp="1559130277541">
         <mark key="'" line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/study/IdeaProjects/LeetCode/src/normal/LeetCode11.java" timestamp="1559194682612">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="18" column="49" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-        <mark key="^" line="21" column="7" />
+      <file name="$USER_HOME$/study/IdeaProjects/LeetCode/src/normal/LeetCode11.java" timestamp="1559196840893">
+        <mark key="'" line="82" column="19" />
+        <mark key="[" line="55" column="9" />
+        <mark key="]" line="56" column="19" />
+        <mark key="." line="56" column="19" />
+        <mark key="^" line="56" column="19" />
       </file>
       <file name="/a.sql" timestamp="1558429736179">
         <mark key="[" line="0" column="0" />
@@ -590,10 +590,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="12" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/normal/LeetCode5.java" />
-      <jump line="29" column="16" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/normal/LeetCode5.java" />
-      <jump line="49" column="3" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/normal/LeetCode5.java" />
-      <jump line="58" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/normal/LeetCode5.java" />
       <jump line="92" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/normal/LeetCode5.java" />
       <jump line="2" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/normal/LeetCode5.java" />
       <jump line="65" column="29" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/normal/LeetCode5.java" />
@@ -688,48 +684,60 @@
       <jump line="79" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/ThrowGlassBall.java" />
       <jump line="4" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/ThrowGlassBall.java" />
       <jump line="5" column="16" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/normal/LeetCode11.java" />
-      <jump line="14" column="12" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/normal/LeetCode11.java" />
       <jump line="3" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/normal/LeetCode11.java" />
+      <jump line="14" column="39" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/normal/LeetCode11.java" />
+      <jump line="71" column="12" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/normal/LeetCode11.java" />
+      <jump line="82" column="35" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/normal/LeetCode11.java" />
+      <jump line="61" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/normal/LeetCode11.java" />
+      <jump line="84" column="19" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/normal/LeetCode11.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>else {
+                        left[i] = maxLeft(height[i], left[i - 1], height);
+                    }</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>valid</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpbnRbXSBsZWZ0ID0gbmV3IGludFtoZWlnaHQubGVuZ3RoXTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbnQgdGVtcCA9IG1heFJpZ2h0KGhlaWdodFtpXSwgaSwgaGVpZ2h0KTsKICAgICAgICAgICAgICAgICAgICByaWdodFtpXSA9IHRlbXAgPT0gaSA/IC0xIDogdGVtcDsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="1" type="4">
+        <text>else {
+                        left[i] = maxLeft(height[i], left[i - 1], height);
+                    }</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBpZih0ZW1wID09IHN0YXJ0ICYmIGhlaWdodFtzdGFydF0gPCApCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdGVtcDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsZWZ0W2ldID0gbWluTGVmdChoZWlnaHRbaV0sIGxlZnRbaSArIDFdLCBoZWlnaHQpOwo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="5" type="4">
+        <text>else {
+//                        left[i] = maxRight(height[i], left[i - 1], height);
+                            int temp = maxRight(height[i], i, height);
+                            right[i] = temp == i ? -1 : temp;
+                    }</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbnQgdGVtcCA9IG1heFJpZ2h0KGhlaWdodFtpXSwgaSwgaGVpZ2h0KTsKICAgICAgICAgICAgICAgICAgICByaWdodFtpXSA9IHRlbXAgPT0gaSA/IC0xIDogdGVtcDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsZWZ0W2ldID0gbWluTGVmdChoZWlnaHRbaV0sIGxlZnRbaSArIDFdLCBoZWlnaHQpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIGxlZnRbaV0gPSBtaW5MZWZ0KGhlaWdodFtpXSwgbGVmdFtpICsgMV0sIGhlaWdodCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbGVmdFtpXSA9IG1heFJpZ2h0KCkK</text>
       </register>
       <register name="y" type="4">
         <text>t</text>
