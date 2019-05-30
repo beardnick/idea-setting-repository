@@ -179,6 +179,13 @@
       <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/request/UserRequest.java" timestamp="1559130277541">
         <mark key="'" line="27" column="0" />
       </file>
+      <file name="$USER_HOME$/study/IdeaProjects/LeetCode/src/normal/LeetCode11.java" timestamp="1559193968426">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="18" column="13" />
+        <mark key="]" line="18" column="12" />
+        <mark key="^" line="18" column="12" />
+        <mark key="." line="18" column="12" />
+      </file>
       <file name="/a.sql" timestamp="1558429736179">
         <mark key="[" line="0" column="0" />
       </file>
@@ -583,9 +590,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/normal/LeetCode5.java" />
-      <jump line="51" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/normal/LeetCode5.java" />
-      <jump line="60" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/normal/LeetCode5.java" />
       <jump line="12" column="12" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/normal/LeetCode5.java" />
       <jump line="29" column="16" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/normal/LeetCode5.java" />
       <jump line="49" column="3" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/normal/LeetCode5.java" />
@@ -683,46 +687,49 @@
       <jump line="6" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/ThrowGlassBall.java" />
       <jump line="79" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/ThrowGlassBall.java" />
       <jump line="4" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/ThrowGlassBall.java" />
+      <jump line="5" column="16" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/normal/LeetCode11.java" />
+      <jump line="14" column="12" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/normal/LeetCode11.java" />
+      <jump line="3" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/normal/LeetCode11.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>j</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>j</text>
       </register>
       <register name="/" type="4">
         <text>valid</text>
       </register>
-      <register name="0" type="4">
-        <text>Arrays.toString(</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obWF4QXJlYShuZXcgaW50W117MSw4LDYsMiw1LDQsOCwzLDd9KSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHdoaWxlICghc3RhY2suaXNFbXB0eSgpKSB7Ci8vICAgICAgICAgICAgcmVzdWx0W2NudCsrXSA9IHN0YWNrLmdldExhc3QoKTsKLy8gICAgICAgICAgICBzdGFjay5yZW1vdmVMYXN0KCk7Ci8vICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgY250ID0gMTsK</text>
+        <text encoding="base64">Ly8gICAgICAgIHdoaWxlICghc3RhY2suaXNFbXB0eSgpKSB7Ci8vICAgICAgICAgICAgcmVzdWx0W2NudCsrXSA9IHN0YWNrLmdldExhc3QoKTsKLy8gICAgICAgICAgICBzdGFjay5yZW1vdmVMYXN0KCk7Ci8vICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RhY2suYWRkTGFzdChpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImRwOiIgKyBBcnJheXMudG9TdHJpbmcoZHApKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="y" type="4">
         <text>t</text>
