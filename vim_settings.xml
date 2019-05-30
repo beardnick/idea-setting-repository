@@ -492,12 +492,12 @@
         <mark key="^" line="22" column="24" />
         <mark key="." line="22" column="24" />
       </file>
-      <file name="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/ThrowGlassBall.java" timestamp="1559186643524">
-        <mark key="'" line="67" column="37" />
-        <mark key="[" line="65" column="77" />
-        <mark key="]" line="65" column="99" />
-        <mark key="." line="65" column="99" />
-        <mark key="^" line="65" column="99" />
+      <file name="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/ThrowGlassBall.java" timestamp="1559187265330">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="63" column="99" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="/Dummy.vm" timestamp="1556950978660">
         <mark key="[" line="0" column="0" />
@@ -583,8 +583,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="8" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/normal/LeetCode5.java" />
-      <jump line="38" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/normal/LeetCode5.java" />
       <jump line="30" column="12" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/normal/LeetCode5.java" />
       <jump line="17" column="27" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/normal/LeetCode5.java" />
       <jump line="19" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/normal/LeetCode5.java" />
@@ -683,10 +681,12 @@
       <jump line="1" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/ThrowGlassBall.java" />
       <jump line="54" column="16" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/ThrowGlassBall.java" />
       <jump line="67" column="37" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/ThrowGlassBall.java" />
+      <jump line="63" column="19" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/ThrowGlassBall.java" />
+      <jump line="5" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/ThrowGlassBall.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>x</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>x</text>
@@ -698,31 +698,31 @@
         <text encoding="base64">Ly8gICAgICAgIGFkZEF0dHJpYnV0ZShTdHJpbmcudmFsdWVPZihNYXRoLnJhbmRvbSgpKSwgInRlc3QgUmVzcG9uc2VEYXRhIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgY250ID0gMTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RhY2suYWRkTGFzdChpKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImRwOiIgKyBBcnJheXMudG9TdHJpbmcoZHApKTsK</text>
+        <text encoding="base64">ICAgICAgICBpbnQgY250ID0gMTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RhY2suYWRkTGFzdChpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RhY2suaW5zZXJ0VG9UYWlsKGkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImRwOiIgKyBBcnJheXMudG9TdHJpbmcoZHApKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGRhdGFzdHJ1Y3R1cmUubGlzdC5MaW5rZWRMaXN0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RhY2suCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RhY2suaW5zZXJ0VG9UYWlsKGkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0W2NudCsrXSA9IHN0YWNrCg==</text>
+        <text encoding="base64">aW1wb3J0IGRhdGFzdHJ1Y3R1cmUubGlzdC5MaW5rZWRMaXN0Owo=</text>
       </register>
       <register name="y" type="4">
         <text>t</text>
