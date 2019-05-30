@@ -179,12 +179,12 @@
       <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/request/UserRequest.java" timestamp="1559130277541">
         <mark key="'" line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/study/IdeaProjects/LeetCode/src/normal/LeetCode11.java" timestamp="1559193968426">
+      <file name="$USER_HOME$/study/IdeaProjects/LeetCode/src/normal/LeetCode11.java" timestamp="1559194682612">
         <mark key="'" line="3" column="0" />
-        <mark key="[" line="18" column="13" />
-        <mark key="]" line="18" column="12" />
-        <mark key="^" line="18" column="12" />
-        <mark key="." line="18" column="12" />
+        <mark key="[" line="18" column="49" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="21" column="7" />
       </file>
       <file name="/a.sql" timestamp="1558429736179">
         <mark key="[" line="0" column="0" />
@@ -692,44 +692,44 @@
       <jump line="3" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/normal/LeetCode11.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>j</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>j</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>valid</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obWF4QXJlYShuZXcgaW50W117MSw4LDYsMiw1LDQsOCwzLDd9KSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnRbXSBsZWZ0ID0gbmV3IGludFtoZWlnaHQubGVuZ3RoXTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHdoaWxlICghc3RhY2suaXNFbXB0eSgpKSB7Ci8vICAgICAgICAgICAgcmVzdWx0W2NudCsrXSA9IHN0YWNrLmdldExhc3QoKTsKLy8gICAgICAgICAgICBzdGFjay5yZW1vdmVMYXN0KCk7Ci8vICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>t</text>
