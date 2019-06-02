@@ -35,12 +35,12 @@
         <mark key="^" line="2" column="13" />
         <mark key="." line="2" column="13" />
       </file>
-      <file name="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/CatchKong.java" timestamp="1559461056904">
-        <mark key="'" line="57" column="0" />
-        <mark key="[" line="5" column="36" />
-        <mark key="]" line="5" column="36" />
-        <mark key="." line="5" column="39" />
-        <mark key="^" line="5" column="21" />
+      <file name="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/CatchKong.java" timestamp="1559464622681">
+        <mark key="'" line="88" column="0" />
+        <mark key="[" line="50" column="13" />
+        <mark key="]" line="50" column="12" />
+        <mark key="." line="50" column="12" />
+        <mark key="^" line="50" column="12" />
       </file>
       <file name="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/SameHeightBuildings.java" timestamp="1557322291617">
         <mark key="'" line="83" column="0" />
@@ -62,8 +62,8 @@
         <mark key="." line="3" column="27" />
         <mark key="^" line="3" column="27" />
       </file>
-      <file name="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/SmartEditor.java" timestamp="1559458940092">
-        <mark key="'" line="35" column="0" />
+      <file name="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/SmartEditor.java" timestamp="1559464209913">
+        <mark key="'" line="33" column="0" />
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
@@ -610,36 +610,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="8" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/hard/LeetCode23.java" />
-      <jump line="41" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/hard/LeetCode23.java" />
-      <jump line="12" column="48" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/BaseController.java" />
-      <jump line="30" column="18" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/BaseController.java" />
-      <jump line="16" column="7" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/ExceptionHandler.java" />
-      <jump line="11" column="71" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/ExceptionHandler.java" />
-      <jump line="14" column="1" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/test/TestBaseController.java" />
-      <jump line="9" column="16" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/ExceptionHandler.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/ExceptionHandler.java" />
-      <jump line="58" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/module/role/SysPermitResource.java" />
-      <jump line="65" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/module/role/SysPermitResource.java" />
-      <jump line="22" column="12" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/module/management/authority/PermitResource.java" />
-      <jump line="72" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/module/management/authority/PermitResource.java" />
-      <jump line="6" column="13" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/domain/model/module/management/authority/PermitModel.java" />
-      <jump line="98" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/domain/model/module/management/authority/PermitModel.java" />
-      <jump line="8" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/request/UserRequest.java" />
-      <jump line="103" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/request/UserRequest.java" />
-      <jump line="27" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/request/UserRequest.java" />
-      <jump line="17" column="31" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/test/TestBaseController.java" />
-      <jump line="21" column="32" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/test/TestBaseController.java" />
-      <jump line="35" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/test/TestBaseController.java" />
-      <jump line="4" column="10" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/test/TestBaseController.java" />
-      <jump line="29" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/test/TestBaseController.java" />
-      <jump line="10" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/test/TestBaseController.java" />
-      <jump line="20" column="31" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/ExceptionHandler.java" />
-      <jump line="6" column="50" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/exception/ExceptionHandler.java" />
-      <jump line="3" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/exception/ExceptionHandler.java" />
-      <jump line="19" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/exception/ExceptionHandler.java" />
-      <jump line="18" column="53" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/exception/ExceptionHandler.java" />
-      <jump line="0" column="12" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/exception/ExceptionHandler.java" />
       <jump line="4" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/exception/ExceptionHandler.java" />
       <jump line="20" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/exception/ExceptionHandler.java" />
       <jump line="2" column="18" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/authorization/annotation/Permit.java" />
@@ -693,83 +663,112 @@
       <jump line="126" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/normal/LeetCode11.java" />
       <jump line="19" column="28" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/SmartEditor.java" />
       <jump line="17" column="16" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/SmartEditor.java" />
-      <jump line="2" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/SmartEditor.java" />
       <jump line="39" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/SmartEditor.java" />
-      <jump line="3" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/SmartEditor.java" />
       <jump line="35" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/SmartEditor.java" />
       <jump line="16" column="8" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/CatchKong.java" />
       <jump line="23" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/CatchKong.java" />
       <jump line="21" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/CatchKong.java" />
       <jump line="25" column="23" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/CatchKong.java" />
       <jump line="29" column="40" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/CatchKong.java" />
-      <jump line="10" column="8" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/CatchKong.java" />
       <jump line="45" column="10" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/CatchKong.java" />
-      <jump line="7" column="12" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/CatchKong.java" />
-      <jump line="55" column="33" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/CatchKong.java" />
       <jump line="11" column="16" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/CatchKong.java" />
-      <jump line="59" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/CatchKong.java" />
-      <jump line="4" column="26" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/CatchKong.java" />
-      <jump line="57" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/CatchKong.java" />
+      <jump line="55" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/CatchKong.java" />
+      <jump line="54" column="4" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/CatchKong.java" />
+      <jump line="61" column="8" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/CatchKong.java" />
+      <jump line="57" column="33" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/CatchKong.java" />
+      <jump line="7" column="23" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/CatchKong.java" />
+      <jump line="60" column="8" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/CatchKong.java" />
+      <jump line="91" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/CatchKong.java" />
+      <jump line="26" column="6" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/CatchKong.java" />
+      <jump line="86" column="23" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/CatchKong.java" />
+      <jump line="6" column="1" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/CatchKong.java" />
+      <jump line="84" column="26" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/CatchKong.java" />
+      <jump line="62" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/CatchKong.java" />
+      <jump line="81" column="17" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/CatchKong.java" />
+      <jump line="4" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/CatchKong.java" />
+      <jump line="100" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/CatchKong.java" />
+      <jump line="64" column="25" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/CatchKong.java" />
+      <jump line="95" column="34" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/CatchKong.java" />
+      <jump line="59" column="43" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/CatchKong.java" />
+      <jump line="10" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/CatchKong.java" />
+      <jump line="80" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/CatchKong.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/CatchKong.java" />
+      <jump line="5" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/CatchKong.java" />
+      <jump line="14" column="25" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/SmartEditor.java" />
+      <jump line="34" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/SmartEditor.java" />
+      <jump line="2" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/SmartEditor.java" />
+      <jump line="26" column="48" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/SmartEditor.java" />
+      <jump line="31" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/SmartEditor.java" />
+      <jump line="3" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/SmartEditor.java" />
+      <jump line="13" column="32" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/SmartEditor.java" />
+      <jump line="33" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/SmartEditor.java" />
+      <jump line="13" column="4" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/CatchKong.java" />
+      <jump line="99" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/CatchKong.java" />
+      <jump line="2" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/CatchKong.java" />
+      <jump line="101" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/CatchKong.java" />
+      <jump line="8" column="9" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/CatchKong.java" />
+      <jump line="65" column="71" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/CatchKong.java" />
+      <jump line="66" column="25" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/CatchKong.java" />
+      <jump line="88" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/CatchKong.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>int</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>int</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>left</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiZmFjdCIgKyBuICsgIiA6ICIgKyBmYWN0W25dKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXMgPSAocmVzICsgKGZhY3Rbbl0gLyAyIC8gZmFjdFtuIC0gMl0pICUgTU9EKSAlIE1PRDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGludCBpID0gSW50ZWdlci5NQQo=</text>
+        <text encoding="base64">Ly8gICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihmYWN0b3JpYWwoMTAwMDAwMCkpOwovLyAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGZhY3RvcmlhbCgxMCkpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBmYWN0W2ldIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJmYWN0IiArIGkgKyAiIDogIiArIGZhY3RbaV0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJmYWN0IiArIGkgKyAiIDogIiArIGZhY3RbaV0pOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihzb2x1dGlvbihuZXcgaW50W117MSwgMTAsIDIwLCAzMCwgNTB9LCAxOSkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJmYWN0IiArIG4gKyAiIDogIiArIGZhY3Rbbl0pOwo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCIiKTsK</text>
+        <text encoding="base64">aW1wb3J0IGphdmEubGFuZy5yZWZsZWN0LkFycmF5OwppbXBvcnQgamF2YS51dGlsLkFycmF5czsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIChTdHJpbmcgeCAgOiBzYy5uZXh0KCkuc3BsaXQoIiAiKQogICAgICAgICAgICAgICAgICkgewogICAgICAgICAgICAgICAgYXIKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgaW50W10gZmFjdCA9IG5ldyBpbnRbMTAwMDAxMF07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="y" type="4">
         <text>t</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>s/ /,/g</text>
       </register>
     </registers>
     <search>
-      <last-search>left</last-search>
+      <last-search encoding="base64">IA==</last-search>
       <last-offset />
-      <last-pattern>left</last-pattern>
-      <last-replace>right</last-replace>
-      <last-substitute>left</last-substitute>
+      <last-pattern encoding="base64">IA==</last-pattern>
+      <last-replace>,</last-replace>
+      <last-substitute encoding="base64">IA==</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>deta</entry>
         <entry>address</entry>
         <entry>total</entry>
         <entry>5+1</entry>
@@ -789,9 +788,9 @@
         <entry encoding="base64">XDxwdWJsaWNcPg==</entry>
         <entry>valid</entry>
         <entry>left</entry>
+        <entry encoding="base64">IA==</entry>
       </history-search>
       <history-cmd>
-        <entry>action Forward</entry>
         <entry>action Reformat Code</entry>
         <entry>%s/LOCK/stack/g</entry>
         <entry>action Back</entry>
@@ -811,6 +810,7 @@
         <entry encoding="base64">JzwsJz5zL2xlZnQvcmlnaHQvZw==</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>s/ /,/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
