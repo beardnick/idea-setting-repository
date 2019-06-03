@@ -35,12 +35,12 @@
         <mark key="^" line="2" column="13" />
         <mark key="." line="2" column="13" />
       </file>
-      <file name="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/CatchKong.java" timestamp="1559464622681">
-        <mark key="'" line="88" column="0" />
-        <mark key="[" line="50" column="13" />
-        <mark key="]" line="50" column="12" />
-        <mark key="." line="50" column="12" />
-        <mark key="^" line="50" column="12" />
+      <file name="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/CatchKong.java" timestamp="1559465600259">
+        <mark key="'" line="116" column="0" />
+        <mark key="[" line="76" column="1" />
+        <mark key="]" line="76" column="0" />
+        <mark key="." line="76" column="0" />
+        <mark key="^" line="76" column="0" />
       </file>
       <file name="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/SameHeightBuildings.java" timestamp="1557322291617">
         <mark key="'" line="83" column="0" />
@@ -610,10 +610,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/exception/ExceptionHandler.java" />
-      <jump line="20" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/exception/ExceptionHandler.java" />
-      <jump line="2" column="18" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/authorization/annotation/Permit.java" />
-      <jump line="3" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/authorization/annotation/Permit.java" />
       <jump line="6" column="4" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/ThrowBall.java" />
       <jump line="9" column="30" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/ThrowGlassBall.java" />
       <jump line="20" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/ThrowGlassBall.java" />
@@ -684,15 +680,12 @@
       <jump line="6" column="1" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/CatchKong.java" />
       <jump line="84" column="26" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/CatchKong.java" />
       <jump line="62" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/CatchKong.java" />
-      <jump line="81" column="17" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/CatchKong.java" />
-      <jump line="4" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/CatchKong.java" />
       <jump line="100" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/CatchKong.java" />
       <jump line="64" column="25" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/CatchKong.java" />
       <jump line="95" column="34" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/CatchKong.java" />
       <jump line="59" column="43" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/CatchKong.java" />
       <jump line="10" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/CatchKong.java" />
       <jump line="80" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/CatchKong.java" />
-      <jump line="1" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/CatchKong.java" />
       <jump line="5" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/CatchKong.java" />
       <jump line="14" column="25" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/SmartEditor.java" />
       <jump line="34" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/SmartEditor.java" />
@@ -705,18 +698,25 @@
       <jump line="13" column="4" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/CatchKong.java" />
       <jump line="99" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/CatchKong.java" />
       <jump line="2" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/CatchKong.java" />
-      <jump line="101" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/CatchKong.java" />
       <jump line="8" column="9" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/CatchKong.java" />
       <jump line="65" column="71" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/CatchKong.java" />
       <jump line="66" column="25" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/CatchKong.java" />
       <jump line="88" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/CatchKong.java" />
+      <jump line="70" column="16" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/CatchKong.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/CatchKong.java" />
+      <jump line="101" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/CatchKong.java" />
+      <jump line="4" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/CatchKong.java" />
+      <jump line="81" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/CatchKong.java" />
+      <jump line="117" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/CatchKong.java" />
+      <jump line="3" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/CatchKong.java" />
+      <jump line="116" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/CatchKong.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">YXJyW21pZF0gPCBiYXNl</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">YXJyW21pZF0gPCBiYXNl</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IA==</text>
@@ -725,37 +725,37 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXMgPSAocmVzICsgKGZhY3Rbbl0gLyAyIC8gZmFjdFtuIC0gMl0pICUgTU9EKSAlIE1PRDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihmYWN0b3JpYWwoMTAwMDAwMCkpOwovLyAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGZhY3RvcmlhbCgxMCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBmYWN0W2ldIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihzb2x1dGlvbihuZXcgaW50W117MSwgMTAsIDIwLCAzMCwgNTB9LCAxOSkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEubGFuZy5yZWZsZWN0LkFycmF5OwppbXBvcnQgamF2YS51dGlsLkFycmF5czsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEFycmF5cy5iaW5hcnlTZWFyY2goKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIChTdHJpbmcgeCAgOiBzYy5uZXh0KCkuc3BsaXQoIiAiKQogICAgICAgICAgICAgICAgICkgewogICAgICAgICAgICAgICAgYXIKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Ly8gICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihmYWN0b3JpYWwoMTAwMDAwMCkpOwovLyAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGZhY3RvcmlhbCgxMCkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBmYWN0W2ldIAo=</text>
       </register>
       <register name="y" type="4">
         <text>t</text>
       </register>
       <register name=":" type="4">
-        <text>s/ /,/g</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -809,8 +809,8 @@
         <entry>%s/\r//g</entry>
         <entry encoding="base64">JzwsJz5zL2xlZnQvcmlnaHQvZw==</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>s/ /,/g</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
