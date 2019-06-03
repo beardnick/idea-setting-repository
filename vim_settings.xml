@@ -403,12 +403,12 @@
         <mark key="^" line="88" column="1" />
         <mark key="." line="88" column="1" />
       </file>
-      <file name="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/PatternExtract.java" timestamp="1559535057994">
-        <mark key="'" line="21" column="32" />
-        <mark key="[" line="12" column="26" />
-        <mark key="]" line="12" column="32" />
-        <mark key="." line="12" column="32" />
-        <mark key="^" line="12" column="32" />
+      <file name="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/PatternExtract.java" timestamp="1559537546738">
+        <mark key="'" line="48" column="27" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="54" column="51" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="/sys_role [dev]" timestamp="1559180159464">
         <mark key="[" line="0" column="0" />
@@ -511,6 +511,13 @@
         <mark key="]" line="46" column="34" />
         <mark key="." line="46" column="34" />
         <mark key="^" line="46" column="34" />
+      </file>
+      <file name="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/Charge.java" timestamp="1559538111882">
+        <mark key="'" line="9" column="14" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/response/ValidResponse.java" timestamp="1559129994506">
         <mark key="[" line="3" column="14" />
@@ -623,26 +630,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="73" column="63" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/ThrowGlassBall.java" />
-      <jump line="45" column="28" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/ThrowGlassBall.java" />
-      <jump line="3" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/ThrowGlassBall.java" />
-      <jump line="2" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/ThrowGlassBall.java" />
-      <jump line="67" column="8" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/ThrowGlassBall.java" />
-      <jump line="11" column="2" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/ThrowGlassBall.java" />
-      <jump line="75" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/ThrowGlassBall.java" />
-      <jump line="6" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/ThrowGlassBall.java" />
-      <jump line="79" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/ThrowGlassBall.java" />
-      <jump line="4" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/ThrowGlassBall.java" />
-      <jump line="5" column="16" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/normal/LeetCode11.java" />
-      <jump line="3" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/normal/LeetCode11.java" />
-      <jump line="14" column="39" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/normal/LeetCode11.java" />
-      <jump line="71" column="12" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/normal/LeetCode11.java" />
-      <jump line="82" column="35" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/normal/LeetCode11.java" />
-      <jump line="61" column="44" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/normal/LeetCode11.java" />
-      <jump line="6" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/normal/LeetCode11.java" />
-      <jump line="95" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/normal/LeetCode11.java" />
-      <jump line="12" column="8" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/normal/LeetCode11.java" />
-      <jump line="58" column="8" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/normal/LeetCode11.java" />
       <jump line="84" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/normal/LeetCode11.java" />
       <jump line="49" column="15" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/normal/LeetCode11.java" />
       <jump line="98" column="35" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/normal/LeetCode11.java" />
@@ -723,48 +710,66 @@
       <jump line="68" column="12" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/CatchKong.java" />
       <jump line="116" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/CatchKong.java" />
       <jump line="17" column="32" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/PatternExtract.java" />
+      <jump line="21" column="43" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/PatternExtract.java" />
+      <jump line="32" column="39" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/PatternExtract.java" />
+      <jump line="74" column="75" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/PatternExtract.java" />
+      <jump line="69" column="51" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/PatternExtract.java" />
+      <jump line="2" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/PatternExtract.java" />
+      <jump line="57" column="28" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/PatternExtract.java" />
+      <jump line="24" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/PatternExtract.java" />
+      <jump line="15" column="43" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/PatternExtract.java" />
+      <jump line="64" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/PatternExtract.java" />
+      <jump line="4" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/PatternExtract.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/PatternExtract.java" />
+      <jump line="46" column="22" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/PatternExtract.java" />
+      <jump line="3" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/PatternExtract.java" />
+      <jump line="59" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/PatternExtract.java" />
+      <jump line="40" column="39" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/PatternExtract.java" />
+      <jump line="48" column="27" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/PatternExtract.java" />
+      <jump line="15" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/Charge.java" />
+      <jump line="3" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/Charge.java" />
+      <jump line="26" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/Charge.java" />
+      <jump line="9" column="14" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/Charge.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgaW50W11bXSBjb3VudGVyID0gbmV3IGludFtJbnRlZ2VyLk1BWF9WQUxVRV1bSW50ZWdlci5NQVhfVkFMVUVdOwo=</text>
+      <register name="&quot;" type="4">
+        <text>200</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>200</text>
       </register>
       <register name="/" type="4">
         <text>upper</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgaW50W11bXSBjb3VudGVyID0gbmV3IGludFtJbnRlZ2VyLk1BWF9WQUxVRV1bSW50ZWdlci5NQVhfVkFMVUVdOwo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc29sdXRpb24oMTAyNCAtIDIwMCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBIYXNoTWFwPEludGVnZXIsIEhhc2hNYXA8SW50ZWdlciwgSW50ZWdlcj4+IGZpcnN0UHJlc2VudCA9IG5ldyBIYXNoTWFwPD4oKTsK</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5NYXA7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGsK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5vbWcuQ09SQkEuSU5URVJOQUw7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgaW50IE1BWF9DQVAgPSAxMDAwMTA7CiAgICBrCg==</text>
+        <text encoding="base64">Ly8gICAgcHVibGljIHN0YXRpYyBmaW5hbCBpbnQgTUFYX04gPSAxMDAwMTA7Ci8vICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgaW50IE1BWF9NID0gMTAwMTA7Ci8vICAgIHB1YmxpYyBzdGF0aWMgaW50W11bXSBjb3VudGVyID0gbmV3IGludFtJbnRlZ2VyLk1BWF9WQUxVRV1bSW50ZWdlci5NQVhfVkFMVUVdOwovLyAgICBwdWJsaWMgc3RhdGljIGludFtdW10gcHJlc2VudCA9IG5ldyBpbnRbSW50ZWdlci5NQVhfVkFMVUVdW0ludGVnZXIuTUFYX1ZBTFVFXTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEhhc2hNYXA8SW50ZWdlcixIYXNoTWFwPEludD4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>else if (counter.containsKey(first)){
-                        counter.get(first).put(second, 1);
-                    }</text>
+      <register name="7" type="2">
+        <text encoding="base64">Ly8gICAgcHVibGljIHN0YXRpYyB2b2lkIGFkZEhhc2hNYXAoaW50IGZpcnN0LCBpbnQgc2Vjb25kLCBpbnQgdmFsdWUpIHsKLy8KLy8gICAgfQoKLy8gICAgcHVibGljIHN0YXRpYyBib29sZWFuIGNvbnRhaW5zSGFzaE1hcChpbnQgZmlyc3QgLCBpbnQgc2Vjb25kKSB7Ci8vICAgICAgICBpZiAoIWNvdW50ZXIuY29udGFpbnNLZXkoZmlyc3QpIHx8ICFjb3VudGVyLmdldChmaXJzdCkuY29udGFpbnNLZXkoc2Vjb25kKSkgewovLyAgICAgICAgICAgIHJldHVybiBmYWxzZTsKLy8gICAgICAgIH1lbHNlewovLyAgICAgICAgICAgIHJldHVybiA7Ci8vICAgICAgICB9Ci8vICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEhhc2hNYXA8SW50ZWdlciwgSGFzaE1hcDxJbnRlZ2VyLCBJbnRlZ2VyPj4gYXBwZWFyVGhpc0ZyYW1lID0gbmV3IEhhc2hNYXA8PigpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgSGFzaE1hcDxJbnRlZ2VyLCBIYXNoTWFwPEludGVnZXIsIEludGVnZXI+PiBhcHBlYXJUaGlzRnJhbWUgPSBuZXcgSGFzaE1hcDw+KCk7Cg==</text>
       </register>
       <register name="y" type="4">
         <text>t</text>
