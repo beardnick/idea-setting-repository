@@ -403,6 +403,13 @@
         <mark key="^" line="88" column="1" />
         <mark key="." line="88" column="1" />
       </file>
+      <file name="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/PatternExtract.java" timestamp="1559535057994">
+        <mark key="'" line="21" column="32" />
+        <mark key="[" line="12" column="26" />
+        <mark key="]" line="12" column="32" />
+        <mark key="." line="12" column="32" />
+        <mark key="^" line="12" column="32" />
+      </file>
       <file name="/sys_role [dev]" timestamp="1559180159464">
         <mark key="[" line="0" column="0" />
       </file>
@@ -412,6 +419,12 @@
         <mark key="]" line="746" column="19" />
         <mark key="^" line="746" column="19" />
         <mark key="." line="746" column="19" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.java" timestamp="1559535093420">
+        <mark key="[" line="5" column="44" />
+        <mark key="]" line="4" column="33" />
+        <mark key="^" line="4" column="33" />
+        <mark key="." line="4" column="33" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/module/management/sheep/DeadSaleInfoResource.java" timestamp="1556961276542">
         <mark key="'" line="51" column="4" />
@@ -610,7 +623,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/ThrowGlassBall.java" />
       <jump line="73" column="63" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/ThrowGlassBall.java" />
       <jump line="45" column="28" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/ThrowGlassBall.java" />
       <jump line="3" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/ThrowGlassBall.java" />
@@ -710,43 +722,46 @@
       <jump line="96" column="36" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/CatchKong.java" />
       <jump line="68" column="12" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/CatchKong.java" />
       <jump line="116" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/CatchKong.java" />
+      <jump line="17" column="32" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/PatternExtract.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">PA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgaW50W11bXSBjb3VudGVyID0gbmV3IGludFtJbnRlZ2VyLk1BWF9WQUxVRV1bSW50ZWdlci5NQVhfVkFMVUVdOwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>upper</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odXBwZXJCb3VuZChuZXcgaW50W117MSwyLDMsNCw0LDYsNzl9LCAwICwgNSkpOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgaW50W11bXSBjb3VudGVyID0gbmV3IGludFtJbnRlZ2VyLk1BWF9WQUxVRV1bSW50ZWdlci5NQVhfVkFMVUVdOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGFyclttaWRdIC0gYmFzZSA8PSBsaW1pdCkgewogICAgICAgICAgICAgICAgbGVmdCA9IG1pZCArIDE7CiAgICAgICAgICAgIH0gZWxzZSBpZiAoYXJyW21pZF0gLSBiYXNlID4gbGltaXQpIHsKICAgICAgICAgICAgICAgIHJpZ2h0ID0gbWlkIC0gMTsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGFyclttaWRdIC0gYmFzZSA8PSBsaW1pdCkgewogICAgICAgICAgICAgICAgbGVmdCA9IG1pZCArIDE7CiAgICAgICAgICAgIH0gZWxzZSBpZiAoYXJyW21pZF0gLSBiYXNlID4gbGltaXQpIHsKICAgICAgICAgICAgICAgIHJpZ2h0ID0gbWlkIC0gMTsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBIYXNoTWFwPEludGVnZXIsIEhhc2hNYXA8SW50ZWdlciwgSW50ZWdlcj4+IGZpcnN0UHJlc2VudCA9IG5ldyBIYXNoTWFwPD4oKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheXM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGludCBuID0gMTQ3MyAtIDAgOwovLyAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGZhY3Rbbl0pOwovLyAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGZhY3RbbiAgLSAyXSk7Ci8vICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZmFjdFtuXSAvICggKDIgICogZmFjdFtuIC0gMl0gKSAlIE1PRCkgKTsKLy8gICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigKLy8gICAgICAgICgwICsgKGZhY3Rbbl0gLyAyIC8gZmFjdFtuIC0gMl0pICUgTU9EKSAlIE1PRCk7Cg==</text>
+        <text encoding="base64">ICAgIGsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnJlYWs7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgaW50IE1BWF9DQVAgPSAxMDAwMTA7CiAgICBrCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoYXJyID09IG51bGwgfHwgYXJyLmxlbmd0aCA9PSAwKSB7CiAgICAgICAgICAgIHJldHVybiAwOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEhhc2hNYXA8SW50ZWdlcixIYXNoTWFwPEludD4K</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="7" type="4">
+        <text>else if (counter.containsKey(first)){
+                        counter.get(first).put(second, 1);
+                    }</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odXBwZXJCb3VuZChuZXcgaW50W117MSwyLDMsNCw0LDYsNyw5fSwgMCAsIDUpKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odXBwZXJCb3VuZChuZXcgaW50W117MSwyLDMsNCw0LDYsNyw5fSwgMCAsIDE5KSk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHVwcGVyQm91bmQobmV3IGludFtdezEsMiwzLDQsNCw2LDcsOX0sIDAgLCAxKSk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHVwcGVyQm91bmQobmV3IGludFtdezEsMiwzLDQsNCw2LDcsOX0sIDAgLCA0KSk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHVwcGVyQm91bmQobmV3IGludFtdezEsMiwzLDQsNCw2LDcsOX0sIDAgLCAxMSkpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbih1cHBlckJvdW5kKG5ldyBpbnRbXXsxLDIsMyw0LDQsNiw3LDl9LCAwICwgOSkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
