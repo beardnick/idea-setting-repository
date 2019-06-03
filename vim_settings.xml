@@ -324,6 +324,12 @@
         <mark key="." line="6" column="14" />
         <mark key="^" line="6" column="14" />
       </file>
+      <file name="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/RobotJump.java" timestamp="1559540109683">
+        <mark key="[" line="9" column="48" />
+        <mark key="]" line="11" column="20" />
+        <mark key="." line="11" column="20" />
+        <mark key="^" line="11" column="20" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/SpringNote/pom.xml" timestamp="1558915003001">
         <mark key="'" line="33" column="10" />
         <mark key="[" line="30" column="21" />
@@ -732,11 +738,11 @@
       <jump line="9" column="14" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/Charge.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>200</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>200</text>
+        <text>cell()</text>
       </register>
       <register name="/" type="4">
         <text>upper</text>
@@ -745,31 +751,31 @@
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc29sdXRpb24oMTAyNCAtIDIwMCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5NYXA7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgaW50IGdldChpbnRbXSBhcnIsIGludCBpbmRleCkgewogICAgICAgIAogICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5vbWcuQ09SQkEuSU5URVJOQUw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgcHVibGljIHN0YXRpYyBmaW5hbCBpbnQgTUFYX04gPSAxMDAwMTA7Ci8vICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgaW50IE1BWF9NID0gMTAwMTA7Ci8vICAgIHB1YmxpYyBzdGF0aWMgaW50W11bXSBjb3VudGVyID0gbmV3IGludFtJbnRlZ2VyLk1BWF9WQUxVRV1bSW50ZWdlci5NQVhfVkFMVUVdOwovLyAgICBwdWJsaWMgc3RhdGljIGludFtdW10gcHJlc2VudCA9IG5ldyBpbnRbSW50ZWdlci5NQVhfVkFMVUVdW0ludGVnZXIuTUFYX1ZBTFVFXTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIE1hdGguY2VpbCgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgcHVibGljIHN0YXRpYyB2b2lkIGFkZEhhc2hNYXAoaW50IGZpcnN0LCBpbnQgc2Vjb25kLCBpbnQgdmFsdWUpIHsKLy8KLy8gICAgfQoKLy8gICAgcHVibGljIHN0YXRpYyBib29sZWFuIGNvbnRhaW5zSGFzaE1hcChpbnQgZmlyc3QgLCBpbnQgc2Vjb25kKSB7Ci8vICAgICAgICBpZiAoIWNvdW50ZXIuY29udGFpbnNLZXkoZmlyc3QpIHx8ICFjb3VudGVyLmdldChmaXJzdCkuY29udGFpbnNLZXkoc2Vjb25kKSkgewovLyAgICAgICAgICAgIHJldHVybiBmYWxzZTsKLy8gICAgICAgIH1lbHNlewovLyAgICAgICAgICAgIHJldHVybiA7Ci8vICAgICAgICB9Ci8vICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEhhc2hNYXA8SW50ZWdlciwgSGFzaE1hcDxJbnRlZ2VyLCBJbnRlZ2VyPj4gYXBwZWFyVGhpc0ZyYW1lID0gbmV3IEhhc2hNYXA8PigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSGFzaE1hcDxJbnRlZ2VyLCBIYXNoTWFwPEludGVnZXIsIEludGVnZXI+PiBhcHBlYXJUaGlzRnJhbWUgPSBuZXcgSGFzaE1hcDw+KCk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5NYXA7Cg==</text>
       </register>
       <register name="y" type="4">
         <text>t</text>
