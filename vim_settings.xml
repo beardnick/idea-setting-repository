@@ -86,14 +86,14 @@
         <mark key="." line="56" column="0" />
         <mark key="^" line="56" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/module/management/authority/RoleResource.java" timestamp="1558917070514">
-        <mark key="'" line="3" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/exception/ExceptionAdvice.java" timestamp="1558917649646">
         <mark key="[" line="3" column="49" />
         <mark key="]" line="3" column="48" />
         <mark key="^" line="3" column="48" />
         <mark key="." line="3" column="48" />
+      </file>
+      <file name="$USER_HOME$/study/IdeaProjects/LeetCode/src/reference/MahJong.py" timestamp="1559611899506">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/study/IdeaProjects/LeetCode/src/normal/LeetCode5.java" timestamp="1559096848759">
         <mark key="'" line="6" column="0" />
@@ -107,12 +107,6 @@
         <mark key="]" line="0" column="15" />
         <mark key="^" line="1" column="0" />
         <mark key="." line="0" column="15" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/authorization/annotation/Permit.java" timestamp="1559137187999">
-        <mark key="'" line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/module/role/SysPermitResource.java" timestamp="1559130057110">
-        <mark key="'" line="65" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/resources/application.properties" timestamp="1558429601866">
         <mark key="'" line="11" column="39" />
@@ -138,15 +132,15 @@
         <mark key="." line="39" column="6" />
         <mark key="^" line="39" column="6" />
       </file>
-      <file name="/media/MyFile/downloads/Compressed/JDK-master/note/pom.xml" timestamp="1558846147121">
-        <mark key="'" line="17" column="19" />
-      </file>
       <file name="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/RoundGame.java" timestamp="1557299212127">
         <mark key="'" line="33" column="0" />
         <mark key="[" line="31" column="78" />
         <mark key="]" line="31" column="77" />
         <mark key="^" line="31" column="77" />
         <mark key="." line="31" column="77" />
+      </file>
+      <file name="/Python Console" timestamp="1559612322073">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/test/java/com/test/CustomerTest.java" timestamp="1556975400555">
         <mark key="[" line="3" column="0" />
@@ -180,18 +174,12 @@
         <mark key="." line="74" column="12" />
         <mark key="^" line="74" column="12" />
       </file>
-      <file name="$USER_HOME$/study/IdeaProjects/LeetCode/src/hard/LeetCode4.java" timestamp="1559024390242">
-        <mark key="'" line="70" column="0" />
+      <file name="$USER_HOME$/study/IdeaProjects/LeetCode/src/hard/LeetCode4.java" timestamp="1559612138248">
+        <mark key="'" line="71" column="0" />
         <mark key="[" line="4" column="33" />
         <mark key="]" line="4" column="32" />
         <mark key="." line="4" column="32" />
         <mark key="^" line="4" column="32" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/domain/model/module/management/authority/PermitModel.java" timestamp="1559130230020">
-        <mark key="'" line="98" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/request/UserRequest.java" timestamp="1559130277541">
-        <mark key="'" line="27" column="0" />
       </file>
       <file name="$USER_HOME$/study/IdeaProjects/LeetCode/src/normal/LeetCode11.java" timestamp="1559457266197">
         <mark key="'" line="126" column="0" />
@@ -246,8 +234,8 @@
         <mark key="^" line="445" column="45" />
         <mark key="." line="445" column="45" />
       </file>
-      <file name="$USER_HOME$/study/IdeaProjects/LeetCode/src/hard/LeetCode23.java" timestamp="1559097000605">
-        <mark key="'" line="41" column="0" />
+      <file name="$USER_HOME$/study/IdeaProjects/LeetCode/src/refpy/MahJong.py" timestamp="1559637387984">
+        <mark key="'" line="38" column="38" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/pom.xml" timestamp="1557652615148">
         <mark key="'" line="33" column="19" />
@@ -255,6 +243,13 @@
         <mark key="]" line="179" column="20" />
         <mark key="^" line="179" column="20" />
         <mark key="." line="179" column="20" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1559612002457">
+        <mark key="'" line="43" column="4" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="50" column="12" />
+        <mark key="^" line="50" column="12" />
+        <mark key="." line="50" column="12" />
       </file>
       <file name="$USER_HOME$/study/IdeaProjects/LeetCode/src/hard/LeetCode10.java" timestamp="1559097035960">
         <mark key="[" line="6" column="5" />
@@ -289,12 +284,6 @@
         <mark key="]" line="4" column="6" />
         <mark key="^" line="4" column="6" />
         <mark key="." line="4" column="6" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/domain/service/module/organic/CustomerServiceImpl.java" timestamp="1557659650833">
-        <mark key="'" line="22" column="0" />
-      </file>
-      <file name="$USER_HOME$/study/IdeaProjects/ThinkingInJava/src/tmp/ssh.log" timestamp="1558748547930">
-        <mark key="'" line="11" column="11" />
       </file>
       <file name="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/util/Vector.class" timestamp="1556356982110">
         <mark key="'" line="317" column="30" />
@@ -338,9 +327,6 @@
         <mark key="^" line="30" column="20" />
         <mark key="." line="30" column="20" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/ExampleResource.java" timestamp="1558430266401">
-        <mark key="'" line="37" column="2" />
-      </file>
       <file name="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/ThrowBall.java" timestamp="1559182168401">
         <mark key="'" line="6" column="4" />
         <mark key="[" line="4" column="35" />
@@ -373,9 +359,6 @@
         <mark key="]" line="0" column="29" />
         <mark key="^" line="0" column="29" />
         <mark key="." line="0" column="29" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/domain/model/extend/picture/PicExample.java" timestamp="1558430292460">
-        <mark key="'" line="1036" column="0" />
       </file>
       <file name="$USER_HOME$/study/IdeaProjects/LeetCode/.gitignore" timestamp="1557295471425">
         <mark key="[" line="5" column="0" />
@@ -532,6 +515,12 @@
         <mark key="^" line="3" column="13" />
         <mark key="." line="3" column="13" />
       </file>
+      <file name="$USER_HOME$/study/IdeaProjects/LeetCode/src/refpy/MahJong.java" timestamp="1559638280065">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="7" column="43" />
+      </file>
       <file name="$USER_HOME$/study/IdeaProjects/ThinkingInJava/src/concurrent/SimpleProducerConsumer.java" timestamp="1557042825370">
         <mark key="'" line="112" column="0" />
         <mark key="[" line="143" column="9" />
@@ -569,7 +558,7 @@
         <mark key="^" line="9" column="59" />
         <mark key="." line="9" column="59" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558429736200">
+      <file name="/Dummy.txt" timestamp="1559612557046">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/Test.java" timestamp="1559020390115">
@@ -592,9 +581,6 @@
         <mark key="^" line="13" column="14" />
         <mark key="." line="13" column="14" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/SpringNote/.gitignore" timestamp="1558846540488">
-        <mark key="'" line="16" column="4" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/exception/GlobalExceptionHandler.java" timestamp="1558917476128">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="4" column="16" />
@@ -610,9 +596,6 @@
         <mark key="]" line="9" column="3" />
         <mark key="^" line="9" column="3" />
         <mark key="." line="9" column="3" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/module/management/authority/PermitResource.java" timestamp="1559130086069">
-        <mark key="'" line="72" column="0" />
       </file>
       <file name="$USER_HOME$/study/IdeaProjects/ThinkingInJava/src/java8/TestLambda.java" timestamp="1558747218070">
         <mark key="'" line="10" column="0" />
@@ -635,38 +618,11 @@
         <mark key="^" line="28" column="20" />
         <mark key="." line="28" column="20" />
       </file>
-      <file name="/fragment.java" timestamp="1558749725435">
+      <file name="/fragment.java" timestamp="1559612227872">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="84" column="26" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/CatchKong.java" />
-      <jump line="100" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/CatchKong.java" />
-      <jump line="64" column="25" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/CatchKong.java" />
-      <jump line="95" column="34" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/CatchKong.java" />
-      <jump line="10" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/CatchKong.java" />
-      <jump line="80" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/CatchKong.java" />
-      <jump line="5" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/CatchKong.java" />
-      <jump line="14" column="25" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/SmartEditor.java" />
-      <jump line="34" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/SmartEditor.java" />
-      <jump line="2" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/SmartEditor.java" />
-      <jump line="26" column="48" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/SmartEditor.java" />
-      <jump line="31" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/SmartEditor.java" />
-      <jump line="3" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/SmartEditor.java" />
-      <jump line="13" column="32" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/SmartEditor.java" />
-      <jump line="33" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/SmartEditor.java" />
-      <jump line="13" column="4" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/CatchKong.java" />
-      <jump line="2" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/CatchKong.java" />
-      <jump line="8" column="9" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/CatchKong.java" />
-      <jump line="66" column="25" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/CatchKong.java" />
-      <jump line="101" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/CatchKong.java" />
-      <jump line="4" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/CatchKong.java" />
-      <jump line="81" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/CatchKong.java" />
-      <jump line="117" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/CatchKong.java" />
-      <jump line="29" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/CatchKong.java" />
-      <jump line="49" column="20" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/CatchKong.java" />
-      <jump line="78" column="31" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/CatchKong.java" />
-      <jump line="59" column="24" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/CatchKong.java" />
       <jump line="120" column="7" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/CatchKong.java" />
       <jump line="119" column="8" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/CatchKong.java" />
       <jump line="69" column="8" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/CatchKong.java" />
@@ -740,46 +696,73 @@
       <jump line="430" column="4" filename="$USER_HOME$/study/git/spring-boot-2.0.0.RELEASE/spring-boot-project/spring-boot/src/main/java/org/springframework/boot/SpringApplication.java" />
       <jump line="1332" column="0" filename="$USER_HOME$/study/git/spring-boot-2.0.0.RELEASE/spring-boot-project/spring-boot/src/main/java/org/springframework/boot/SpringApplication.java" />
       <jump line="45" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/RobotJump.java" />
+      <jump line="3" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/reference/MahJong.py" />
+      <jump line="23" column="11" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/reference/MahJong.py" />
+      <jump line="18" column="18" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/reference/MahJong.py" />
+      <jump line="46" column="4" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/reference/MahJong.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/reference/MahJong.py" />
+      <jump line="19" column="26" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/reference/MahJong.py" />
+      <jump line="48" column="4" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/reference/MahJong.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/reference/MahJong.py" />
+      <jump line="47" column="12" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+      <jump line="3" column="10" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+      <jump line="25" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+      <jump line="4" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+      <jump line="43" column="4" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+      <jump line="14" column="22" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/refpy/MahJong.py" />
+      <jump line="45" column="4" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/refpy/MahJong.py" />
+      <jump line="5" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/refpy/MahJong.py" />
+      <jump line="23" column="15" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/refpy/MahJong.py" />
+      <jump line="2" column="22" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/hard/LeetCode4.java" />
+      <jump line="71" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/hard/LeetCode4.java" />
+      <jump line="33" column="4" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/refpy/MahJong.py" />
+      <jump line="37" column="15" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/refpy/MahJong.py" />
+      <jump line="42" column="17" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/refpy/MahJong.py" />
+      <jump line="47" column="4" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/refpy/MahJong.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/refpy/MahJong.py" />
+      <jump line="40" column="15" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/refpy/MahJong.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/refpy/MahJong.py" />
+      <jump line="38" column="38" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/refpy/MahJong.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>solution</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>solution</text>
+        <text>Integer</text>
       </register>
       <register name="/" type="4">
         <text>solution</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2aXMgPSBuZXcgaW50WzZdOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgIExpc3Q8SW50ZWdlcj4gbGlzdCAgPSBBcnJheXMuc3RyZWFtKCIxLDIsMyw0LDUiLnNwbGl0KCIsJyIpKS5tYXAoSW50ZWdlcjo6cGFyc2VJbnQpLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmID0gbmV3IGludFs2XTsKICAgICAgICB2aXMgPSBuZXcgaW50WzZdOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmID0gbmV3IGludFs0XTsK</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheXM7CmltcG9ydCBqYXZhLnV0aWwuTGlzdDsKaW1wb3J0IGphdmEudXRpbC5TY2FubmVyOwppbXBvcnQgamF2YS51dGlsLnN0cmVhbS5Db2xsZWN0b3JzOwppbXBvcnQgamF2YS51dGlsLnN0cmVhbS5TdHJlYW07Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2aXMgPSBuZXcgaW50WzRdOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgIFNjYW5uZXIgc2MgPSBuZXcgU2Nhbm5lcihTeXN0ZW0uaW4pOwogICAgICAgIE9iamVjdFtdIGxpc3QgID0gQXJyYXlzLnN0cmVhbSgiMSwyLDMsNCw1Ii5zcGxpdCgiLCIpKS5tYXAoSW50ZWdlcjo6cGFyc2VJbnQpLnRvQXJyYXkoKTsKLy8gICAgIEFycmF5cy5zdHJlYW0oIjEsMiwzLDQsNSIuc3BsaXQoIiwiKSkuZm9yRWFjaChTeXN0ZW0ub3V0OjpwcmludGxuKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obGlzdCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmID0gbmV3IGludFs0XTsKICAgICAgICB2aXMgPSBuZXcgaW50WzRdOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmlzW10K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoayA9PSBoLmxlbmd0aCAtIDEpIHsKICAgICAgICAgICAgcmV0dXJuIDA7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBmID0gbmV3IGludFs2XTsKICAgICAgICB2aXMgPSBuZXcgaW50WzZdOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAga2oK</text>
+        <text encoding="base64">ICAgICAgICBmID0gbmV3IGludFs0XTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB2aXMgPSBuZXcgaW50WzRdOwo=</text>
       </register>
       <register name="y" type="4">
         <text>t</text>
