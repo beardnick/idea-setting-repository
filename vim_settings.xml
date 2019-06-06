@@ -417,12 +417,12 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/87acb0a2-838b-438d-83ca-eb00c5fede62/console.sql" timestamp="1559824938452">
-        <mark key="'" line="44" column="40" />
-        <mark key="[" line="48" column="54" />
-        <mark key="]" line="48" column="53" />
-        <mark key="." line="48" column="53" />
-        <mark key="^" line="48" column="53" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/87acb0a2-838b-438d-83ca-eb00c5fede62/console.sql" timestamp="1559826697718">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="^" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/application/DeepApplication.java" timestamp="1556347445006">
         <mark key="'" line="9" column="38" />
@@ -691,24 +691,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/reference/SolveSudoKuRef.java" />
-      <jump line="53" column="2" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/reference/SolveSudoKuRef.java" />
-      <jump line="87" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/hard/SolveSudoKu.java" />
-      <jump line="84" column="13" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/hard/SolveSudoKu.java" />
-      <jump line="68" column="8" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/reference/SolveSudoKuRef.java" />
-      <jump line="75" column="4" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/reference/SolveSudoKuRef.java" />
-      <jump line="89" column="51" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/hard/SolveSudoKu.java" />
-      <jump line="99" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/hard/SolveSudoKu.java" />
-      <jump line="91" column="16" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/hard/SolveSudoKu.java" />
-      <jump line="82" column="12" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/hard/SolveSudoKu.java" />
-      <jump line="16" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/hard/SolveSudoKu.java" />
-      <jump line="101" column="9" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/hard/SolveSudoKu.java" />
-      <jump line="112" column="39" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/hard/SolveSudoKu.java" />
-      <jump line="121" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/hard/SolveSudoKu.java" />
-      <jump line="4" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/hard/SolveSudoKu.java" />
-      <jump line="126" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/hard/SolveSudoKu.java" />
-      <jump line="126" column="1" filename="$USER_HOME$/study/git/spring-boot-2.0.0.RELEASE/spring-boot-project/spring-boot/src/main/java/org/springframework/boot/SpringApplication.java" />
-      <jump line="1331" column="0" filename="$USER_HOME$/study/git/spring-boot-2.0.0.RELEASE/spring-boot-project/spring-boot/src/main/java/org/springframework/boot/SpringApplication.java" />
       <jump line="18" column="0" filename="$USER_HOME$/study/git/spring-boot-2.0.0.RELEASE/spring-boot-project/spring-boot/src/main/java/org/springframework/boot/SpringApplication.java" />
       <jump line="1273" column="9" filename="$USER_HOME$/study/git/spring-boot-2.0.0.RELEASE/spring-boot-project/spring-boot/src/main/java/org/springframework/boot/SpringApplication.java" />
       <jump line="1208" column="4" filename="$USER_HOME$/study/git/spring-boot-2.0.0.RELEASE/spring-boot-project/spring-boot/src/main/java/org/springframework/boot/SpringApplication.java" />
@@ -765,7 +747,6 @@
       <jump line="96" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/request/UserRequest.java" />
       <jump line="8" column="3" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/request/UserRequest.java" />
       <jump line="16" column="14" filename="$APPLICATION_CONFIG_DIR$/consoles/db/87acb0a2-838b-438d-83ca-eb00c5fede62/console.sql" />
-      <jump line="3" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/87acb0a2-838b-438d-83ca-eb00c5fede62/console.sql" />
       <jump line="0" column="25" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/resources/application.properties" />
       <jump line="43" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/resources/application.properties" />
       <jump line="19" column="43" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/resources/application.properties" />
@@ -776,7 +757,6 @@
       <jump line="96" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/hard/SolveSudoKu.java" />
       <jump line="124" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/hard/SolveSudoKu.java" />
       <jump line="10" column="35" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/resources/application.properties" />
-      <jump line="37" column="12" filename="$APPLICATION_CONFIG_DIR$/consoles/db/87acb0a2-838b-438d-83ca-eb00c5fede62/console.sql" />
       <jump line="80" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/domain/service/module/management/sheep/SalesRecordService.java" />
       <jump line="13" column="27" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/domain/service/module/management/sheep/SalesRecordService.java" />
       <jump line="137" column="14" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/module/management/sheep/DeadSaleInfoResource.java" />
@@ -788,31 +768,51 @@
       <jump line="44" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/resources/application.properties" />
       <jump line="9" column="19" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/resources/application.properties" />
       <jump line="26" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/87acb0a2-838b-438d-83ca-eb00c5fede62/console.sql" />
-      <jump line="45" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/87acb0a2-838b-438d-83ca-eb00c5fede62/console.sql" />
-      <jump line="42" column="48" filename="$APPLICATION_CONFIG_DIR$/consoles/db/87acb0a2-838b-438d-83ca-eb00c5fede62/console.sql" />
-      <jump line="44" column="40" filename="$APPLICATION_CONFIG_DIR$/consoles/db/87acb0a2-838b-438d-83ca-eb00c5fede62/console.sql" />
+      <jump line="38" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/87acb0a2-838b-438d-83ca-eb00c5fede62/console.sql" />
+      <jump line="37" column="14" filename="$APPLICATION_CONFIG_DIR$/consoles/db/87acb0a2-838b-438d-83ca-eb00c5fede62/console.sql" />
+      <jump line="42" column="15" filename="$APPLICATION_CONFIG_DIR$/consoles/db/87acb0a2-838b-438d-83ca-eb00c5fede62/console.sql" />
+      <jump line="43" column="12" filename="$APPLICATION_CONFIG_DIR$/consoles/db/87acb0a2-838b-438d-83ca-eb00c5fede62/console.sql" />
+      <jump line="45" column="24" filename="$APPLICATION_CONFIG_DIR$/consoles/db/87acb0a2-838b-438d-83ca-eb00c5fede62/console.sql" />
+      <jump line="46" column="5" filename="$APPLICATION_CONFIG_DIR$/consoles/db/87acb0a2-838b-438d-83ca-eb00c5fede62/console.sql" />
+      <jump line="48" column="23" filename="$APPLICATION_CONFIG_DIR$/consoles/db/87acb0a2-838b-438d-83ca-eb00c5fede62/console.sql" />
+      <jump line="52" column="21" filename="$APPLICATION_CONFIG_DIR$/consoles/db/87acb0a2-838b-438d-83ca-eb00c5fede62/console.sql" />
+      <jump line="53" column="14" filename="$APPLICATION_CONFIG_DIR$/consoles/db/87acb0a2-838b-438d-83ca-eb00c5fede62/console.sql" />
+      <jump line="54" column="24" filename="$APPLICATION_CONFIG_DIR$/consoles/db/87acb0a2-838b-438d-83ca-eb00c5fede62/console.sql" />
+      <jump line="55" column="14" filename="$APPLICATION_CONFIG_DIR$/consoles/db/87acb0a2-838b-438d-83ca-eb00c5fede62/console.sql" />
+      <jump line="57" column="41" filename="$APPLICATION_CONFIG_DIR$/consoles/db/87acb0a2-838b-438d-83ca-eb00c5fede62/console.sql" />
+      <jump line="41" column="1" filename="$APPLICATION_CONFIG_DIR$/consoles/db/87acb0a2-838b-438d-83ca-eb00c5fede62/console.sql" />
+      <jump line="44" column="39" filename="$APPLICATION_CONFIG_DIR$/consoles/db/87acb0a2-838b-438d-83ca-eb00c5fede62/console.sql" />
+      <jump line="39" column="4" filename="$APPLICATION_CONFIG_DIR$/consoles/db/87acb0a2-838b-438d-83ca-eb00c5fede62/console.sql" />
+      <jump line="49" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/87acb0a2-838b-438d-83ca-eb00c5fede62/console.sql" />
+      <jump line="56" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/87acb0a2-838b-438d-83ca-eb00c5fede62/console.sql" />
+      <jump line="6" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/87acb0a2-838b-438d-83ca-eb00c5fede62/console.sql" />
+      <jump line="34" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/87acb0a2-838b-438d-83ca-eb00c5fede62/console.sql" />
+      <jump line="3" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/87acb0a2-838b-438d-83ca-eb00c5fede62/console.sql" />
+      <jump line="51" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/87acb0a2-838b-438d-83ca-eb00c5fede62/console.sql" />
+      <jump line="58" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/87acb0a2-838b-438d-83ca-eb00c5fede62/console.sql" />
+      <jump line="1" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/87acb0a2-838b-438d-83ca-eb00c5fede62/console.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0 comment</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGVhcl90YWcgdmFyY2hhcigzMCkgZGVmYXVsdCAnJyBjb21tZW50ICfnvornmoTogLPniYzlj7cnCg==</text>
       </register>
       <register name="-" type="4">
-        <text>0 comment</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsaXN0ZW5lcnNcPg==</text>
+        <text>default</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjaGFyW11bXSBib2FyZCA9IG5ldyBjaGFyW11bXSB7CiAgICAgICAgICAgICAgICB7JzUnLCczJywnLScsJy0nLCc3JywnLScsJy0nLCctJywnLSd9LAogICAgICAgICAgICAgICAgeyc2JywnLScsJy0nLCcxJywnOScsJzUnLCctJywnLScsJy0nfSwKICAgICAgICAgICAgICAgIHsnLScsJzknLCc4JywnLScsJy0nLCctJywnLScsJzYnLCctJ30sCiAgICAgICAgICAgICAgICB7JzgnLCctJywnLScsJy0nLCc2JywnLScsJy0nLCctJywnMyd9LAogICAgICAgICAgICAgICAgeyc0JywnLScsJy0nLCc4JywnLScsJzMnLCctJywnLScsJzEnfSwKICAgICAgICAgICAgICAgIHsnNycsJy0nLCctJywnLScsJzInLCctJywnLScsJy0nLCc2J30sCiAgICAgICAgICAgICAgICB7Jy0nLCc2JywnLScsJy0nLCctJywnLScsJzInLCc4JywnLSd9LAogICAgICAgICAgICAgICAgeyctJywnLScsJy0nLCc0JywnMScsJzknLCctJywnLScsJzUnfSwKICAgICAgICAgICAgICAgIHsnLScsJy0nLCctJywnLScsJzgnLCctJywnLScsJzcnLCc5J30KICAgICAgICB9Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGVhcl90YWcgdmFyY2hhcigzMCkgZGVmYXVsdCAnJyBjb21tZW50ICfnvornmoTogLPniYzlj7cnCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -821,16 +821,16 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlkIGJpZ2ludCBub3QgbnUK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y3JlYXRlIHRhYmxlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="y" type="4">
         <text>t</text>
@@ -840,9 +840,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsaXN0ZW5lcnNcPg==</last-search>
+      <last-search>default</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsaXN0ZW5lcnNcPg==</last-pattern>
+      <last-pattern>default</last-pattern>
       <last-replace>.</last-replace>
       <last-substitute>-</last-substitute>
       <last-dir>1</last-dir>
@@ -850,7 +850,6 @@
     </search>
     <history>
       <history-search>
-        <entry>array</entry>
         <entry>res</entry>
         <entry>compare</entry>
         <entry encoding="base64">XDzlm6DkuLpDb250cm9sbGVy5piv6buY6K6k5Y2V5L6L55qE77yM5aaC5p6c6L+Z5qC35L2/55So55qE6K+d5bCx5Lya5a+86Ie05aSa57q/56iL56ue5LqJ6ICM5L2/5pWw5o2u5LiN5LiA6Ie0XD4=</entry>
@@ -870,6 +869,7 @@
         <entry>#note</entry>
         <entry>#NOTE</entry>
         <entry encoding="base64">XDxsaXN0ZW5lcnNcPg==</entry>
+        <entry>default</entry>
       </history-search>
       <history-cmd>
         <entry>action Switcher</entry>
