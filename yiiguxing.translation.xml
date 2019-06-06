@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="价格" />
+      <item value="数量" />
       <item value="oral" />
       <item value="scratch" />
       <item value="malformed" />
@@ -16,7 +18,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="5" />
+        <entry key="ENGLISH" value="7" />
       </map>
     </option>
   </component>
