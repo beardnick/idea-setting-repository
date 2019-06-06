@@ -108,8 +108,8 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/resources/application.properties" timestamp="1558429601866">
-        <mark key="'" line="11" column="39" />
+      <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/resources/application.properties" timestamp="1559817157148">
+        <mark key="'" line="43" column="0" />
         <mark key="[" line="0" column="23" />
         <mark key="]" line="0" column="25" />
         <mark key="^" line="0" column="25" />
@@ -132,8 +132,8 @@
         <mark key="." line="39" column="6" />
         <mark key="^" line="39" column="6" />
       </file>
-      <file name="$USER_HOME$/study/git/spring-boot-2.0.0.RELEASE/spring-boot-project/spring-boot/src/main/java/org/springframework/boot/context/event/EventPublishingRunListener.java" timestamp="1559712503760">
-        <mark key="'" line="58" column="55" />
+      <file name="$USER_HOME$/study/git/spring-boot-2.0.0.RELEASE/spring-boot-project/spring-boot/src/main/java/org/springframework/boot/context/event/EventPublishingRunListener.java" timestamp="1559816007376">
+        <mark key="'" line="136" column="0" />
         <mark key="[" line="53" column="39" />
         <mark key="]" line="54" column="39" />
         <mark key="^" line="54" column="39" />
@@ -187,6 +187,13 @@
         <mark key="]" line="4" column="32" />
         <mark key="." line="4" column="32" />
         <mark key="^" line="4" column="32" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/request/UserRequest.java" timestamp="1559816366790">
+        <mark key="'" line="8" column="3" />
+        <mark key="[" line="101" column="1" />
+        <mark key="]" line="101" column="0" />
+        <mark key="^" line="101" column="0" />
+        <mark key="." line="101" column="0" />
       </file>
       <file name="$USER_HOME$/study/IdeaProjects/LeetCode/src/normal/LeetCode11.java" timestamp="1559457266197">
         <mark key="'" line="126" column="0" />
@@ -265,12 +272,6 @@
         <mark key="^" line="50" column="12" />
         <mark key="." line="50" column="12" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/5.0.4.RELEASE/spring-core-5.0.4.RELEASE-sources.jar!/org/springframework/core/io/support/SpringFactoriesLoader.java" timestamp="1559710960971">
-        <mark key="[" line="119" column="5" />
-        <mark key="]" line="119" column="4" />
-        <mark key="^" line="119" column="4" />
-        <mark key="." line="119" column="4" />
-      </file>
       <file name="$USER_HOME$/study/IdeaProjects/LeetCode/src/hard/LeetCode10.java" timestamp="1559097035960">
         <mark key="[" line="6" column="5" />
         <mark key="]" line="9" column="7" />
@@ -297,6 +298,12 @@
         <mark key="]" line="0" column="12" />
         <mark key="^" line="0" column="12" />
         <mark key="." line="0" column="12" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/5.0.4.RELEASE/spring-core-5.0.4.RELEASE-sources.jar!/org/springframework/core/io/support/SpringFactoriesLoader.java" timestamp="1559710960971">
+        <mark key="[" line="119" column="5" />
+        <mark key="]" line="119" column="4" />
+        <mark key="^" line="119" column="4" />
+        <mark key="." line="119" column="4" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/module/organic/SaleMapper.java" timestamp="1556974772766">
         <mark key="'" line="1" column="0" />
@@ -414,12 +421,11 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/87acb0a2-838b-438d-83ca-eb00c5fede62/console.sql" timestamp="1558429813102">
-        <mark key="'" line="21" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/87acb0a2-838b-438d-83ca-eb00c5fede62/console.sql" timestamp="1559816653715">
+        <mark key="'" line="3" column="0" />
         <mark key="[" line="35" column="1" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
-        <mark key="^" line="36" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/application/DeepApplication.java" timestamp="1556347445006">
         <mark key="'" line="9" column="38" />
@@ -455,7 +461,7 @@
         <mark key="." line="85" column="24" />
         <mark key="^" line="85" column="24" />
       </file>
-      <file name="/sys_role [dev]" timestamp="1559180159464">
+      <file name="/sys_role [dev]" timestamp="1559816030455">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/MyFile/downloads/Compressed/JDK-master/JDK1.8/src/java/util/AbstractList.java" timestamp="1557558551447">
@@ -685,18 +691,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/refpy/MahJong.py" />
-      <jump line="40" column="15" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/refpy/MahJong.py" />
-      <jump line="2" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/refpy/MahJong.py" />
-      <jump line="38" column="38" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/refpy/MahJong.py" />
-      <jump line="20" column="8" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/MaxPair.java" />
-      <jump line="25" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/MaxPair.java" />
-      <jump line="3" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/practice/MaxPair.java" />
-      <jump line="17" column="30" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/hard/SolveSudoKu.java" />
-      <jump line="45" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/hard/SolveSudoKu.java" />
-      <jump line="11" column="25" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/hard/SolveSudoKu.java" />
-      <jump line="5" column="17" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.txt" />
-      <jump line="63" column="8" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/hard/SolveSudoKu.java" />
       <jump line="42" column="20" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/hard/SolveSudoKu.java" />
       <jump line="106" column="0" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/hard/SolveSudoKu.java" />
       <jump line="83" column="18" filename="$USER_HOME$/study/IdeaProjects/LeetCode/src/hard/SolveSudoKu.java" />
@@ -785,10 +779,22 @@
       <jump line="140" column="47" filename="$USER_HOME$/source-code/spring-framework-5.0.0.RELEASE/spring-context/src/main/java/org/springframework/context/event/SimpleApplicationEventMulticaster.java" />
       <jump line="186" column="0" filename="$USER_HOME$/source-code/spring-framework-5.0.0.RELEASE/spring-context/src/main/java/org/springframework/context/event/SimpleApplicationEventMulticaster.java" />
       <jump line="29" column="0" filename="$USER_HOME$/source-code/spring-framework-5.0.0.RELEASE/spring-context/src/main/java/org/springframework/context/event/SimpleApplicationEventMulticaster.java" />
+      <jump line="54" column="39" filename="$USER_HOME$/study/git/spring-boot-2.0.0.RELEASE/spring-boot-project/spring-boot/src/main/java/org/springframework/boot/context/event/EventPublishingRunListener.java" />
+      <jump line="41" column="24" filename="$USER_HOME$/study/git/spring-boot-2.0.0.RELEASE/spring-boot-project/spring-boot/src/main/java/org/springframework/boot/context/event/EventPublishingRunListener.java" />
+      <jump line="136" column="0" filename="$USER_HOME$/study/git/spring-boot-2.0.0.RELEASE/spring-boot-project/spring-boot/src/main/java/org/springframework/boot/context/event/EventPublishingRunListener.java" />
+      <jump line="93" column="12" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/request/UserRequest.java" />
+      <jump line="10" column="4" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/request/UserRequest.java" />
+      <jump line="96" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/request/UserRequest.java" />
+      <jump line="8" column="3" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/request/UserRequest.java" />
+      <jump line="26" column="1" filename="$APPLICATION_CONFIG_DIR$/consoles/db/87acb0a2-838b-438d-83ca-eb00c5fede62/console.sql" />
+      <jump line="16" column="14" filename="$APPLICATION_CONFIG_DIR$/consoles/db/87acb0a2-838b-438d-83ca-eb00c5fede62/console.sql" />
+      <jump line="3" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/87acb0a2-838b-438d-83ca-eb00c5fede62/console.sql" />
+      <jump line="0" column="25" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/resources/application.properties" />
+      <jump line="43" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/resources/application.properties" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>n</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>n</text>
@@ -800,31 +806,31 @@
         <text encoding="base64">ICAgICAgICBjaGFyW11bXSBib2FyZCA9IG5ldyBjaGFyW11bXSB7CiAgICAgICAgICAgICAgICB7JzUnLCczJywnLScsJy0nLCc3JywnLScsJy0nLCctJywnLSd9LAogICAgICAgICAgICAgICAgeyc2JywnLScsJy0nLCcxJywnOScsJzUnLCctJywnLScsJy0nfSwKICAgICAgICAgICAgICAgIHsnLScsJzknLCc4JywnLScsJy0nLCctJywnLScsJzYnLCctJ30sCiAgICAgICAgICAgICAgICB7JzgnLCctJywnLScsJy0nLCc2JywnLScsJy0nLCctJywnMyd9LAogICAgICAgICAgICAgICAgeyc0JywnLScsJy0nLCc4JywnLScsJzMnLCctJywnLScsJzEnfSwKICAgICAgICAgICAgICAgIHsnNycsJy0nLCctJywnLScsJzInLCctJywnLScsJy0nLCc2J30sCiAgICAgICAgICAgICAgICB7Jy0nLCc2JywnLScsJy0nLCctJywnLScsJzInLCc4JywnLSd9LAogICAgICAgICAgICAgICAgeyctJywnLScsJy0nLCc0JywnMScsJzknLCctJywnLScsJzUnfSwKICAgICAgICAgICAgICAgIHsnLScsJy0nLCctJywnLScsJzgnLCctJywnLScsJzcnLCc5J30KICAgICAgICB9Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQkJCg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Y3JlYXRlIHRhYmxlIAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQkJCg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjaGFyW11bXSBib2FyZCA9IG5ldyBjaGFyW11bXSB7CiAgICAgICAgICAgICAgICB7JzUnLCczJywnLScsJy0nLCc3JywnLScsJy0nLCctJywnLSd9LAogICAgICAgICAgICAgICAgeyc2JywnLScsJy0nLCcxJywnOScsJzUnLCctJywnLScsJy0nfSwKICAgICAgICAgICAgICAgIHsnLScsJzknLCc4JywnLScsJy0nLCctJywnLScsJzYnLCctJ30sCiAgICAgICAgICAgICAgICB7JzgnLCctJywnLScsJy0nLCc2JywnLScsJy0nLCctJywnMyd9LAogICAgICAgICAgICAgICAgeyc0JywnLScsJy0nLCc4JywnLScsJzMnLCctJywnLScsJzEnfSwKICAgICAgICAgICAgICAgIHsnNycsJy0nLCctJywnLScsJzInLCctJywnLScsJy0nLCc2J30sCiAgICAgICAgICAgICAgICB7Jy0nLCc2JywnLScsJy0nLCctJywnLScsJzInLCc4JywnLSd9LAogICAgICAgICAgICAgICAgeyctJywnLScsJy0nLCc0JywnMScsJzknLCctJywnLScsJzUnfSwKICAgICAgICAgICAgICAgIHsnLScsJy0nLCctJywnLScsJzgnLCctJywnLScsJzcnLCc5J30KICAgICAgICB9Owo=</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjaGFyW11bXSBib2FyZCA9IG5ldyBjaGFyW11bXSB7CiAgICAgICAgICAgICAgICB7JzUnLCczJywnLScsJy0nLCc3JywnLScsJy0nLCctJywnLSd9LAogICAgICAgICAgICAgICAgeyc2JywnLScsJy0nLCcxJywnOScsJzUnLCctJywnLScsJy0nfSwKICAgICAgICAgICAgICAgIHsnLScsJzknLCc4JywnLScsJy0nLCctJywnLScsJzYnLCctJ30sCiAgICAgICAgICAgICAgICB7JzgnLCctJywnLScsJy0nLCc2JywnLScsJy0nLCctJywnMyd9LAogICAgICAgICAgICAgICAgeyc0JywnLScsJy0nLCc4JywnLScsJzMnLCctJywnLScsJzEnfSwKICAgICAgICAgICAgICAgIHsnNycsJy0nLCctJywnLScsJzInLCctJywnLScsJy0nLCc2J30sCiAgICAgICAgICAgICAgICB7Jy0nLCc2JywnLScsJy0nLCctJywnLScsJzInLCc4JywnLSd9LAogICAgICAgICAgICAgICAgeyctJywnLScsJy0nLCc0JywnMScsJzknLCctJywnLScsJzUnfSwKICAgICAgICAgICAgICAgIHsnLScsJy0nLCctJywnLScsJzgnLCctJywnLScsJzcnLCc5J30KICAgICAgICB9Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBjaGFyW11bXSB7CiAgICAgICAgICAgIHsnNScsJzMnLCctJywnLScsJzcnLCctJywnLScsJy0nLCctJ30sCiAgICAgICAgICAgIHsnNicsJy0nLCctJywnMScsJzknLCc1JywnLScsJy0nLCctJ30sCiAgICAgICAgICAgIHsnLScsJzknLCc4JywnLScsJy0nLCctJywnLScsJzYnLCctJ30sCiAgICAgICAgICAgIHsnOCcsJy0nLCctJywnLScsJzYnLCctJywnLScsJy0nLCczJ30sCiAgICAgICAgICAgIHsnNCcsJy0nLCctJywnOCcsJy0nLCczJywnLScsJy0nLCcxJ30sCiAgICAgICAgICAgIHsnNycsJy0nLCctJywnLScsJzInLCctJywnLScsJy0nLCc2J30sCiAgICAgICAgICAgIHsnLScsJzYnLCctJywnLScsJy0nLCctJywnMicsJzgnLCctJ30sCiAgICAgICAgICAgIHsnLScsJy0nLCctJywnNCcsJzEnLCc5JywnLScsJy0nLCc1J30sCiAgICAgICAgICAgIHsnLScsJy0nLCctJywnLScsJzgnLCctJywnLScsJzcnLCc5J30KICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBkaXNwbGF5KGNoYXJbXVtdIGJvYXJkKSB7CiAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCA5OyBpKyspIHsKICAgICAgICAgICAgZm9yIChpbnQgaiA9IDA7IGogPCA5OyBqKyspIHsKICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnQoYm9hcmRbaV1bal0gKyAiICIpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigpOwogICAgICAgIH0KICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBjaGFyW11bXSB7CiAgICAgICAgICAgIHsnNScsJzMnLCctJywnLScsJzcnLCctJywnLScsJy0nLCctJ30sCiAgICAgICAgICAgIHsnNicsJy0nLCctJywnMScsJzknLCc1JywnLScsJy0nLCctJ30sCiAgICAgICAgICAgIHsnLScsJzknLCc4JywnLScsJy0nLCctJywnLScsJzYnLCctJ30sCiAgICAgICAgICAgIHsnOCcsJy0nLCctJywnLScsJzYnLCctJywnLScsJy0nLCczJ30sCiAgICAgICAgICAgIHsnNCcsJy0nLCctJywnOCcsJy0nLCczJywnLScsJy0nLCcxJ30sCiAgICAgICAgICAgIHsnNycsJy0nLCctJywnLScsJzInLCctJywnLScsJy0nLCc2J30sCiAgICAgICAgICAgIHsnLScsJzYnLCctJywnLScsJy0nLCctJywnMicsJzgnLCctJ30sCiAgICAgICAgICAgIHsnLScsJy0nLCctJywnNCcsJzEnLCc5JywnLScsJy0nLCc1J30sCiAgICAgICAgICAgIHsnLScsJy0nLCctJywnLScsJzgnLCctJywnLScsJzcnLCc5J30KICAgICAgICB9Cg==</text>
       </register>
       <register name="y" type="4">
         <text>t</text>
