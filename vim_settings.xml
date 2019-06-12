@@ -115,6 +115,11 @@
         <mark key="^" line="2205" column="24" />
         <mark key="." line="2205" column="24" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/domain/service/module/sale/SaleOrderService.java" timestamp="1560311928746">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/resources/application.properties" timestamp="1559821861102">
         <mark key="'" line="9" column="19" />
       </file>
@@ -164,6 +169,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/module/sale/SaleOrderController.java" timestamp="1560311790419">
+        <mark key="[" line="8" column="16" />
+        <mark key="]" line="8" column="15" />
+        <mark key="^" line="8" column="15" />
+        <mark key="." line="8" column="15" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/domain/service/module/management/level/FactoryService.java" timestamp="1558011330086">
         <mark key="[" line="106" column="0" />
@@ -346,6 +357,13 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
         <mark key="o" line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/domain/service/module/organic/CustomerServiceImpl.java" timestamp="1560311890906">
+        <mark key="'" line="17" column="11" />
+        <mark key="[" line="17" column="12" />
+        <mark key="]" line="17" column="11" />
+        <mark key="^" line="17" column="11" />
+        <mark key="." line="17" column="11" />
       </file>
       <file name="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/util/Vector.class" timestamp="1556356982110">
         <mark key="'" line="317" column="30" />
@@ -648,6 +666,12 @@
         <mark key="^" line="64" column="74" />
         <mark key="." line="49" column="10" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/domain/service/module/sale/SaleOrderServiceImp.java" timestamp="1560311940540">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="5" column="25" />
+        <mark key="." line="5" column="25" />
+        <mark key="^" line="5" column="25" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/805e4069-8d91-4fce-a056-4ef1b61095fd/console.sql" timestamp="1557475306430">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="9" column="60" />
@@ -712,6 +736,12 @@
         <mark key="^" line="28" column="28" />
         <mark key="." line="28" column="28" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/domain/model/module/sale/SaleOrderModel.java" timestamp="1560311776767">
+        <mark key="[" line="2" column="25" />
+        <mark key="]" line="2" column="24" />
+        <mark key="^" line="2" column="24" />
+        <mark key="." line="2" column="24" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/BaseController.java" timestamp="1559128346385">
         <mark key="'" line="35" column="18" />
         <mark key="[" line="25" column="0" />
@@ -731,8 +761,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/domain/service/module/management/sheep/SalesRecordService.java" />
-      <jump line="4" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/87acb0a2-838b-438d-83ca-eb00c5fede62/console.sql" />
       <jump line="42" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/87acb0a2-838b-438d-83ca-eb00c5fede62/console.sql" />
       <jump line="50" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/87acb0a2-838b-438d-83ca-eb00c5fede62/console.sql" />
       <jump line="92" column="30" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/test/java/com/deep/CustomerTest.java" />
@@ -831,10 +859,12 @@
       <jump line="16" column="17" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/infra/persistence/sql/mapper/modules/organic/CustomerMapper.java" />
       <jump line="60" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/infra/persistence/sql/mapper/modules/organic/CustomerMapper.java" />
       <jump line="6" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/infra/persistence/sql/mapper/modules/sale/BreedToOtherSaleRecordMapper.java" />
+      <jump line="4" column="22" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/domain/service/module/sale/SaleOrderService.java" />
+      <jump line="17" column="11" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/domain/service/module/organic/CustomerServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIFRlc3RNb2RlbFx7XG5cfQo=</text>
+        <text encoding="base64">QFNlcnZpY2UoInNhbGVPcmRlclNlcnZpY2UiKQo=</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -857,37 +887,37 @@
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInRvcHM6IiArIHRvcHMpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIFRlc3RNb2RlbFx7XG5cfQo=</text>
+        <text encoding="base64">QFNlcnZpY2UoInNhbGVPcmRlclNlcnZpY2UiKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">QFNlcnZpY2UK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIFRlc3RNb2RlbFx7XG5cfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpIC09IDI7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChpID09IDApIHsKICAgICAgICAgICAgICAgICAgICBpID0gMTsKICAgICAgICAgICAgICAgIH0K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgbGVmdCA9IC0xOwogICAgICAgIGludCByaWdodCA9IC0xOwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpIC09IDI7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChpID09IDApIHsKICAgICAgICAgICAgICAgICAgICBpID0gMTsKICAgICAgICAgICAgICAgIH0K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbnQgc3VtID0gMDsKICAgICAgICAgICAgICAgICAgICBpbnQgbWluID0gTWF0aC5taW4oaGVpZ2h0W2xlZnRdLCBoZWlnaHRbcmlnaHRdKTsKICAgICAgICAgICAgICAgICAgICBmb3IgKGludCBqID0gbGVmdCArIDE7IGogPCByaWdodCA7IGorKykgewogICAgICAgICAgICAgICAgICAgICAgICBpZiAoaGVpZ2h0W2pdIDw9IG1pbikgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgc3VtICs9IGhlaWdodFtqXTsKICAgICAgICAgICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN1bSArPSBtaW47CiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgcmVzdWx0ICs9IChtaW4gKiAocmlnaHQgLSBsZWZ0IC0gMSkgLSBzdW0pOwo=</text>
+        <text encoding="base64">ICAgICAgICBpbnQgbGVmdCA9IC0xOwogICAgICAgIGludCByaWdodCA9IC0xOwo=</text>
       </register>
       <register name="y" type="4">
         <text>t</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5x</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -941,8 +971,8 @@
         <entry>action MethodUp</entry>
         <entry>action MethodDown</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz5x</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
