@@ -185,6 +185,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Settings...">
+        <Item>
+          <IdeaActionID>ShowSettings</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+S'</ShortCut>
+          <Description>Settings...</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Show Translation Dialog...">
         <Item>
           <IdeaActionID>$ShowTranslationDialogAction</IdeaActionID>
