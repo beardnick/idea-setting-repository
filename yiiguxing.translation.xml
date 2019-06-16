@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="canonical" />
       <item value="负责人" />
       <item value="价格" />
       <item value="数量" />
