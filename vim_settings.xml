@@ -23,8 +23,8 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/60f1d5d0-d37a-4042-b27d-9fc8c331471f/console.sql" timestamp="1560950790854">
-        <mark key="'" line="11" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/60f1d5d0-d37a-4042-b27d-9fc8c331471f/console.sql" timestamp="1560951970536">
+        <mark key="'" line="18" column="0" />
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
@@ -607,12 +607,12 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/87acb0a2-838b-438d-83ca-eb00c5fede62/console.sql" timestamp="1560306829822">
-        <mark key="'" line="55" column="0" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="^" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/87acb0a2-838b-438d-83ca-eb00c5fede62/console.sql" timestamp="1560952397269">
+        <mark key="'" line="62" column="16" />
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="^" line="73" column="0" />
+        <mark key="." line="73" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/application/DeepApplication.java" timestamp="1556347445006">
         <mark key="'" line="9" column="38" />
@@ -888,12 +888,12 @@
         <mark key="^" line="5" column="63" />
         <mark key="." line="5" column="63" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/resources/mapper/BreedToOtherSaleRecordMapper.xml" timestamp="1560335793919">
+      <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/resources/mapper/BreedToOtherSaleRecordMapper.xml" timestamp="1560951991857">
         <mark key="'" line="10" column="32" />
-        <mark key="[" line="23" column="16" />
-        <mark key="]" line="23" column="15" />
-        <mark key="." line="23" column="15" />
-        <mark key="^" line="23" column="15" />
+        <mark key="[" line="10" column="73" />
+        <mark key="]" line="10" column="72" />
+        <mark key="." line="10" column="72" />
+        <mark key="^" line="10" column="72" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/domain/model/module/sale/SaleOrderModel.java" timestamp="1560318065816">
         <mark key="'" line="3" column="0" />
@@ -932,14 +932,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="73" column="0" filename="$USER_HOME$/study/git/littlefarm/src/main/java/com/example/littlefarm/model/FarmingRecord.java" />
-      <jump line="17" column="6" filename="$USER_HOME$/study/git/littlefarm/src/main/java/com/example/littlefarm/model/User.java" />
-      <jump line="12" column="0" filename="$USER_HOME$/study/git/littlefarm/src/main/java/com/example/littlefarm/model/Vegetable.java" />
-      <jump line="37" column="4" filename="$USER_HOME$/study/git/littlefarm/src/main/java/com/example/littlefarm/model/Vegetable.java" />
-      <jump line="17" column="0" filename="$USER_HOME$/study/git/littlefarm/src/main/java/com/example/littlefarm/model/FarmingRecord.java" />
-      <jump line="4" column="2" filename="$USER_HOME$/study/git/littlefarm/src/main/java/com/example/littlefarm/model/FarmingRecord.java" />
-      <jump line="6" column="2" filename="$USER_HOME$/study/git/littlefarm/src/main/java/com/example/littlefarm/model/Land.java" />
-      <jump line="74" column="0" filename="$USER_HOME$/study/git/littlefarm/src/main/java/com/example/littlefarm/model/FarmingRecord.java" />
       <jump line="15" column="5" filename="$USER_HOME$/study/git/littlefarm/src/main/java/com/example/littlefarm/model/Vegetable.java" />
       <jump line="22" column="0" filename="$USER_HOME$/study/git/littlefarm/src/main/java/com/example/littlefarm/model/Vegetable.java" />
       <jump line="26" column="0" filename="$USER_HOME$/study/git/littlefarm/src/main/java/com/example/littlefarm/model/Land.java" />
@@ -1030,12 +1022,20 @@
       <jump line="1" column="0" filename="$USER_HOME$/study/git/littlefarm/src/main/java/com/example/littlefarm/controller/VegetableController.java" />
       <jump line="50" column="0" filename="$USER_HOME$/study/git/littlefarm/src/main/java/com/example/littlefarm/controller/VegetableController.java" />
       <jump line="12" column="20" filename="$APPLICATION_CONFIG_DIR$/consoles/db/60f1d5d0-d37a-4042-b27d-9fc8c331471f/console.sql" />
-      <jump line="5" column="36" filename="$APPLICATION_CONFIG_DIR$/consoles/db/60f1d5d0-d37a-4042-b27d-9fc8c331471f/console.sql" />
       <jump line="11" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/60f1d5d0-d37a-4042-b27d-9fc8c331471f/console.sql" />
+      <jump line="16" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/60f1d5d0-d37a-4042-b27d-9fc8c331471f/console.sql" />
+      <jump line="5" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/60f1d5d0-d37a-4042-b27d-9fc8c331471f/console.sql" />
+      <jump line="22" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/60f1d5d0-d37a-4042-b27d-9fc8c331471f/console.sql" />
+      <jump line="23" column="40" filename="$APPLICATION_CONFIG_DIR$/consoles/db/60f1d5d0-d37a-4042-b27d-9fc8c331471f/console.sql" />
+      <jump line="17" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/60f1d5d0-d37a-4042-b27d-9fc8c331471f/console.sql" />
+      <jump line="18" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/60f1d5d0-d37a-4042-b27d-9fc8c331471f/console.sql" />
+      <jump line="37" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/87acb0a2-838b-438d-83ca-eb00c5fede62/console.sql" />
+      <jump line="65" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/87acb0a2-838b-438d-83ca-eb00c5fede62/console.sql" />
+      <jump line="62" column="16" filename="$APPLICATION_CONFIG_DIR$/consoles/db/87acb0a2-838b-438d-83ca-eb00c5fede62/console.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y3JlYXRlIHRhYmxlIAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -1049,7 +1049,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjbGFzc1w+</text>
@@ -1058,31 +1058,31 @@
         <text encoding="base64">c2VsZWN0IHZlZ2V0YWJsZS5pZCwgdmVnZXRhYmxlLm5hbWUsIHZlZ2V0YWJsZS5zZWVkX3ZhbHVlLCB2ZWdldGFibGUucGljLCB2ZWdldGFibGUudmVnZXRhYmxlX3ZhbHVlCmZyb20gdmVnZXRhYmxlICwgbGFuZCwgdmVnZXRhYmxlX2xhbmRfcmVsYXRpb24Kd2hlcmUgdmVnZXRhYmxlX2xhbmRfcmVsYXRpb24udmVnZXRhYmxlX2lkID0gdmVnZXRhYmxlLmlkCmFuZCB2ZWdldGFibGVfbGFuZF9yZWxhdGlvbi5sYW5kX2lkID0gbGFuZC5pZDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y3JlYXRlIHRhYmxlIAo=</text>
+        <text encoding="base64">Y3JlYXRlIHRhYmxlIHByb2Nlc3Npbmdfc2hlZXBfaW5mb3JtYXRpb24oCiAgICBpZCBiaWdpbnQgUFJJTUFSWSBLRVkgIEFVVE9fSU5DUkVNRU5ULAojICAgICBmcm9tX2ZhY3RvcnkgYmlnaW50IG5vdCBudWxsIGNvbW1lbnQgJ+e+iuWPquWOn+adpeeahOWOguS/oeaBrycKICAgIGZhY3RvcnlfaWQgYmlnaW50IG5vdCBudWxsIGNvbW1lbnQgJ+WOgmlkJywKICAgIHRyYWRlX21hcmtfZWFyX3RhZyB2YXJjaGFyKDMwKSBkZWZhdWx0ICcnIGNvbW1lbnQgJ+WVhuagh+iAs+eJjCcsCiAgICBpbW11bmVfZWFyX3RhZyB2YXJjaGFyKDMwKSBkZWZhdWx0ICcnIGNvbW1lbnQgJ+WFjeeWq+iAs+eJjCcsCiAgICB3ZWlnaHQgaW50IGRlZmF1bHQgMCBjb21tZW50ICfnvorlj6rkvZPph43vvIzljZXkvY1rZycsCiAgICBidXlfdGltZSB0aW1lc3RhbXAgZGVmYXVsdCBDVVJSRU5UX1RJTUVTVEFNUCBjb21tZW50ICfotK3ov5vml7bpl7QnLAogICAgcGljIHZhcmNoYXIoMjU1KSBkZWZhdWx0ICcnIGNvbW1lbnQgJ+WbvueJh+inhumikeeahOmTvuaOpScsCiAgICBjZXJ0aWZpY2F0aW9uX2lkIGJpZ2ludCBkZWZhdWx0IDAgY29tbWVudCAn5ZCI5qC86K+BaWQnCilkZWZhdWx0IGNoYXJzZXQgPXV0ZjggY29tbWVudCAn5bGg5a6w5Y6C77yM5Yqg5bel5Y6C77yM57uI56uv5raI6LS55bqX55qE576K5Y+q5L+h5oGv6KGoJzsKCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZHJvcCB0YWJsZSBwcm9jZXNzaW5nX3NoZWVwX2luZm9ybWF0aW9uOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBMaXN0PFZlZ2V0YWJsZT4gZ2V0QWxsVmVnZXRhYmxlc0J5VXNlcklkKEBQYXRoVmFyaWFibGUoInVzZXJJZCIpIGxvbmcgdXNlcklkKSB7Cgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGlkCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2ZWdldGFibGVMYW5kUmVsYXRpb24K</text>
+        <text encoding="base64">Y3JlYXRlIHRhYmxlIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>t</text>
