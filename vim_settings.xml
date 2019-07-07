@@ -249,8 +249,8 @@
       <file name="/a.sql" timestamp="1562464743188">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/resources/mapper/SaleOrderMapper.xml" timestamp="1562488022951">
-        <mark key="'" line="62" column="4" />
+      <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/resources/mapper/SaleOrderMapper.xml" timestamp="1562504726765">
+        <mark key="'" line="3" column="0" />
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
@@ -786,7 +786,6 @@
       <jump line="4" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/resources/mapper/PicMapper.xml" />
       <jump line="205" column="3" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/resources/mapper/PicMapper.xml" />
       <jump line="29" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/resources/mapper/SaleOrderMapper.xml" />
-      <jump line="3" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/resources/mapper/SaleOrderMapper.xml" />
       <jump line="51" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/resources/mapper/SaleOrderMapper.xml" />
       <jump line="26" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/resources/mapper/SaleOrderMapper.xml" />
       <jump line="38" column="18" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/resources/mapper/SaleOrderMapper.xml" />
@@ -848,6 +847,7 @@
       <jump line="57" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/resources/mapper/BreedToOtherSaleRecordMapper.xml" />
       <jump line="55" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/resources/mapper/BreedToOtherSaleRecordMapper.xml" />
       <jump line="10" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/resources/mapper/BreedToOtherSaleRecordMapper.xml" />
+      <jump line="3" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/resources/mapper/SaleOrderMapper.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
