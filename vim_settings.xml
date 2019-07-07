@@ -103,6 +103,9 @@
         <mark key="^" line="3" column="48" />
         <mark key="." line="3" column="48" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/infra/persistence/sql/mapper/extend/PicMapper.java" timestamp="1562466762778">
+        <mark key="'" line="57" column="0" />
+      </file>
       <file name="$USER_HOME$/study/git/littlefarm/src/main/java/com/example/littlefarm/repository/UserRepository.java" timestamp="1560678140932">
         <mark key="[" line="7" column="26" />
         <mark key="]" line="7" column="26" />
@@ -192,8 +195,11 @@
         <mark key="^" line="31" column="77" />
         <mark key="." line="31" column="77" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/infra/persistence/sql/mapper/modules/sale/SaleOrderMapper.java" timestamp="1560331454133">
-        <mark key="'" line="10" column="6" />
+      <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/resources/mapper/PicMapper.xml" timestamp="1562466851662">
+        <mark key="'" line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/infra/persistence/sql/mapper/modules/sale/SaleOrderMapper.java" timestamp="1562466340317">
+        <mark key="'" line="11" column="0" />
         <mark key="[" line="7" column="7" />
         <mark key="]" line="7" column="6" />
         <mark key="." line="7" column="6" />
@@ -302,12 +308,12 @@
       <file name="/a.sql" timestamp="1562464743188">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/resources/mapper/SaleOrderMapper.xml" timestamp="1560331449211">
-        <mark key="'" line="23" column="3" />
-        <mark key="[" line="23" column="13" />
-        <mark key="]" line="24" column="3" />
-        <mark key="^" line="24" column="3" />
-        <mark key="." line="24" column="3" />
+      <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/resources/mapper/SaleOrderMapper.xml" timestamp="1562466564200">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="29" column="1" />
+        <mark key="]" line="29" column="1" />
+        <mark key="." line="29" column="1" />
+        <mark key="^" line="29" column="1" />
       </file>
       <file name="$USER_HOME$/study/git/littlefarm/src/main/java/com/example/littlefarm/controller/UserRepository.java" timestamp="1560674204427">
         <mark key="[" line="4" column="103" />
@@ -454,6 +460,12 @@
         <mark key="]" line="0" column="12" />
         <mark key="^" line="0" column="12" />
         <mark key="." line="0" column="12" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/domain/model/module/management/sheep/SalesRecordModel.java" timestamp="1562466324291">
+        <mark key="'" line="7" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/infra/persistence/sql/mapper/modules/sale/BreedToOtherSaleRecordMapper.java" timestamp="1560330093945">
         <mark key="'" line="12" column="37" />
@@ -730,6 +742,9 @@
         <mark key="^" line="23" column="26" />
         <mark key="." line="23" column="26" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/resources/mapper/SaledMapper.xml" timestamp="1562465540018">
+        <mark key="'" line="300" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/module/organic/SaleService.java" timestamp="1556974796563">
         <mark key="[" line="2" column="8" />
         <mark key="]" line="2" column="7" />
@@ -881,12 +896,12 @@
         <mark key="^" line="379" column="36" />
         <mark key="." line="379" column="36" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/module/organic/SaleController.java" timestamp="1556974906555">
+      <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/module/organic/SaleController.java" timestamp="1562466404890">
         <mark key="'" line="2" column="0" />
-        <mark key="[" line="9" column="3" />
-        <mark key="]" line="9" column="3" />
-        <mark key="^" line="9" column="3" />
-        <mark key="." line="9" column="3" />
+        <mark key="[" line="8" column="4" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="9" column="0" />
       </file>
       <file name="$USER_HOME$/study/IdeaProjects/ThinkingInJava/src/java8/TestLambda.java" timestamp="1558747218070">
         <mark key="'" line="10" column="0" />
@@ -915,12 +930,12 @@
         <mark key="." line="10" column="72" />
         <mark key="^" line="10" column="72" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/domain/model/module/sale/SaleOrderModel.java" timestamp="1560318065816">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="44" column="27" />
-        <mark key="]" line="44" column="28" />
-        <mark key="^" line="42" column="26" />
-        <mark key="." line="44" column="28" />
+      <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/domain/model/module/sale/SaleOrderModel.java" timestamp="1562466306948">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="10" column="1" />
+        <mark key="]" line="10" column="1" />
+        <mark key="." line="10" column="1" />
+        <mark key="^" line="10" column="2" />
       </file>
       <file name="$USER_HOME$/study/git/littlefarm/src/main/java/com/example/littlefarm/model/VegetableLandRelation.java" timestamp="1560744455016">
         <mark key="'" line="22" column="4" />
@@ -952,30 +967,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="6" filename="$USER_HOME$/study/git/littlefarm/src/main/java/com/example/littlefarm/model/User.java" />
-      <jump line="26" column="13" filename="$USER_HOME$/study/git/littlefarm/src/main/java/com/example/littlefarm/model/Vegetable.java" />
-      <jump line="27" column="37" filename="$USER_HOME$/study/git/littlefarm/src/main/java/com/example/littlefarm/controller/VegetableController.java" />
-      <jump line="38" column="6" filename="$USER_HOME$/study/git/littlefarm/src/main/java/com/example/littlefarm/model/Vegetable.java" />
-      <jump line="5" column="0" filename="$USER_HOME$/study/git/littlefarm/src/main/java/com/example/littlefarm/model/Vegetable.java" />
-      <jump line="44" column="0" filename="$USER_HOME$/study/git/littlefarm/src/main/java/com/example/littlefarm/model/Vegetable.java" />
-      <jump line="50" column="0" filename="$USER_HOME$/study/git/littlefarm/src/main/java/com/example/littlefarm/model/Vegetable.java" />
-      <jump line="3" column="0" filename="$USER_HOME$/study/git/littlefarm/src/main/java/com/example/littlefarm/model/Vegetable.java" />
-      <jump line="47" column="0" filename="$USER_HOME$/study/git/littlefarm/src/main/java/com/example/littlefarm/model/Vegetable.java" />
-      <jump line="17" column="7" filename="$USER_HOME$/study/git/littlefarm/src/main/java/com/example/littlefarm/model/Vegetable.java" />
-      <jump line="25" column="0" filename="$USER_HOME$/study/git/littlefarm/src/main/java/com/example/littlefarm/controller/VegetableController.java" />
-      <jump line="19" column="0" filename="$USER_HOME$/study/git/littlefarm/src/main/java/com/example/littlefarm/controller/VegetableController.java" />
-      <jump line="11" column="13" filename="$USER_HOME$/study/git/littlefarm/src/main/java/com/example/littlefarm/controller/VegetableController.java" />
-      <jump line="32" column="0" filename="$USER_HOME$/study/git/littlefarm/src/main/java/com/example/littlefarm/controller/VegetableController.java" />
-      <jump line="28" column="0" filename="$USER_HOME$/study/git/littlefarm/src/main/java/com/example/littlefarm/controller/VegetableController.java" />
-      <jump line="20" column="0" filename="$USER_HOME$/study/git/littlefarm/src/main/java/com/example/littlefarm/controller/VegetableController.java" />
-      <jump line="6" column="3" filename="$USER_HOME$/study/git/littlefarm/src/main/java/com/example/littlefarm/controller/UserController.java" />
-      <jump line="23" column="0" filename="$USER_HOME$/study/git/littlefarm/src/main/java/com/example/littlefarm/controller/UserController.java" />
-      <jump line="45" column="0" filename="$USER_HOME$/study/git/littlefarm/src/main/java/com/example/littlefarm/model/Land.java" />
-      <jump line="3" column="0" filename="$USER_HOME$/study/git/littlefarm/src/main/java/com/example/littlefarm/model/Land.java" />
-      <jump line="0" column="3" filename="$USER_HOME$/study/git/littlefarm/src/main/java/com/example/littlefarm/conf/StaticResourceConfig.java" />
-      <jump line="17" column="23" filename="$USER_HOME$/study/git/littlefarm/src/main/java/com/example/littlefarm/conf/StaticResourceConfig.java" />
-      <jump line="3" column="0" filename="$USER_HOME$/study/git/littlefarm/src/main/resources/application.properties" />
-      <jump line="7" column="19" filename="$USER_HOME$/study/git/littlefarm/src/main/java/com/example/littlefarm/conf/StaticResourceConfig.java" />
       <jump line="15" column="0" filename="$USER_HOME$/study/git/littlefarm/src/main/java/com/example/littlefarm/conf/StaticResourceConfig.java" />
       <jump line="14" column="18" filename="$USER_HOME$/study/git/littlefarm/src/main/java/com/example/littlefarm/conf/StaticResourceConfig.java" />
       <jump line="16" column="0" filename="$USER_HOME$/study/git/littlefarm/src/main/java/com/example/littlefarm/conf/StaticResourceConfig.java" />
@@ -1052,10 +1043,34 @@
       <jump line="781" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/extend/picture/PicController.java" />
       <jump line="48" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/extend/picture/PicController.java" />
       <jump line="69" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/extend/picture/PicController.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/resources/mapper/SaledMapper.xml" />
+      <jump line="300" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/resources/mapper/SaledMapper.xml" />
+      <jump line="9" column="13" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/domain/model/module/management/sheep/SalesRecordModel.java" />
+      <jump line="90" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/domain/model/module/management/sheep/SalesRecordModel.java" />
+      <jump line="65" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/domain/model/module/management/sheep/SalesRecordModel.java" />
+      <jump line="38" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/domain/model/module/management/sheep/SalesRecordModel.java" />
+      <jump line="77" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/domain/model/module/management/sheep/SalesRecordModel.java" />
+      <jump line="13" column="13" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/domain/model/module/sale/SaleOrderModel.java" />
+      <jump line="4" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/domain/model/module/management/sheep/SalesRecordModel.java" />
+      <jump line="92" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/domain/model/module/management/sheep/SalesRecordModel.java" />
+      <jump line="9" column="2" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/domain/model/module/sale/SaleOrderModel.java" />
+      <jump line="37" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/domain/model/module/sale/SaleOrderModel.java" />
+      <jump line="10" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/domain/model/module/sale/SaleOrderModel.java" />
+      <jump line="7" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/domain/model/module/management/sheep/SalesRecordModel.java" />
+      <jump line="11" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/infra/persistence/sql/mapper/modules/sale/SaleOrderMapper.java" />
+      <jump line="5" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/resources/mapper/SaleOrderMapper.xml" />
+      <jump line="30" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/resources/mapper/SaleOrderMapper.xml" />
+      <jump line="17" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/resources/mapper/SaleOrderMapper.xml" />
+      <jump line="11" column="17" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/infra/persistence/sql/mapper/extend/PicMapper.java" />
+      <jump line="57" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/infra/persistence/sql/mapper/extend/PicMapper.java" />
+      <jump line="428" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/resources/mapper/PicMapper.xml" />
+      <jump line="420" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/resources/mapper/PicMapper.xml" />
+      <jump line="155" column="3" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/resources/mapper/PicMapper.xml" />
+      <jump line="4" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/resources/mapper/PicMapper.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW5zZXJ0ICogaW50byB0YWJsZSAK</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -1069,60 +1084,59 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjbGFzc1w+</text>
+        <text>insert</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">c2VsZWN0IHZlZ2V0YWJsZS5pZCwgdmVnZXRhYmxlLm5hbWUsIHZlZ2V0YWJsZS5zZWVkX3ZhbHVlLCB2ZWdldGFibGUucGljLCB2ZWdldGFibGUudmVnZXRhYmxlX3ZhbHVlCmZyb20gdmVnZXRhYmxlICwgbGFuZCwgdmVnZXRhYmxlX2xhbmRfcmVsYXRpb24Kd2hlcmUgdmVnZXRhYmxlX2xhbmRfcmVsYXRpb24udmVnZXRhYmxlX2lkID0gdmVnZXRhYmxlLmlkCmFuZCB2ZWdldGFibGVfbGFuZF9yZWxhdGlvbi5sYW5kX2lkID0gbGFuZC5pZDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y3JlYXRlIHRhYmxlIHByb2Nlc3Npbmdfc2hlZXBfaW5mb3JtYXRpb24oCiAgICBpZCBiaWdpbnQgUFJJTUFSWSBLRVkgIEFVVE9fSU5DUkVNRU5ULAojICAgICBmcm9tX2ZhY3RvcnkgYmlnaW50IG5vdCBudWxsIGNvbW1lbnQgJ+e+iuWPquWOn+adpeeahOWOguS/oeaBrycKICAgIGZhY3RvcnlfaWQgYmlnaW50IG5vdCBudWxsIGNvbW1lbnQgJ+WOgmlkJywKICAgIHRyYWRlX21hcmtfZWFyX3RhZyB2YXJjaGFyKDMwKSBkZWZhdWx0ICcnIGNvbW1lbnQgJ+WVhuagh+iAs+eJjCcsCiAgICBpbW11bmVfZWFyX3RhZyB2YXJjaGFyKDMwKSBkZWZhdWx0ICcnIGNvbW1lbnQgJ+WFjeeWq+iAs+eJjCcsCiAgICB3ZWlnaHQgaW50IGRlZmF1bHQgMCBjb21tZW50ICfnvorlj6rkvZPph43vvIzljZXkvY1rZycsCiAgICBidXlfdGltZSB0aW1lc3RhbXAgZGVmYXVsdCBDVVJSRU5UX1RJTUVTVEFNUCBjb21tZW50ICfotK3ov5vml7bpl7QnLAogICAgcGljIHZhcmNoYXIoMjU1KSBkZWZhdWx0ICcnIGNvbW1lbnQgJ+WbvueJh+inhumikeeahOmTvuaOpScsCiAgICBjZXJ0aWZpY2F0aW9uX2lkIGJpZ2ludCBkZWZhdWx0IDAgY29tbWVudCAn5ZCI5qC86K+BaWQnCilkZWZhdWx0IGNoYXJzZXQgPXV0ZjggY29tbWVudCAn5bGg5a6w5Y6C77yM5Yqg5bel5Y6C77yM57uI56uv5raI6LS55bqX55qE576K5Y+q5L+h5oGv6KGoJzsKCg==</text>
+        <text encoding="base64">aW5zZXJ0ICogaW50byB0YWJsZSAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZHJvcCB0YWJsZSBwcm9jZXNzaW5nX3NoZWVwX2luZm9ybWF0aW9uOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">c2VsZQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">LyoKKiAqLwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y3JlYXRlIHRhYmxlIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y3JlYXRlIHRhYmxlIHByb2Nlc3Npbmdfc2hlZXBfaW5mb3JtYXRpb24oCiAgICBpZCBiaWdpbnQgUFJJTUFSWSBLRVkgIEFVVE9fSU5DUkVNRU5ULAojICAgICBmcm9tX2ZhY3RvcnkgYmlnaW50IG5vdCBudWxsIGNvbW1lbnQgJ+e+iuWPquWOn+adpeeahOWOguS/oeaBrycKICAgIGZhY3RvcnlfaWQgYmlnaW50IG5vdCBudWxsIGNvbW1lbnQgJ+WOgmlkJywKICAgIHRyYWRlX21hcmtfZWFyX3RhZyB2YXJjaGFyKDMwKSBkZWZhdWx0ICcnIGNvbW1lbnQgJ+WVhuagh+iAs+eJjCcsCiAgICBpbW11bmVfZWFyX3RhZyB2YXJjaGFyKDMwKSBkZWZhdWx0ICcnIGNvbW1lbnQgJ+WFjeeWq+iAs+eJjCcsCiAgICB3ZWlnaHQgaW50IGRlZmF1bHQgMCBjb21tZW50ICfnvorlj6rkvZPph43vvIzljZXkvY1rZycsCiAgICBidXlfdGltZSB0aW1lc3RhbXAgZGVmYXVsdCBDVVJSRU5UX1RJTUVTVEFNUCBjb21tZW50ICfotK3ov5vml7bpl7QnLAogICAgcGljIHZhcmNoYXIoMjU1KSBkZWZhdWx0ICcnIGNvbW1lbnQgJ+WbvueJh+inhumikeeahOmTvuaOpScsCiAgICBjZXJ0aWZpY2F0aW9uX2lkIGJpZ2ludCBkZWZhdWx0IDAgY29tbWVudCAn5ZCI5qC86K+BaWQnCilkZWZhdWx0IGNoYXJzZXQgPXV0ZjggY29tbWVudCAn5bGg5a6w5Y6C77yM5Yqg5bel5Y6C77yM57uI56uv5raI6LS55bqX55qE576K5Y+q5L+h5oGv6KGoJzsKCg==</text>
       </register>
       <register name="y" type="4">
         <text>t</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjbGFzc1w+</last-search>
+      <last-search>insert</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjbGFzc1w+</last-pattern>
+      <last-pattern>insert</last-pattern>
       <last-replace>.</last-replace>
       <last-substitute>-</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>deta</entry>
         <entry>address</entry>
         <entry>total</entry>
         <entry>5+1</entry>
@@ -1142,10 +1156,9 @@
         <entry encoding="base64">XDxwdWJsaWNcPg==</entry>
         <entry>valid</entry>
         <entry>left</entry>
+        <entry>insert</entry>
       </history-search>
       <history-cmd>
-        <entry>action Forward</entry>
-        <entry>action Reformat Code</entry>
         <entry>%s/LOCK/stack/g</entry>
         <entry>action Back</entry>
         <entry>action MethodUp</entry>
@@ -1164,6 +1177,8 @@
         <entry>w</entry>
         <entry encoding="base64">JzwsJz5zL2xlZnQvcmlnaHQvZw==</entry>
         <entry>q</entry>
+        <entry>wa</entry>
+        <entry>we</entry>
       </history-cmd>
       <history-expr />
       <history-input />
