@@ -171,12 +171,12 @@
       <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/resources/mapper/PicMapper.xml" timestamp="1562467667648">
         <mark key="'" line="205" column="3" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/infra/persistence/sql/mapper/modules/sale/SaleOrderMapper.java" timestamp="1562596242667">
+      <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/infra/persistence/sql/mapper/modules/sale/SaleOrderMapper.java" timestamp="1562599087230">
         <mark key="'" line="28" column="29" />
-        <mark key="[" line="32" column="29" />
-        <mark key="]" line="32" column="29" />
-        <mark key="." line="32" column="29" />
-        <mark key="^" line="32" column="29" />
+        <mark key="[" line="32" column="5" />
+        <mark key="]" line="32" column="5" />
+        <mark key="." line="32" column="9" />
+        <mark key="^" line="28" column="25" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/infra/persistence/sql/mapper/modules/sale/BreedToOtherSaleRecordMapper.xml" timestamp="1560330140670">
         <mark key="'" line="14" column="0" />
@@ -199,7 +199,7 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/module/sale/SaleOrderController.java" timestamp="1562597462057">
+      <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/module/sale/SaleOrderController.java" timestamp="1562599015293">
         <mark key="'" line="54" column="50" />
         <mark key="[" line="55" column="0" />
         <mark key="]" line="55" column="0" />
@@ -709,8 +709,8 @@
         <mark key="^" line="28" column="28" />
         <mark key="." line="28" column="28" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/domain/model/module/sale/SaleOrderModel.java" timestamp="1562597463199">
-        <mark key="'" line="17" column="13" />
+      <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/domain/model/module/sale/SaleOrderModel.java" timestamp="1562599007335">
+        <mark key="'" line="29" column="0" />
         <mark key="[" line="42" column="5" />
         <mark key="]" line="42" column="7" />
         <mark key="." line="42" column="7" />
@@ -752,7 +752,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="58" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/resources/mapper/SaleOrderMapper.xml" />
       <jump line="32" column="63" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/resources/mapper/SaleOrderMapper.xml" />
       <jump line="33" column="60" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/resources/mapper/SaleOrderMapper.xml" />
       <jump line="50" column="63" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/resources/mapper/SaleOrderMapper.xml" />
@@ -850,12 +849,13 @@
       <jump line="103" column="45" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/resources/mapper/SaleOrderMapper.xml" />
       <jump line="120" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/resources/mapper/SaleOrderMapper.xml" />
       <jump line="40" column="13" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/module/sale/SaleOrderController.java" />
-      <jump line="54" column="50" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/module/sale/SaleOrderController.java" />
       <jump line="17" column="13" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/domain/model/module/sale/SaleOrderModel.java" />
+      <jump line="29" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/domain/model/module/sale/SaleOrderModel.java" />
+      <jump line="54" column="50" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/resource/module/sale/SaleOrderController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>SheepInformationResponse</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -869,7 +869,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>k</text>
+        <text>SheepInformationResponse</text>
       </register>
       <register name="/" type="4">
         <text>prefix</text>
