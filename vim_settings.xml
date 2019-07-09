@@ -495,8 +495,12 @@
         <mark key="^" line="13" column="37" />
         <mark key="." line="13" column="37" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/domain/model/module/sale/BreedToOtherSaleRecordModel.java" timestamp="1562677047541">
-        <mark key="'" line="14" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/domain/model/module/sale/BreedToOtherSaleRecordModel.java" timestamp="1562681924678">
+        <mark key="'" line="31" column="10" />
+        <mark key="[" line="37" column="33" />
+        <mark key="]" line="35" column="11" />
+        <mark key="." line="35" column="11" />
+        <mark key="^" line="35" column="11" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/87acb0a2-838b-438d-83ca-eb00c5fede62/console.sql" timestamp="1560952397269">
         <mark key="'" line="62" column="16" />
@@ -640,12 +644,12 @@
         <mark key="^" line="64" column="74" />
         <mark key="." line="49" column="10" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/domain/service/module/sale/SaleOrderServiceImp.java" timestamp="1562680229131">
+      <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/domain/service/module/sale/SaleOrderServiceImp.java" timestamp="1562681206452">
         <mark key="'" line="8" column="81" />
         <mark key="[" line="89" column="13" />
-        <mark key="]" line="89" column="18" />
-        <mark key="." line="89" column="18" />
-        <mark key="^" line="89" column="18" />
+        <mark key="]" line="89" column="23" />
+        <mark key="." line="89" column="23" />
+        <mark key="^" line="89" column="23" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/805e4069-8d91-4fce-a056-4ef1b61095fd/console.sql" timestamp="1557475306430">
         <mark key="'" line="0" column="0" />
@@ -713,12 +717,12 @@
         <mark key="^" line="28" column="28" />
         <mark key="." line="28" column="28" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/resources/mapper/BreedToOtherSaleRecordMapper.xml" timestamp="1562677696344">
-        <mark key="'" line="43" column="1" />
-        <mark key="[" line="62" column="123" />
-        <mark key="]" line="62" column="57" />
-        <mark key="^" line="62" column="57" />
-        <mark key="." line="62" column="129" />
+      <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/resources/mapper/BreedToOtherSaleRecordMapper.xml" timestamp="1562681892586">
+        <mark key="'" line="7" column="41" />
+        <mark key="[" line="63" column="105" />
+        <mark key="]" line="63" column="105" />
+        <mark key="^" line="40" column="28" />
+        <mark key="." line="63" column="119" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/domain/model/module/sale/SaleOrderModel.java" timestamp="1562678225940">
         <mark key="'" line="43" column="0" />
@@ -767,21 +771,8 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="13" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/request/SaleOrderRequest.java" />
-      <jump line="50" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/request/SaleOrderRequest.java" />
-      <jump line="16" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/request/SaleOrderRequest.java" />
-      <jump line="46" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/request/SaleOrderRequest.java" />
-      <jump line="68" column="37" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/domain/service/module/sale/SaleOrderServiceImp.java" />
-      <jump line="70" column="38" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/domain/service/module/sale/SaleOrderServiceImp.java" />
-      <jump line="45" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/infra/persistence/sql/mapper/modules/sale/SaleOrderMapper.java" />
-      <jump line="21" column="69" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/domain/service/module/sale/SaleOrderServiceImp.java" />
-      <jump line="23" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/domain/service/module/sale/SaleOrderServiceImp.java" />
-      <jump line="9" column="34" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/domain/service/module/sale/SaleOrderServiceImp.java" />
-      <jump line="83" column="38" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/domain/service/module/sale/SaleOrderServiceImp.java" />
-      <jump line="5" column="91" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/resources/mapper/BreedToOtherSaleRecordMapper.xml" />
       <jump line="52" column="12" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/resources/mapper/BreedToOtherSaleRecordMapper.xml" />
       <jump line="39" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/domain/model/module/sale/BreedToOtherSaleRecordModel.java" />
-      <jump line="31" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/domain/model/module/sale/BreedToOtherSaleRecordModel.java" />
       <jump line="9" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/domain/model/module/sale/BreedToOtherSaleRecordModel.java" />
       <jump line="12" column="6" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/domain/model/module/sale/BreedToOtherSaleRecordModel.java" />
       <jump line="28" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/domain/model/module/sale/BreedToOtherSaleRecordModel.java" />
@@ -792,7 +783,6 @@
       <jump line="54" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/request/SaleOrderRequest.java" />
       <jump line="50" column="23" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/resources/mapper/BreedToOtherSaleRecordMapper.xml" />
       <jump line="3" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/resources/mapper/BreedToOtherSaleRecordMapper.xml" />
-      <jump line="59" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/resources/mapper/BreedToOtherSaleRecordMapper.xml" />
       <jump line="22" column="41" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/request/SaleOrderRequest.java" />
       <jump line="14" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/domain/model/module/sale/BreedToOtherSaleRecordModel.java" />
       <jump line="24" column="19" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/api/request/SaleOrderRequest.java" />
@@ -867,10 +857,24 @@
       <jump line="17" column="51" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/resources/mapper/SaleOrderMapper.xml" />
       <jump line="24" column="39" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/domain/service/module/sale/SaleOrderServiceImp.java" />
       <jump line="8" column="81" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/domain/service/module/sale/SaleOrderServiceImp.java" />
+      <jump line="60" column="21" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/resources/mapper/BreedToOtherSaleRecordMapper.xml" />
+      <jump line="25" column="22" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/domain/model/module/sale/BreedToOtherSaleRecordModel.java" />
+      <jump line="59" column="9" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/resources/mapper/BreedToOtherSaleRecordMapper.xml" />
+      <jump line="8" column="67" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/resources/mapper/BreedToOtherSaleRecordMapper.xml" />
+      <jump line="46" column="5" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/resources/mapper/BreedToOtherSaleRecordMapper.xml" />
+      <jump line="51" column="61" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/resources/mapper/BreedToOtherSaleRecordMapper.xml" />
+      <jump line="56" column="66" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/resources/mapper/BreedToOtherSaleRecordMapper.xml" />
+      <jump line="63" column="105" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/resources/mapper/BreedToOtherSaleRecordMapper.xml" />
+      <jump line="9" column="41" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/resources/mapper/BreedToOtherSaleRecordMapper.xml" />
+      <jump line="40" column="14" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/resources/mapper/BreedToOtherSaleRecordMapper.xml" />
+      <jump line="41" column="20" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/resources/mapper/BreedToOtherSaleRecordMapper.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/resources/mapper/BreedToOtherSaleRecordMapper.xml" />
+      <jump line="7" column="41" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/resources/mapper/BreedToOtherSaleRecordMapper.xml" />
+      <jump line="31" column="10" filename="$USER_HOME$/IdeaProjects/dongxiang-sheep/src/main/java/com/deep/domain/model/module/sale/BreedToOtherSaleRecordModel.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>tradeMarkEarTag</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -884,10 +888,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>tradeMarkEarTag</text>
       </register>
       <register name="/" type="4">
-        <text>model</text>
+        <text>tradeMarkEarTag</text>
       </register>
       <register name="0" type="4">
         <text>com.deep.domain.model.module.sale.SaleOrderModel</text>
@@ -923,23 +927,20 @@
         <text>t</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>%s/tradeMarkEarTag/tradeMarkEartag/g</text>
       </register>
     </registers>
     <search>
-      <last-search>model</last-search>
+      <last-search>tradeMarkEarTag</last-search>
       <last-offset />
-      <last-pattern>model</last-pattern>
-      <last-replace>INTEGER</last-replace>
-      <last-substitute>INT</last-substitute>
+      <last-pattern>tradeMarkEarTag</last-pattern>
+      <last-replace>tradeMarkEartag</last-replace>
+      <last-substitute>tradeMarkEarTag</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>\r</entry>
-        <entry>system</entry>
-        <entry encoding="base64">XDxwdWJsaWNcPg==</entry>
         <entry>valid</entry>
         <entry>left</entry>
         <entry>set</entry>
@@ -955,11 +956,13 @@
         <entry>return*d</entry>
         <entry>return</entry>
         <entry>returnId</entry>
-        <entry>insert</entry>
         <entry>model</entry>
+        <entry>eartag</entry>
+        <entry>insert</entry>
+        <entry>earTag</entry>
+        <entry>tradeMarkEarTag</entry>
       </history-search>
       <history-cmd>
-        <entry>s/&quot;//g</entry>
         <entry>action MethodDown</entry>
         <entry>action SearchEverywhere</entry>
         <entry encoding="base64">JzwsJz5zLy0vL2c=</entry>
@@ -979,6 +982,7 @@
         <entry encoding="base64">JzwsJz5ub3JtYWwgSQ==</entry>
         <entry>w</entry>
         <entry>wa</entry>
+        <entry>%s/tradeMarkEarTag/tradeMarkEartag/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
