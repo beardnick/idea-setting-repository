@@ -4,17 +4,10 @@
     <property name="created">2019-04-23T17:59:21</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2019-08-14T10:31:33</property>
+    <property name="modified">2019-08-14T10:50:34</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
-  <console-font>
-    <option name="EDITOR_FONT_NAME" value="Ubuntu Mono" />
-    <option name="EDITOR_FONT_SIZE" value="20" />
-  </console-font>
-  <console-font>
-    <option name="EDITOR_FONT_NAME" value="Space Mono" />
-    <option name="EDITOR_FONT_SIZE" value="20" />
-  </console-font>
+  <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <colors>
     <option name="FILESTATUS_ADDED" value="c3e88d" />
